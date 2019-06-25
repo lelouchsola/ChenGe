@@ -5,22 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
-
-
-
-------
-
 ### Books
 
 - Yi Ding, Yonghua Song, **Hongxun Hui** and Changzheng Shao. [Integration of Air Conditioning and Heating into Modern Power Systems](https://link.springer.com/book/10.1007%2F978-981-13-6420-4). Springer; 2019. (**All eight chapters**)
@@ -29,25 +13,9 @@ author_profile: true
 
 ------
 
-### Submitted Papers
-
-- **Hongxun Hui**, Qingxin Shi, Yi Ding and Saifur Rahman, “Inertia Support and Frequency Regulation of Virtual Synchronous Generator by Inverter Air Conditioners,” *IEEE Power Engineering Letters*.
-- **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Saifur Rahman and Yonghua Song, “Coupon-Based Demand Response for Consumers Facing the Flat-Rate Retail Pricing,” *IEEE Transactions on Sustainable Energy*.
-- **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “Modelling and Dynamic Performance Analysis of Inverter Air Conditioners for Frequency Regulation,” *IEEE Transactions on Smart Grid*.
-- Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Chengjin Ye, Zhenzhi Lin, Jiadong Cui and Peng Wang, “Utilization of Flexible Residential Loads for Voltage Control and Demand Response,” *IEEE Transactions on Sustainable Energy*.
-- Yi Ding, Dunjian Xie, **Hongxun Hui** and Yan Xu, “Game-Theoretic-Based Demand Side Management of Thermostatically Controlled Loads for Smoothing the Tie-line Power of Microgrid,” *IEEE Transactions on
-  Industrial Electronics*.
-- Xinran Zhuang, Chengjin Ye, Yi Ding and **Hongxun Hui**, “Data-driven Reserve Allocation with Frequency Security Constraint Considering Inverter Air Conditioners,” *IEEE Access*.
-- Xinran Zhuang, Yi Ding, Changzheng Shao and **Hongxun Hui**, “Reliability Evaluation of Interconnected Power Systems with VSC-HVDC Links Considering the Frequency Dynamics,” *IET Generation, Transmission & Distribution*.
-- Xingying Chen, Shuyang Xu, Jun Xie, Saifur Rahman, Jixiang Wang, **Hongxun Hui** and Tao Chen, “Agent-based Modelling and Simulation of Electricity Market with Residential Demand Response,” *IET Generation, Transmission & Distribution*.
-
-
-
-------
-
 ### Journal Publications
 
-- **Hongxun Hui**, Yi Ding, Zhenzhi Lin, Pierluigi Siano and Yonghua Song, “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” *IEEE Transactions on Power Systems*, Jun. 2019.
+- **Hongxun Hui**, Yi Ding, Zhenzhi Lin, Pierluigi Siano and Yonghua Song, “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” *IEEE Transactions on Power Systems*, Jun. 2019. [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_08743401.pdf)]
 - **Hongxun Hui**, Yi Ding, Yonghua Song and Saifur Rahman, “[Modeling and Control of Flexible Loads for Frequency Regulation Services Considering Compensation of Communication Latency and Detection Error](https://www.sciencedirect.com/science/article/pii/S0306261919308335),” *Applied Energy*, vol. 250, pp. 161-74, Sep. 2019.
 - **Hongxun Hui**, Yi Ding and Menglian Zheng, “[Equivalent Modeling of Inverter Air Conditioners for Providing Frequency Regulation Service](https://ieeexplore.ieee.org/abstract/document/8351974/)”, *IEEE Transactions on Industrial Electronics*, vol. 66, no. 2, pp. 1413-23, Feb. 2019.
 - **Hongxun Hui**, Yi Ding, Weidong Liu, You Lin and Yonghua Song, “[Operating Reserve Evaluation of Aggregated Air Conditioners](https://www.sciencedirect.com/science/article/pii/S0306261916317676)”, *Applied Energy*, vol. 196, pp. 218-228, Jun. 2017.
@@ -75,3 +43,20 @@ author_profile: true
 - Xinyao Qu, **Hongxun Hui**, Shengchun Yang, Yaping Li and Yi Ding, “[Price Elasticity Matrix of Demand in Power System Considering Demand Response Programs](https://iopscience.iop.org/article/10.1088/1755-1315/121/5/052081/meta)”, *International Conference on Energy Engineering and Environmental Protection*, Sanya, China, 2017.
 - Xinyao Qu, **Hongxun Hui**, Yi Ding and Kaining Luan, “[Optimal Control of Intelligent Electricity Consumption for Residential Customers Considering Demand Response](https://www.sciencedirect.com/science/article/pii/S1876610218300821)”, *Applied Energy Symposium and Forum*, Tianjin, China, 2017.
 - Wenqi Cui, Yi Ding, **Hongxun Hui**, Maozhen Li, “[Two-stage Payback Model for the Assessment of Curtailment Services Provided by Air Conditioners](https://www.sciencedirect.com/science/article/pii/S1876610217361593),” Energy Procedia, vol. 142, pp. 2050-6, Cardiff, UK, 2017.
+
+
+
+------
+
+### Submitted Papers
+
+- **Hongxun Hui**, Qingxin Shi, Yi Ding and Saifur Rahman, “Inertia Support and Frequency Regulation of Virtual Synchronous Generator by Inverter Air Conditioners,” *IEEE Power Engineering Letters*.
+- **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Saifur Rahman and Yonghua Song, “Coupon-Based Demand Response for Consumers Facing the Flat-Rate Retail Pricing,” *IEEE Transactions on Sustainable Energy*.
+- **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “Modelling and Dynamic Performance Analysis of Inverter Air Conditioners for Frequency Regulation,” *IEEE Transactions on Smart Grid*.
+- Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Chengjin Ye, Zhenzhi Lin, Jiadong Cui and Peng Wang, “Utilization of Flexible Residential Loads for Voltage Control and Demand Response,” *IEEE Transactions on Sustainable Energy*.
+- Yi Ding, Dunjian Xie, **Hongxun Hui** and Yan Xu, “Game-Theoretic-Based Demand Side Management of Thermostatically Controlled Loads for Smoothing the Tie-line Power of Microgrid,” *IEEE Transactions on
+  Industrial Electronics*.
+- Xinran Zhuang, Chengjin Ye, Yi Ding and **Hongxun Hui**, “Data-driven Reserve Allocation with Frequency Security Constraint Considering Inverter Air Conditioners,” *IEEE Access*.
+- Xinran Zhuang, Yi Ding, Changzheng Shao and **Hongxun Hui**, “Reliability Evaluation of Interconnected Power Systems with VSC-HVDC Links Considering the Frequency Dynamics,” *IET Generation, Transmission & Distribution*.
+- Xingying Chen, Shuyang Xu, Jun Xie, Saifur Rahman, Jixiang Wang, **Hongxun Hui** and Tao Chen, “Agent-based Modelling and Simulation of Electricity Market with Residential Demand Response,” *IET Generation, Transmission & Distribution*.
+
