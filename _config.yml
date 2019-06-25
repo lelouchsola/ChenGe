@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Hongxun Hui"
   avatar           : "profile.png"
-  bio              : "Welcome to my personal website! If you are interested in my research, please do not hesitate to contact with me.  NO.38 Zheda Road, Xihu District, Hangzhou, Zhejiang Province, CHINA."
-  location         : "Zhejiang University"
+  bio              : "Welcome to my personal website! If you are interested in my research, please do not hesitate to contact with me."
+  bio              : "NO.38 Zheda Road, Xihu District, Hangzhou, Zhejiang Province, CHINA."
+  location         : # "Zhejiang University"
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=m2L0mD4AAAAJ&hl=en"
-  email            :
+  email            : "huihongxun@zju.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Hongxun_Hui"
   uri              :
   bitbucket        :
