@@ -16,7 +16,7 @@ Here is my CV.
 
 News
 ======
-[2019-06-22] Our paper “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” is available under the "Early Access" area on IEEE Xplore, *IEEE Transactions on Power Systems. ![Editing a markdown file for a talk](/images/IAC-multi-area-transfun.png)
+- [2019-06-22] Our paper “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” is available under the "Early Access" area on IEEE Xplore, *IEEE Transactions on Power Systems. ![Editing a markdown file for a talk](/images/IAC-multi-area-transfun.png)
 
 
 
