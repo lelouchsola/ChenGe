@@ -3,20 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Talks" #无
     url: /talks/    
 
   - title: "Research" #此处两行改了，同时_config.yml文件的216行改了
-    url: /research/    
+    url: /teaching/    #无
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Education"
+    url: /portfolio/   #无
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /year-archive/  #无
     
-  - title: "CV"
+  - title: "CV" #有
     url: /cv/
     
-  - title: "Guide"
+  - title: "Guide"  #有
     url: /markdown/
