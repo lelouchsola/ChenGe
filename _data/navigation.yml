@@ -6,7 +6,7 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Research"
+  - title: "Research" #此处两行改了，同时_config.yml文件的216行改了
     url: /research/    
     
   - title: "Portfolio"
