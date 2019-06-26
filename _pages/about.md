@@ -12,11 +12,12 @@ I am currently a Ph.D. student at the [College of Electrical Engineering](http:/
 
 I am a member of [Smart Grid Operation and Optimization Laboratory (SGOOL)](http://sgool.cn/en/index.php). My research interests are the coordinated control and market mechanism of flexible loads considering high penetration of renewable energies, including the modeling and control method of flexible loads, the electricity market considering demand response, and the uncertainty analysis brought by flexible loads and renewable energies.
 
-Here is my CV.
+Here is my [CV](https://huihongxun.github.io/files/HongxunHui_CV20190625.pdf).
 
 News
 ======
-- [2019-06-22] Our paper “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” is available under the "Early Access" area on IEEE Xplore, *IEEE Transactions on Power Systems*. ![Editing a markdown file for a talk](/images/IAC-multi-area-transfun.png)
+- [2019-06-22] Our paper “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” is available under the "Early Access" area on IEEE Xplore, *IEEE Transactions on Power Systems*! ![Editing a markdown file for a talk](/images/IAC-multi-area-transfun.png)
+- [2019-04-29] Our paper "[Modeling and Control of Flexible Loads for Frequency Regulation Services Considering Compensation of Communication Latency and Detection Error](https://www.sciencedirect.com/science/article/pii/S0306261919308335)," was accepted by Applied Energy!  ![Editing a markdown file for a talk](/images/Applied_Energy_S0306261919308335.png)
 
 
 
