@@ -11,3 +11,9 @@
 
 4.education.md
 这个文件修改：教育经历 + 学术经历 + 荣誉奖项 + 社区贡献
+
+5.修改页尾用 _includes/footer.html 以及 _inclueds/footer/custom.html
+
+6.修改页头用 _data/navigation.yml
+
+7.最重要的文件是 _config.yml 可以设置整个网页
