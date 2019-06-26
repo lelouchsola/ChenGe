@@ -16,8 +16,9 @@ Here is my [CV](https://huihongxun.github.io/files/HongxunHui_CV20190625.pdf).
 
 News
 ======
-- [2019-06-22] Our paper “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” is available under the "Early Access" area on IEEE Xplore, *IEEE Transactions on Power Systems*! ![Editing a markdown file for a talk](/images/IAC-multi-area-transfun.png)
-- [2019-04-29] Our paper "[Modeling and Control of Flexible Loads for Frequency Regulation Services Considering Compensation of Communication Latency and Detection Error](https://www.sciencedirect.com/science/article/pii/S0306261919308335)," was accepted by Applied Energy!  ![Editing a markdown file for a talk](/images/Applied_Energy_S0306261919308335.png)
+- [2019-06-22] Our paper “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” is available under the "Early Access" area on *IEEE Transactions on Power Systems*! ![Editing a markdown file for a talk](/images/IEEE_Power_Systems_08743401.png)
+- [2019-04-29] Our paper "[Modeling and Control of Flexible Loads for Frequency Regulation Services Considering Compensation of Communication Latency and Detection Error](https://www.sciencedirect.com/science/article/pii/S0306261919308335)," was accepted by *Applied Energy*! (/images/Applied_Energy_S0306261919308335.png)
+- 
 
 
 
