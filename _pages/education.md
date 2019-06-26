@@ -46,21 +46,23 @@ author_profile: true
 
 # Honors & Rewards
 
+- First Batch of the Academic Rising Star Program, Zhejiang University, 2018.
 - Tang Lixin Scholarship, 2017.
 - Award of Honor for Graduate, 2017.
 - Graduate of Merit/Triple A graduate, 2016.
 - Award of Honor for Graduate, 2016.
 - Huayi Scholarship, 2016.
 - Outstanding Graduates of Zhejiang University Awarded on Undergraduate period, 2015.
+- Excellent Honor, Edison Class, College of Electrical Engineering, Zhejiang University, 2015
 - Bosch Scholarship, 2015.
 - Scholarship for Excellence in Research and Innovation, 2015.
 - Excellent Student Awards, 2014.
 - Outstanding Student Leader Awards, 2014.
-- Meritorious Winner in International Interdisciplinary Contest in Modeling (ICM), United States, 2014.
-- Third Price in the 7th Intelligent Car Competition of Zhejiang University, 2014.
-- The First Price in 7th University Student Science Contest on Energy Saving & Emission Reduction, 2014.
-- Fifth (5/149) in the 9th University Student Robot Contest, 2014.
-- Best Design Award in the 9th University Student Robot Contest, 2014.
+- Meritorious Winner, Interdisciplinary Contest in Modeling (ICM), Consortium for Mathematics and Its Application, 2014.
+- Third Price, 7th Intelligent Car Competition of Zhejiang University, 2014.
+- First Price, 7th University Student Science Contest on Energy Saving & Emission Reduction, 2014.
+- Fifth (5/149), 9th University Student Robot Contest, 2014.
+- Best Design Award, 9th University Student Robot Contest, 2014.
 - Excellent Student Awards, 2013.
 - First-Class Scholarship for Outstanding Merits, 2012.
 - First-Class Scholarship for Outstanding Students, 2012.
@@ -74,4 +76,4 @@ author_profile: true
 # Community Contribution
 
 - A Volunteer in [Affiliated Hospital of Zhejiang University School of Medicine](http://www.z2hospital.com/cms/gjzzzyz.aspx)
-- Member of [Future Entrepreneur Club](https://baike.baidu.com/item/未来企业家俱乐部/22222219), Zhejiang University
+- Member of [Future Entrepreneur Club, Zhejiang University](https://baike.baidu.com/item/未来企业家俱乐部/22222219)
