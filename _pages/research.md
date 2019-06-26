@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-### Research Experience
+## Research Experience
 
 **Modeling and Potential Analysis of Flexible Loads** *(Sep. 2015 – Jun. 2016, Nanjing, China)*
 
@@ -81,7 +81,7 @@ Supervisor: Prof. Yi Ding
 
 ------
 
-### Teaching
+## Teaching
 
 - Teaching Assistant, *Power System Operation and Control*, Zhejiang University, 2016.
 
@@ -89,7 +89,7 @@ Supervisor: Prof. Yi Ding
 
 ------
 
-### Professional Activities
+## Professional Activities
 
 - Vice President, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University
 - Reviewer of IEEE Transactions on Sustainable Energy (Since 2019)
