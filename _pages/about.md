@@ -22,6 +22,8 @@ Here is my [CV](https://huihongxun.github.io/files/HongxunHui_CV20190625.pdf).
 
 
 
+------
+
 News
 ======
 - [2019-06-16] Our paper “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” was accepted by *IEEE Transactions on Power Systems*! ![Editing a markdown file for a talk](/images/IEEE_Power_Systems_08743401.png)
