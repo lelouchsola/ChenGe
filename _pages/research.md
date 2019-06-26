@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /research/index.html
 title: "Research Experiences"
 author_profile: true
