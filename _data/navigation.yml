@@ -15,9 +15,14 @@ main:
   # - title: "Blog Posts"
   #  url: /year-archive/  #无
     
+  - title: "CV" #有
+    url: /cv/
     
-  - title: "Research and Teaching"  #有
+  - title: "Guide"  #有
     url: /markdown/
+<<<<<<< HEAD
     
   - title: "Education and Honors" #有
     url: /education/
+=======
+>>>>>>> parent of 4bafc3d... 注释无用量
