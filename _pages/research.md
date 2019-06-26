@@ -4,196 +4,95 @@ title: "Research"
 author_profile: true
 ---
 
-## Locations of key files/directories
+### Research Experience
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+**Modeling and Potential Analysis of Flexible Loads** *(Sep. 2015 – Jun. 2016, Nanjing, China)*
 
-## Tips and hints
+*Supported by China Electric Power Research Institute* (No. DZ71-15-004)
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+Position: Project director. 
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+Supervisor: Prof. Yi Ding
 
-## Markdown guide
+- Models of typical flexible loads are developed, including air conditionings, EVs and batteries. The response characteristics with real-time electricity prices are also analyzed.
+- A potential evaluation method and an uncertainty analysis method of flexible loads for participating in ancillary services are proposed.
+- A technical report, three journal papers and a conference paper have been published.
 
-### Header three
+ 
 
-#### Header four
+**Research and Application of Demand Response** *(Mar. 2016 – Nov. 2016, Nanjing, China)*
 
-##### Header five
+*Supported by State Grid Jiangsu Electric Power Co., Ltd* (No. KH20161699)
 
-###### Header six
+Position: Project director. 
 
-## Blockquotes
+Supervisor: Prof. Yi Ding
 
-Single line blockquote:
+- - Based on the existing electricity organization structure and market environment in China, a market mechanism and implementation plan of demand response are developed.
+  - A new spike price policy is implemented based on the original peak-valley price policy. According to the energy efficiency evaluation report in Jiangsu Province, the investments in power plants and transmission lines decrease around 16.78 billion RMB.
+  - A technical report and two journal papers have been published.
 
-> Quotes are cool.
+ 
 
-## Tables
+**Research on Peak-shaving Capacities of Flexible Loads Considering Renewable Energies** *(Jan. 2016 – Dec. 2017, Hangzhou, China)*
 
-### Table 1
+*Supported by State Grid Zhejiang Electric Power Co., Ltd* (No. 5211JY15001S)
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+Position: Project director. 
 
-### Table 2
+Supervisor: Prof. Yi Ding
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+- - Peak-shaving capacities of flexible loads are evaluated quantitatively. An operation mechanism model is also developed considering the uncertainty of flexible loads.
+  - The access abilities of renewable energies are studied before and after flexible loads participating in peak-shaving. The reliability and economy of the system are evaluated.
+  - Three technical reports, two journal papers, two conference papers and two patents are published or submitted.
 
-## Definition Lists
+ 
 
-Definition List Title
-:   Definition list division.
+**Market Mechanism Design for Demand Response** *(Jul. 2016 – Jun. 2020, Nanjing, China)*
 
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+*Supported by Ministry of Science and Technology of China* (No. 2016YFB0901103)
 
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+Position: Project director. 
 
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+Supervisor: Prof. Yi Ding
 
-## Unordered Lists (Nested)
+- - A business model and a market framework are designed for loads to participate in demand response project. The calculation of electricity prices, the transaction method and the settlement method are established.
+  - Around 110,000 residential customers, 1,000 large industrial customers and 730 commercial customers will be equipped with smart devices to provide demand response.
+  - The objectives are to reduce the load peak-valley difference by 5.8% and the energy consumption by 5.5% at the end year 2020, compared with the start year 2016.
+  - At present, five journal papers, four conference papers and three patents have been published or accepted.
 
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
+ 
 
-## Ordered List (Nested)
+**Reliability Analysis and Optimization of Smart Grid Considering the Coordinated Operation of Flexible Resources and Wind Power** 
 
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
+*(Jan. 2016 – Dec. 2019, Hangzhou, China)*
 
-## Buttons
+*Supported by National Natural Science Foundation of China* (No. 51577167)
 
-Make any link standout more when applying the `.btn` class.
+Position: Project participant. 
 
-## Notices
+Supervisor: Prof. Yi Ding
 
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
+- - The basic mechanism causing multiple uncertainties of different types of flexible resources is analyzed. The reliability models of these flexible resources are also established.
+  - A novel reliability evaluation method for power systems is developed considering the coupling effects between wind power and flexible resources.
+  - A multi-time scale dispatch model considering cooperation between wind power and flexible resources is developed.
 
-## HTML Tags
 
-### Address Tag
 
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
+------
 
-### Anchor Tag (aka. Link)
+### Teaching
 
-This is an example of a [link](http://github.com "Github").
+- Teaching Assistant, *Power System Operation and Control*, Zhejiang University, 2016.
 
-### Abbreviation Tag
+  
 
-The abbreviation CSS stands for "Cascading Style Sheets".
+------
 
-*[CSS]: Cascading Style Sheets
+### Professional Activities
 
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+- Vice President, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University
+- Reviewer of IEEE Transactions on Sustainable Energy (Since 2019)
+- Reviewer, Applied Energy (Since 2018)
+- Reviewer, Journal of Modern Power Systems and Clean Energy (Since 2018)
+- Reviewer, IEEE Transactions on Industrial Electronics (Since 2017)
