@@ -4,9 +4,7 @@ title: "Research Experiences"
 author_profile: true
 ---
 
-## Research Experiences
-
-- Modeling and Potential Analysis of Flexible Loads *(Sep. 2015 – Jun. 2016, Nanjing, China)*
+- **Modeling and Potential Analysis of Flexible Loads** *(Sep. 2015 – Jun. 2016, Nanjing, China)*
   - *Supported by China Electric Power Research Institute* (No. DZ71-15-004)
   - Position: Project director
   - Supervisor: Prof. Yi Ding
@@ -16,7 +14,7 @@ author_profile: true
 
 ---
 
-- Research and Application of Demand Response *(Mar. 2016 – Nov. 2016, Nanjing, China)*
+- **Research and Application of Demand Response** *(Mar. 2016 – Nov. 2016, Nanjing, China)*
   - *Supported by State Grid Jiangsu Electric Power Co., Ltd* (No. KH20161699)
   - Position: Project director
   - Supervisor: Prof. Yi Ding
@@ -26,7 +24,7 @@ author_profile: true
 
 ---
 
-- Research on Peak-shaving Capacities of Flexible Loads Considering Renewable Energies *(Jan. 2016 – Dec. 2017, Hangzhou, China)*
+- **Research on Peak-shaving Capacities of Flexible Loads Considering Renewable Energies** *(Jan. 2016 – Dec. 2017, Hangzhou, China)*
   - *Supported by State Grid Zhejiang Electric Power Co., Ltd* (No. 5211JY15001S)
   - Position: Project director
   - Supervisor: Prof. Yi Ding
@@ -36,7 +34,7 @@ author_profile: true
 
 ---
 
-- Market Mechanism Design for Demand Response *(Jul. 2016 – Jun. 2020, Nanjing, China)*
+- **Market Mechanism Design for Demand Response** *(Jul. 2016 – Jun. 2020, Nanjing, China)*
   - *Supported by Ministry of Science and Technology of China* (No. 2016YFB0901103)
   - Position: Project director
   - Supervisor: Prof. Yi Ding
@@ -47,7 +45,7 @@ author_profile: true
 
 ---
 
-- Reliability Analysis and Optimization of Smart Grid Considering the Coordinated Operation of Flexible Resources and Wind Power *(Jan. 2016 – Dec. 2019, Hangzhou, China)*
+- **Reliability Analysis and Optimization of Smart Grid Considering the Coordinated Operation of Flexible Resources and Wind Power** *(Jan. 2016 – Dec. 2019, Hangzhou, China)*
   - *Supported by National Natural Science Foundation of China* (No. 51577167)
   - Position: Project participant
   - Supervisor: Prof. Yi Ding
@@ -61,7 +59,7 @@ author_profile: true
 
 # Teaching
 
-- Teaching Assistant, *Power System Operation and Control*, Zhejiang University, 2016.
+- Teaching Assistant, *Power System Operation and Control*, College of Electrical Engineering, Zhejiang University, 2016.
 
   
 
