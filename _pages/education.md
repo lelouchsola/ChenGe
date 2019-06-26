@@ -1,10 +1,8 @@
 ---
 layout: archive
 title: "Education"
-permalink: /cv/
+permalink: /education/index.html
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
