@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /research/index.html
 title: "Research Experiences"
+permalink: /research/index.html
 author_profile: true
 ---
 

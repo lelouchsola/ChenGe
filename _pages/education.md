@@ -73,5 +73,5 @@ author_profile: true
 
 # Community Contribution
 
-- A Volunteer in Affiliated Hospital of Zhejiang University School of Medicine
-- A Lifetime Member in Future Entrepreneur Club, Zhejiang University
+- A Volunteer in [Affiliated Hospital of Zhejiang University School of Medicine](http://www.z2hospital.com/cms/gjzzzyz.aspx)
+- Member of [Future Entrepreneur Club](https://baike.baidu.com/item/未来企业家俱乐部/22222219), Zhejiang University
