@@ -48,6 +48,11 @@ author_profile: true
 
 ------
 
+
+
+```
+[^_^]:
+
 ### Submitted Papers
 
 - **Hongxun Hui**, Qingxin Shi, Yi Ding and Saifur Rahman, “Inertia Support and Frequency Regulation of Virtual Synchronous Generator by Inverter Air Conditioners,” *IEEE Power Engineering Letters*.
@@ -59,4 +64,8 @@ author_profile: true
 - Xinran Zhuang, Chengjin Ye, Yi Ding and **Hongxun Hui**, “Data-driven Reserve Allocation with Frequency Security Constraint Considering Inverter Air Conditioners,” *IEEE Access*.
 - Xinran Zhuang, Yi Ding, Changzheng Shao and **Hongxun Hui**, “Reliability Evaluation of Interconnected Power Systems with VSC-HVDC Links Considering the Frequency Dynamics,” *IET Generation, Transmission & Distribution*.
 - Xingying Chen, Shuyang Xu, Jun Xie, Saifur Rahman, Jixiang Wang, **Hongxun Hui** and Tao Chen, “Agent-based Modelling and Simulation of Electricity Market with Residential Demand Response,” *IET Generation, Transmission & Distribution*.
+
+```
+
+
 
