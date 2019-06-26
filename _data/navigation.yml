@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/  #无
     
   - title: "Research"  #有
-    url: /markdown/
+    url: /research/
     
   - title: "Education" #有
     url: /cv/

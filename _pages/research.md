@@ -1,10 +1,7 @@
 ---
-permalink: /research/
+permalink: /research/index.html
 title: "Research"
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 ## Locations of key files/directories
