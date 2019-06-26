@@ -5,7 +5,7 @@ permalink: /education/index.html
 author_profile: true
 ---
 
-**[Zhejiang University](http://www.zju.edu.cn/) (09/2015-06/2020)**  **Ph.D.**, [College of Electrical Engineering](http://ee.zju.edu.cn/index.php)  Academic Adviser: Prof. [Yi Ding](https://person.zju.edu.cn/en/110) and Prof. [Yonghua Song](https://rto.um.edu.mo/biography/)  Expertise: Modern Control Theory, Operation Analysis of Power System, Power Market.
+**[Zhejiang University](http://www.zju.edu.cn/) (09/2015-06/2020)**      **Ph.D.**, [College of Electrical Engineering](http://ee.zju.edu.cn/index.php)      Academic Adviser: Prof. [Yi Ding](https://person.zju.edu.cn/en/110) and Prof. [Yonghua Song](https://rto.um.edu.mo/biography/)      Expertise: Modern Control Theory, Operation Analysis of Power System, Power Market.
 
 **[Zhejiang University](http://www.zju.edu.cn/) (09/2011-06/2015)**
 
@@ -40,52 +40,33 @@ Expertise: Advanced Mathematics, Probability Theory, Control Theory, Programming
 
 
 
-Education
-======
+------
 
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+### Honors & Rewards
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Tang Lixin Scholarship, 2017.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Award of Honor for Graduate, 2017.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Graduate of Merit/Triple A graduate, 2016.
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+Award of Honor for Graduate, 2016.
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Huayi Scholarship, 2016.
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Outstanding Graduates of Zhejiang University Awarded on Undergraduate period, 2015.
+
+Bosch Scholarship, 2015.
+Scholarship for Excellence in Research and Innovation, 2015.
+Excellent Student Awards, 2014.
+Outstanding Student Leader Awards, 2014.
+Meritorious Winner in International Interdisciplinary Contest in Modeling (ICM), United States, 2014.
+Third Price in the 7th Intelligent Car Competition of Zhejiang University, 2014.
+The First Price in 7th University Student Science Contest on Energy Saving & Emission Reduction, 2014.
+Fifth (5/149) in the 9th University Student Robot Contest, 2014.
+Best Design Award in the 9th University Student Robot Contest, 2014.
+Excellent Student Awards, 2013.
+First-Class Scholarship for Outstanding Merits, 2012.
+First-Class Scholarship for Outstanding Students, 2012.
+Outstanding Student Leader Awards, 2012.
+Excellent Student Awards, 2012.
