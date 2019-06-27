@@ -1,11 +1,9 @@
 ---
+layout: archive
 permalink: /
 title: "Biography"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am currently a Ph.D. student at the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/), supervised by Prof. [Yi Ding](https://person.zju.edu.cn/en/110) and Prof. [Yonghua Song](https://rto.um.edu.mo/biography/). Previously, I received the B. Eng degree from the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/) in 2015, under the supervision of Prof. [Chuangxin Guo](https://person.zju.edu.cn/en/gordon).
