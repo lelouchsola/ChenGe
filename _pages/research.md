@@ -60,7 +60,7 @@ author_profile: true
 
 # Teaching
 
-- Teaching Assistant, *Power System Operation and Control*, College of Electrical Engineering, Zhejiang University, 2016.
+- Teaching Assistant, *Power System Operation and Control* (Instructor: Prof. Yi Ding and Prof. Pierluigi Siano), College of Electrical Engineering, Zhejiang University, 2016.
 
   
 
