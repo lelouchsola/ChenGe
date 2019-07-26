@@ -69,7 +69,5 @@ author_profile: true
 # Professional Activities
 
 - Vice President, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University
-- Reviewer of IEEE Transactions on Sustainable Energy (Since 2019)
-- Reviewer, Applied Energy (Since 2018)
-- Reviewer, Journal of Modern Power Systems and Clean Energy (Since 2018)
-- Reviewer, IEEE Transactions on Industrial Electronics (Since 2017)
+- Journal Reviewer of *IEEE Transactions on Sustainable Energy* (Since 2019), *Applied Energy* (Since 2018), *Journal of Modern Power Systems and Clean Energy* (Since 2018), *International Journal of Electrical Power & Energy Systems* (Since 2017), *IEEE Transactions on Industrial Electronics* (Since 2017)
+- Conference Reviewer of *IEEE PES General Meeting*, *International Conference on Applied Energy*, *IEEE Sustainable Power & Energy Conference*, *International Conference on Smart Energy Systems and Technologies*,  *IEEE International Conference on Environment and Electrical Engineering and IEEE Industrial and Commercial Power Systems Europe*
