@@ -18,7 +18,7 @@ Here is my [CV](https://huihongxun.github.io/files/HongxunHui_CV20190625.pdf).
 
 # Upcoming Events
 
-- I am going to attend the [IEEE PES General Meeting in Atlanta](https://pes-gm.org/2019/), GA USA, Aug. 4-8, 2019. 
+- I am going to attend the [IEEE PES General Meeting in Atlanta](https://pes-gm.org/2019/), GA USA, Aug. 4-8, 2019.
 
 
 
