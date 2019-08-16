@@ -222,7 +222,7 @@ defaults:
 # _research
  - scope:
      path: ""
-     type: research
+     type: presentations
    values:
      layout: single
      author_profile: true
