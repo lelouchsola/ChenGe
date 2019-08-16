@@ -12,7 +12,7 @@ I am a member of [Smart Grid Operation and Optimization Laboratory (SGOOL)](http
 
 My research interests include the coordinated control and market mechanism of flexible loads considering high penetration of renewable energies, including the modeling and control method of flexible loads, the electricity market considering demand response, and the uncertainty analysis brought by flexible loads and renewable energies.
 
-Here is my [CV](https://huihongxun.github.io/files/HongxunHui_CV20190807.pdf).
+Here is my [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20190807.pdf).
 
 ------
 
