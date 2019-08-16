@@ -58,16 +58,28 @@ author_profile: true
 
 ------
 
+# Invited Talks
+
+- [Modelling and Dynamic Performance Analysis of the Power System Under Unit Contingency Shutdown Accidents Considering Demand Response](https://huihongxun.github.io/files/Presentation/20190810_ICAE2019.pdf), *International Conference on Applied Energy*, Västerås, Sweden, Aug. 2019.
+- [Modeling and Analysis of Inverter Air Conditioners for Primary Frequency Control Considering Signal Delays and Detection Errors](https://huihongxun.github.io/files/Presentation/20180825_ICAE2018.pdf), *International Conference on Applied Energy*, Hong Kong, China, Aug. 2018.
+- [Demonstration of Friendly Interactive Grid Under the Background of Electricity Market Reform in China](https://huihongxun.github.io/files/Presentation/20170529_EEEIC17_Italy.pdf), *IEEE EEEIC17 and I&CPS Europe*, Milan, Italy, Jun. 2017.
+- [Electricity Distribution Pricing Mechanism in China](https://huihongxun.github.io/files/Presentation/20160717_IEEE_PES_Boston.pdf), *IEEE PES General Meeting*, Boston, USA, Jul. 2016.
+- [Quantitative Analysis of Air Conditioner Aggregation for Providing Operating Reserve](https://huihongxun.github.io/files/Presentation/20160611_CUE2016.pdf), *Low-carbon Cities & Urban Energy*, Jinan, China, Jun. 2016.
+
+
+
+------
+
 # Teaching
 
-- Teaching Fellow, *Power System Operation and Control* (Instructor: Prof. Yi Ding and Prof. Pierluigi Siano), College of Electrical Engineering, Zhejiang University, 2016.
+- **Teaching Fellow**, *Power System Operation and Control* (Instructor: Prof. Yi Ding and Prof. Pierluigi Siano), College of Electrical Engineering, Zhejiang University, 2016.
 
-  
+
 
 ------
 
 # Professional Activities
 
-- Vice President, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University
-- Journal Reviewer of *IEEE Transactions on Sustainable Energy* (Since 2019), *Applied Energy* (Since 2018), *Journal of Modern Power Systems and Clean Energy* (Since 2018), *International Journal of Electrical Power & Energy Systems* (Since 2017), *IEEE Transactions on Industrial Electronics* (Since 2017)
-- Conference Reviewer of *IEEE PES General Meeting*, *International Conference on Applied Energy*, *IEEE Sustainable Power & Energy Conference*, *International Conference on Smart Energy Systems and Technologies*,  *IEEE International Conference on Environment and Electrical Engineering and IEEE Industrial and Commercial Power Systems Europe*
+- **Vice President**, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University
+- **Journal Reviewer** of *IEEE Transactions on Sustainable Energy* (Since 2019), *Applied Energy* (Since 2018), *Journal of Modern Power Systems and Clean Energy* (Since 2018), *International Journal of Electrical Power & Energy Systems* (Since 2017), *IEEE Transactions on Industrial Electronics* (Since 2017)
+- **Conference Reviewer** of *IEEE PES General Meeting*, *International Conference on Applied Energy*, *IEEE Sustainable Power & Energy Conference*, *International Conference on Smart Energy Systems and Technologies*,  *IEEE International Conference on Environment and Electrical Engineering and IEEE Industrial and Commercial Power Systems Europe*
