@@ -51,7 +51,7 @@ author_profile: true
 
 ------
 
-### Conference Publications
+### Peer-Reviewed Conference Publications
 
 - **Hongxun Hui**, Yi Ding, Yonghua Song and Saifur Rahman, “Modelling and Dynamic Performance Analysis of the Power System Under Unit Contingency Shutdown Accidents Considering Demand Response,” *International Conference on Applied Energy*, Sweden, Aug. 2019. [[PDF](https://huihongxun.github.io/files/APEN_ICAE_Sweden_2019.pdf)]
 - **Hongxun Hui**, Yi Ding, Shihai Yang, “[Modeling and Analysis of Inverter Air Conditioners for Primary Frequency Control Considering Signal Delays and Detection Errors](https://www.sciencedirect.com/science/article/pii/S1876610219308811),” *Energy Procedia*, vol. 158, pp. 4003-10, Feb. 2019. [[PDF](https://huihongxun.github.io/files/APEN_ICAE_HongKong_2018.pdf)]
