@@ -35,6 +35,22 @@ author_profile: true
 
 ------
 
+### Submitted Journal Papers (under review)
+
+- **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Saifur Rahman and Yonghua Song, “Coupon-Based Demand Response for Consumers Facing the Flat-Rate Retail Pricing,” *IEEE Transactions on Smart Grid*.
+- **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners,” *IEEE Transactions on Power Systems*.
+- **Hongxun Hui**, Qingxin Shi, Yi Ding, Saifur Rahman, Fangxing Li and Yonghua Song, “Inertia Support and Frequency Regulation of Virtual Synchronous Generator by IACs,” *IEEE Transactions on Power Systems*.
+- **Hongxun Hui**, Yi Ding, Qingxin Shi, Fangxing Li, Yonghua Song and Jinyue Yan, “5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential,” *Applied Energy*.
+- Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Chengjin Ye, Zhenzhi Lin, Jiadong Cui and Peng Wang, “Utilization of Flexible Residential Loads for Voltage Control and Demand Response,” *IEEE Transactions on Sustainable Energy*.
+- Kang Xie, **Hongxun Hui**, Yi Ding, “Review of Modeling and Control Strategy of Thermostatically Controlled Loads for Virtual Energy Storage System,” *Protection and Control of Modern Power Systems*.
+- Yi Ding, Dunjian Xie, **Hongxun Hui** and Yan Xu, “Game-Theoretic-Based Demand Side Management of Thermostatically Controlled Loads for Smoothing the Tie-line Power of Microgrid,” *IEEE Transactions on Industrial Electronics*.
+- Xinran Zhuang, Yi Ding, Changzheng Shao and **Hongxun Hui**, “Reliability Evaluation of Interconnected Power Systems with VSC-HVDC Links Considering the Frequency Dynamics,” *IET Generation, Transmission & Distribution*.
+- Xingying Chen, Shuyang Xu, Jun Xie, Saifur Rahman, Jixiang Wang, **Hongxun Hui** and Tao Chen, “Agent-based Modelling and Simulation of Electricity Market with Residential Demand Response,” *IET Generation, Transmission & Distribution*.
+
+
+
+------
+
 ### Conference Publications
 
 - **Hongxun Hui**, Yi Ding, Yonghua Song and Saifur Rahman, “Modelling and Dynamic Performance Analysis of the Power System Under Unit Contingency Shutdown Accidents Considering Demand Response,” *International Conference on Applied Energy*, Sweden, Aug. 2019. [[PDF](https://huihongxun.github.io/files/APEN_ICAE_Sweden_2019.pdf)]
