@@ -7,7 +7,7 @@ author_profile: true
 
 ## Books
 
-- Yi Ding, Yonghua Song, **Hongxun Hui** and Changzheng Shao. [Integration of Air Conditioning and Heating into Modern Power Systems](https://link.springer.com/book/10.1007%2F978-981-13-6420-4). Springer; 2019. (**All eight chapters**) [[PDF](https://huihongxun.github.io/files/2019_Book_IntegrationOfAirConditioningAn.pdf)]
+- Yi Ding (supervisor), Yonghua Song (supervisor), **Hongxun Hui** and Changzheng Shao. [Integration of Air Conditioning and Heating into Modern Power Systems](https://link.springer.com/book/10.1007%2F978-981-13-6420-4). Springer; 2019. (**All eight chapters**) [[PDF](https://huihongxun.github.io/files/2019_Book_IntegrationOfAirConditioningAn.pdf)]
 
 
 
@@ -39,7 +39,7 @@ author_profile: true
 
 - **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Saifur Rahman and Yonghua Song, “Coupon-Based Demand Response for Consumers Facing the Flat-Rate Retail Pricing,” *IEEE Transactions on Smart Grid*.
 - **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners,” *IEEE Transactions on Power Systems*.
-- **Hongxun Hui**, Qingxin Shi, Yi Ding, Saifur Rahman, Fangxing Li and Yonghua Song, “Inertia Support and Frequency Regulation of Virtual Synchronous Generator by IACs,” *IEEE Transactions on Power Systems*.
+- **Hongxun Hui**, Qingxin Shi, Yi Ding, Saifur Rahman, Fangxing Li and Yonghua Song, “Inertia Support and Frequency Regulation of Virtual Synchronous Generator by IACs,” *IEEE Power Engineering Letters*.
 - **Hongxun Hui**, Yi Ding, Qingxin Shi, Fangxing Li, Yonghua Song and Jinyue Yan, “5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential,” *Applied Energy*.
 - Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Chengjin Ye, Zhenzhi Lin, Jiadong Cui and Peng Wang, “Utilization of Flexible Residential Loads for Voltage Control and Demand Response,” *IEEE Transactions on Sustainable Energy*.
 - Kang Xie, **Hongxun Hui**, Yi Ding, “Review of Modeling and Control Strategy of Thermostatically Controlled Loads for Virtual Energy Storage System,” *Protection and Control of Modern Power Systems*.
