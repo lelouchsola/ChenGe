@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Books
+## Books
 
 - Yi Ding, Yonghua Song, **Hongxun Hui** and Changzheng Shao. [Integration of Air Conditioning and Heating into Modern Power Systems](https://link.springer.com/book/10.1007%2F978-981-13-6420-4). Springer; 2019. (**All eight chapters**) [[PDF](https://huihongxun.github.io/files/2019_Book_IntegrationOfAirConditioningAn.pdf)]
 
@@ -13,7 +13,7 @@ author_profile: true
 
 ------
 
-### Journal Publications
+## Journal Publications
 
 - **Hongxun Hui**, Yi Ding, Zhenzhi Lin, Pierluigi Siano and Yonghua Song, “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” *IEEE Transactions on Power Systems*, Early Access, Jun. 2019. [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_08743401.pdf)]
 - **Hongxun Hui**, Yi Ding, Yonghua Song and Saifur Rahman, “[Modeling and Control of Flexible Loads for Frequency Regulation Services Considering Compensation of Communication Latency and Detection Error](https://www.sciencedirect.com/science/article/pii/S0306261919308335),” *Applied Energy*, vol. 250, pp. 161-74, Sep. 2019. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261919308335.pdf)]
@@ -35,7 +35,7 @@ author_profile: true
 
 ------
 
-### Submitted Journal Papers (Under Review)
+## Submitted Journal Papers (Under Review)
 
 - **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Saifur Rahman and Yonghua Song, “Coupon-Based Demand Response for Consumers Facing the Flat-Rate Retail Pricing,” *IEEE Transactions on Smart Grid*.
 - **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners,” *IEEE Transactions on Power Systems*.
@@ -51,7 +51,7 @@ author_profile: true
 
 ------
 
-### Peer-Reviewed Conference Publications
+## Peer-Reviewed Conference Publications
 
 - **Hongxun Hui**, Yi Ding, Yonghua Song and Saifur Rahman, “Modelling and Dynamic Performance Analysis of the Power System Under Unit Contingency Shutdown Accidents Considering Demand Response,” *International Conference on Applied Energy*, Sweden, Aug. 2019. [[PDF](https://huihongxun.github.io/files/APEN_ICAE_Sweden_2019.pdf)]
 - **Hongxun Hui**, Yi Ding, Shihai Yang, “[Modeling and Analysis of Inverter Air Conditioners for Primary Frequency Control Considering Signal Delays and Detection Errors](https://www.sciencedirect.com/science/article/pii/S1876610219308811),” *Energy Procedia*, vol. 158, pp. 4003-10, Feb. 2019. [[PDF](https://huihongxun.github.io/files/APEN_ICAE_HongKong_2018.pdf)]
