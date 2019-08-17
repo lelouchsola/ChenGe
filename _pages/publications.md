@@ -35,7 +35,7 @@ author_profile: true
 
 ------
 
-### Submitted Journal Papers (under review)
+### Submitted Journal Papers (Under Review)
 
 - **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Saifur Rahman and Yonghua Song, “Coupon-Based Demand Response for Consumers Facing the Flat-Rate Retail Pricing,” *IEEE Transactions on Smart Grid*.
 - **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners,” *IEEE Transactions on Power Systems*.
