@@ -1,14 +1,13 @@
 ---
 layout: archive
-title: "Research Experiences"
+title: "Projects"
 permalink: /research/index.html
 author_profile: true
 ---
 
 - **Modeling and Potential Analysis of Flexible Loads** *(Sep. 2015 – Jun. 2016, Nanjing, China)*
   - *Supported by China Electric Power Research Institute* (No. DZ71-15-004)
-  - Position: Project director
-  - Supervisor: Prof. Yi Ding
+  - Position: Project director.
     - Models of typical flexible loads are developed, including air conditionings, EVs and batteries. The response characteristics with real-time electricity prices are also analyzed.
     - A potential evaluation method and an uncertainty analysis method of flexible loads for participating in ancillary services are proposed.
     - A technical report, three journal papers and a conference paper have been published.
@@ -18,7 +17,6 @@ author_profile: true
 - **Research and Application of Demand Response** *(Mar. 2016 – Nov. 2016, Nanjing, China)*
   - *Supported by State Grid Jiangsu Electric Power Co., Ltd* (No. KH20161699)
   - Position: Project director
-  - Supervisor: Prof. Yi Ding
     - Based on the existing electricity organization structure and market environment in China, a market mechanism and implementation plan of demand response are developed.
     - A new spike price policy is implemented based on the original peak-valley price policy. According to the energy efficiency evaluation report in Jiangsu Province, the investments in power plants and transmission lines decrease around 16.78 billion RMB.
     - A technical report and two journal papers have been published.
@@ -28,7 +26,6 @@ author_profile: true
 - **Research on Peak-shaving Capacities of Flexible Loads Considering Renewable Energies** *(Jan. 2016 – Dec. 2017, Hangzhou, China)*
   - *Supported by State Grid Zhejiang Electric Power Co., Ltd* (No. 5211JY15001S)
   - Position: Project director
-  - Supervisor: Prof. Yi Ding
     - Peak-shaving capacities of flexible loads are evaluated quantitatively. An operation mechanism model is also developed considering the uncertainty of flexible loads.
     - The access abilities of renewable energies are studied before and after flexible loads participating in peak-shaving. The reliability and economy of the system are evaluated.
     - Three technical reports, two journal papers, two conference papers and two patents are published or submitted.
@@ -38,7 +35,6 @@ author_profile: true
 - **Market Mechanism Design for Demand Response** *(Jul. 2016 – Jun. 2020, Nanjing, China)*
   - *Supported by Ministry of Science and Technology of China* (No. 2016YFB0901103)
   - Position: Project director
-  - Supervisor: Prof. Yi Ding
     - A business model and a market framework are designed for loads to participate in demand response project. The calculation of electricity prices, the transaction method and the settlement method are established.
     - Around 110,000 residential customers, 1,000 large industrial customers and 730 commercial customers will be equipped with smart devices to provide demand response.
     - The objectives are to reduce the load peak-valley difference by 5.8% and the energy consumption by 5.5% at the end year 2020, compared with the start year 2016.
@@ -49,7 +45,6 @@ author_profile: true
 - **Reliability Analysis and Optimization of Smart Grid Considering the Coordinated Operation of Flexible Resources and Wind Power** *(Jan. 2016 – Dec. 2019, Hangzhou, China)*
   - *Supported by National Natural Science Foundation of China* (No. 51577167)
   - Position: Project participant
-  - Supervisor: Prof. Yi Ding
     - The basic mechanism causing multiple uncertainties of different types of flexible resources is analyzed. The reliability models of these flexible resources are also established.
     - A novel reliability evaluation method for power systems is developed considering the coupling effects between wind power and flexible resources.
     - A multi-time scale dispatch model considering cooperation between wind power and flexible resources is developed.
@@ -58,7 +53,7 @@ author_profile: true
 
 ------
 
-# Invited Talks
+# Presentations and Invited Talks
 
 - [Modelling and Dynamic Performance Analysis of the Power System Under Unit Contingency Shutdown Accidents Considering Demand Response](https://huihongxun.github.io/files/Presentation/20190810_ICAE2019.pdf), *International Conference on Applied Energy*, Västerås, Sweden, Aug. 2019.
 - [Modeling and Analysis of Inverter Air Conditioners for Primary Frequency Control Considering Signal Delays and Detection Errors](https://huihongxun.github.io/files/Presentation/20180825_ICAE2018.pdf), *International Conference on Applied Energy*, Hong Kong, China, Aug. 2018.
