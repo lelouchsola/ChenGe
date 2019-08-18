@@ -44,33 +44,45 @@ author_profile: true
 
 ------
 
+# Teaching
+
+- **Teaching Fellow**, *Power System Operation and Control* (Instructor: Prof. Yi Ding and Prof. Pierluigi Siano), College of Electrical Engineering, Zhejiang University, 2016.
+
+
+
+------
+
 # Honors & Rewards
 
 ## Academic Honors 
 
-- First Batch of the Academic Rising Star Program, Zhejiang University, 2018.
-- 
-- Tang Lixin Scholarship, 2017.
-- Award of Honor for Graduate, 2017.
-- Graduate of Merit/Triple A graduate, 2016.
-- Award of Honor for Graduate, 2016.
-- Huayi Scholarship, 2016.
-- Outstanding Graduates of Zhejiang University Awarded on Undergraduate period, 2015.
-- Excellent Honor, Edison Class, College of Electrical Engineering, Zhejiang University, 2015
-- Bosch Scholarship, 2015.
+### **Academic Honors:**
+
+- First Batch of the Academic Rising Star Program, Zhejiang University, 2018. (Three winners among 180 Ph.D. students in College of Electrical Engineering, Zhejiang University)
+- Excellent Honor in Edison Class, Zhejiang University, 2015.
 - Scholarship for Excellence in Research and Innovation, 2015.
-- Excellent Student Awards, 2014.
-- Outstanding Student Leader Awards, 2014.
 - Meritorious Winner, Interdisciplinary Contest in Modeling (ICM), Consortium for Mathematics and Its Application, 2014.
-- Third Price, 7th Intelligent Car Competition of Zhejiang University, 2014.
 - First Price, 7th University Student Science Contest on Energy Saving & Emission Reduction, 2014.
 - Fifth (5/149), 9th University Student Robot Contest (My Super Personal Shopper), 2014.
 - Best Design Award, 9th University Student Robot Contest (My Super Personal Shopper), 2014.
-- Excellent Student Awards, 2013.
+- Third Price, 7th Intelligent Car Competition of Zhejiang University, 2014.
+
+### **Study Achievements:**
+
+- Tang Lixin Scholarship, 2017.
+- Award of Honor for Graduate, 2017, 2016.
+- Huayi Scholarship, 2016.
+- Outstanding Graduates of Zhejiang University, 2015.
+- Bosch Scholarship, 2015.
+- Excellent Student Awards, 2014.
 - First-Class Scholarship for Outstanding Merits, 2012.
 - First-Class Scholarship for Outstanding Students, 2012.
-- Outstanding Student Leader Awards, 2012.
-- Excellent Student Awards, 2012.
+
+### **Leadership, Cooperation and Morality:**
+
+- Graduate of Merit/Triple A graduate, 2016.
+- Outstanding Student Leader Awards, 2014, 2012.
+- Excellent Student Awards, 2013, 2012.
 
 
 
