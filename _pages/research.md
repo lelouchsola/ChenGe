@@ -70,28 +70,19 @@ author_profile: true
 
 ------
 
-# Presentations and Invited Talks
+## Issued Chinese Invention Patents
 
-- [Modelling and Dynamic Performance Analysis of the Power System Under Unit Contingency Shutdown Accidents Considering Demand Response](https://huihongxun.github.io/files/Presentation/20190810_ICAE2019.pdf), *International Conference on Applied Energy*, Västerås, Sweden, Aug. 2019.
-- [Modeling and Analysis of Inverter Air Conditioners for Primary Frequency Control Considering Signal Delays and Detection Errors](https://huihongxun.github.io/files/Presentation/20180825_ICAE2018.pdf), *International Conference on Applied Energy*, Hong Kong, China, Aug. 2018.
-- [Demonstration of Friendly Interactive Grid Under the Background of Electricity Market Reform in China](https://huihongxun.github.io/files/Presentation/20170529_EEEIC17_Italy.pdf), *IEEE EEEIC17 and I&CPS Europe*, Milan, Italy, Jun. 2017.
-- [Electricity Distribution Pricing Mechanism in China](https://huihongxun.github.io/files/Presentation/20160717_IEEE_PES_Boston.pdf), *IEEE PES General Meeting*, Boston, USA, Jul. 2016.
-- [Quantitative Analysis of Air Conditioner Aggregation for Providing Operating Reserve](https://huihongxun.github.io/files/Presentation/20160611_CUE2016.pdf), *Low-carbon Cities & Urban Energy*, Jinan, China, Jun. 2016.
-
-
-
-------
-
-# Teaching
-
-- **Teaching Fellow**, *Power System Operation and Control* (Instructor: Prof. Yi Ding and Prof. Pierluigi Siano), College of Electrical Engineering, Zhejiang University, 2016.
+- Yi Ding, **Hongxun Hui** and Yonghua Song, “An Intelligent Meter with Multi-time Scale Electricity Prices,” No. CN201610543375.1, May 2019. [[Certificate](https://huihongxun.github.io/files/Patents/一种具有多时间尺度电价信息的智能电表.jpg)]
+- **Hongxun Hui**, Yi Ding, Weidong Liu, Lijun Zhang, Yikai Sun and Chenbo Xu, “A Calculation Method of Aggregated Air Conditioners for Providing Regulation Services for Power Systems,” No. CN201610821647.X, Dec. 2018. [[Certificate](https://huihongxun.github.io/files/Patents/一种空调聚合提供电力系统运行备用响应量的计算方法.jpg)]
+- **Hongxun Hui** and Chuangxin Guo, “A Self-powered Pinch Meter Based on Micro-generator and SCM,” No. CN201410009920.X, Jul. 2016. [[Certificate](https://huihongxun.github.io/files/Patents/一种基于微型发电机和单片机的自供电握力器.jpg)]
+- **Hongxun Hui** and Chuangxin Guo, “A Dismantling Equipment for Electronic Devices Based on SCM,” No. CN201410010721.0, May 2016. [[Certificate](https://huihongxun.github.io/files/Patents/一种基于单片机的电子器件拆卸设备.jpg)]
+- **Hongxun Hui**, Yibai Lu, Lequan Yu, Litong Lv and Hui Sun, “An Electrocardiogram Detection Device Based on Bluetooth Communication,” No. CN201410094326.5, Mar. 2016. [[Certificate](https://huihongxun.github.io/files/Patents/一种基于蓝牙通信的心电图检测设备.jpg)]
+- Litong Lv, Bo Jin, Xiaotong Xu and **Hongxun Hui**, “A Hydraulic Mechanical Leg Based on Leg-Wheel Hybrid,” No. CN201410215251.1, Jan. 2016. [[Certificate](https://huihongxun.github.io/files/Patents/一种腿轮混合式液压机械退.jpg)]
 
 
 
 ------
 
-# Professional Activities
+## Software Copyrights
 
-- **Vice President**, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University
-- **Journal Reviewer** of *IEEE Transactions on Sustainable Energy* (Since 2019), *Applied Energy* (Since 2018), *Journal of Modern Power Systems and Clean Energy* (Since 2018), *International Journal of Electrical Power & Energy Systems* (Since 2017), *IEEE Transactions on Industrial Electronics* (Since 2017)
-- **Conference Reviewer** of *IEEE PES General Meeting*, *International Conference on Applied Energy*, *IEEE Sustainable Power & Energy Conference*, *International Conference on Smart Energy Systems and Technologies*,  *IEEE International Conference on Environment and Electrical Engineering and IEEE Industrial and Commercial Power Systems Europe*
+- **Hongxun Hui**, Yi Ding and Wenqi Cui, “Coupon Computing and Settlement Software for Friendly Interactive Smart Grid Demonstration Project,” No. 2018SR449433, May 2018. [[Certificate](https://huihongxun.github.io/files/Patents/软著授权书+2018SR449433.jpg)]
