@@ -8,7 +8,7 @@ author_profile: true
 ### [Zhejiang University](http://www.zju.edu.cn/) (09/2015-06/2020) 
 
 - **Ph.D.**, [College of Electrical Engineering](http://ee.zju.edu.cn/index.php)  
-- Academic Adviser: Prof. [Yi Ding](https://person.zju.edu.cn/en/110) and Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) 
+- Academic Adviser: Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) and Prof. [Yi Ding](https://person.zju.edu.cn/en/110)
 - Expertise: Modern Control Theory, Operation Analysis of Power System, Power Market.
 
 ### [Zhejiang University](http://www.zju.edu.cn/) (09/2011-06/2015)
@@ -48,8 +48,6 @@ author_profile: true
 ------
 
 # Honors & Rewards
-
-## Academic Honors 
 
 ### **Academic Honors:**
 
