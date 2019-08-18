@@ -7,7 +7,8 @@ author_profile: true
 
 
 
-- **Friendly Interactive Smart Grid Between Supply- and Demand-Sides** *(Jul. 2016 – Jun. 2020, Nanjing, China)*
+- ### **Friendly Interactive Smart Grid Between Supply- and Demand-Sides** *(Jul. 2016 – Jun. 2020, Nanjing, China)*
+  
   - *Supported by Ministry of Science and Technology of China* (No. 2016YFB0901100)
   - Position: Project director, supervised by Prof. Yi Ding
     - Cooperative control strategies of supply-side (generating units) and demand-side (flexible loads).
@@ -28,6 +29,10 @@ author_profile: true
 
 ![Editing a markdown file for a talk](/images/research/research_distinctive_town.png)
 
+
+
+
+
 ------
 
 - **Reliability Analysis and Optimization of Smart Grid Considering the Coordinated Operation of Flexible Resources and Wind Power** *(Jan. 2016 – Dec. 2019, Hangzhou, China)*
@@ -37,6 +42,10 @@ author_profile: true
     - Reliability models and optimization of power systems, considering wind power and flexible resources.
 
 ![Editing a markdown file for a talk](/images/research/research_reliability_NSFC.png)
+
+
+
+
 
 ------
 
@@ -49,6 +58,10 @@ author_profile: true
 
 ![Editing a markdown file for a talk](/images/research/research_data_driven.png)
 
+
+
+
+
 ------
 
 - **Control Method and Peak-shaving Capacity Evaluation of Flexible Loads** *(Jan. 2016 – Dec. 2017, Hangzhou, China)*
@@ -59,6 +72,10 @@ author_profile: true
     - Comparison of reliability and economy of the power system before and after integrating demand response.
 
 ![Editing a markdown file for a talk](/images/research/research_peak_shaving.png)
+
+
+
+
 
 ------
 
@@ -71,6 +88,10 @@ author_profile: true
 
 ![Editing a markdown file for a talk](/images/research/research_consumer_DR.png)
 
+
+
+
+
 ------
 
 - **Modeling and Regulation Potential Evaluation of Air Conditioners, EVs, and Batteries** *(Sep. 2015 – Jun. 2016, Nanjing, China)*
@@ -79,5 +100,9 @@ author_profile: true
     - Mathematical and physical model of typical flexible loads, including air conditionings, EVs and batteries.
     - The operation performance and regulation potential of flexible loads with dynamic electricity prices.
     - The proposed models and methods were tested and implemented in State Grid Jiangsu Electric Power Company.
+
+
+
+
 
 ![Editing a markdown file for a talk](/images/research/research_regulation_potential.png)
