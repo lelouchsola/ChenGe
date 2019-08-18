@@ -35,6 +35,11 @@ author_profile: true
 - A one-semester long program divided into two seven-week sessions featuring courses taught in English by Duke faculty as well as DKU faculty and faculty from other universities as well.
 - Expertise: Academic Writing, American History, Cognitive Evolution.
 
+### [Harbin Institute of Technology](http://www.hit.edu.cn/) (07/2014-07/2014)
+
+- [Exchange Student Program of C9 University Union](https://www.cdgdc.edu.cn/xwyyjsjyxx/xwsytjxx/yxmd/274942.shtml)
+- Expertise: Flight Vehicle Design and Engineering.
+
 
 
 ------
