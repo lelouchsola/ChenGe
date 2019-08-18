@@ -6,13 +6,13 @@ excerpt: "About me"
 author_profile: true
 ---
 
-I am currently a Ph.D. student at the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/), supervised by Prof. [Yi Ding](https://person.zju.edu.cn/en/110) and Prof. [Yonghua Song](https://rto.um.edu.mo/biography/). Previously, I received the B. Eng degree from the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/) in 2015, under the supervision of Prof. [Chuangxin Guo](https://person.zju.edu.cn/en/gordon).
+I am currently a Ph.D. student at the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/), supervised by Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) and Prof. [Yi Ding](https://person.zju.edu.cn/en/110). Previously, I received the B. Eng degree from the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/) in 2015, under the supervision of Prof. [Chuangxin Guo](https://person.zju.edu.cn/en/gordon).
 
-I am a member of [Smart Grid Operation and Optimization Laboratory (SGOOL)](http://sgool.cn/en/index.php). I was elected in the 1st batch of the Academic Rising Star Program, Zhejiang University. From 2018-2019, I was a visiting scholar at the [Advanced Research Institute](https://ari.vt.edu/ari_people/hongxun_hui.html) in [Virginia Tech](https://vt.edu/), supervised by Prof. [Saifur Rahman](http://www.saifurrahman.org/).
+I was elected in the 1st batch of the Academic Rising Star Program (three winners among 180 Ph.D. students in College of Electrical Engineering, Zhejiang University). I am a member of [Smart Grid Operation and Optimization Laboratory (SGOOL)](http://sgool.cn/en/index.php). From 2018-2019, I was a visiting scholar at the [Advanced Research Institute](https://ari.vt.edu/ari_people/hongxun_hui.html) in [Virginia Tech](https://vt.edu/), supervised by Prof. [Saifur Rahman](http://www.saifurrahman.org/).
 
 My research interests are about the coordinated control and market mechanism of flexible loads (especially the heating, ventilating, and air-conditioning loads) considering high penetration of renewable energies in smart grid, specifically including the modeling and control method of flexible loads, the electricity market considering demand response, and the uncertainty analysis brought by flexible loads and renewable energies.
 
-Here is my [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20190807.pdf).
+Here is my [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20190808.pdf).
 
 ------
 
