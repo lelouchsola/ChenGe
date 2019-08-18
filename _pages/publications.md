@@ -80,6 +80,27 @@ author_profile: true
 
 ------
 
+# Issued Chinese Invention Patents
+
+- Yi Ding, **Hongxun Hui** and Yonghua Song, “An Intelligent Meter with Multi-time Scale Electricity Prices,” No. CN201610543375.1, May 2019. [[Certificate](https://huihongxun.github.io/files/Patents/一种具有多时间尺度电价信息的智能电表.jpg)]
+- **Hongxun Hui**, Yi Ding, Weidong Liu, Lijun Zhang, Yikai Sun and Chenbo Xu, “A Calculation Method of Aggregated Air Conditioners for Providing Regulation Services for Power Systems,” No. CN201610821647.X, Dec. 2018. [[Certificate](https://huihongxun.github.io/files/Patents/一种空调聚合提供电力系统运行备用响应量的计算方法.jpg)]
+- **Hongxun Hui** and Chuangxin Guo, “A Self-powered Pinch Meter Based on Micro-generator and SCM,” No. CN201410009920.X, Jul. 2016. [[Certificate](https://huihongxun.github.io/files/Patents/一种基于微型发电机和单片机的自供电握力器.jpg)]
+- **Hongxun Hui** and Chuangxin Guo, “A Dismantling Equipment for Electronic Devices Based on SCM,” No. CN201410010721.0, May 2016. [[Certificate](https://huihongxun.github.io/files/Patents/一种基于单片机的电子器件拆卸设备.jpg)]
+- **Hongxun Hui**, Yibai Lu, Lequan Yu, Litong Lv and Hui Sun, “An Electrocardiogram Detection Device Based on Bluetooth Communication,” No. CN201410094326.5, Mar. 2016. [[Certificate](https://huihongxun.github.io/files/Patents/一种基于蓝牙通信的心电图检测设备.jpg)]
+- Litong Lv, Bo Jin, Xiaotong Xu and **Hongxun Hui**, “A Hydraulic Mechanical Leg Based on Leg-Wheel Hybrid,” No. CN201410215251.1, Jan. 2016. [[Certificate](https://huihongxun.github.io/files/Patents/一种腿轮混合式液压机械退.jpg)]
+
+
+
+------
+
+# Software Copyrights
+
+- **Hongxun Hui**, Yi Ding and Wenqi Cui, “Coupon Computing and Settlement Software for Friendly Interactive Smart Grid Demonstration Project,” No. 2018SR449433, May 2018. [[Certificate](https://huihongxun.github.io/files/Patents/软著授权书+2018SR449433.jpg)]
+
+
+
+------
+
 # Professional Activities
 
 - **Vice President**, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University
