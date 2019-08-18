@@ -15,7 +15,7 @@ author_profile: true
   - Business model design for flexible loads participating in demand response, including electricity prices, transaction method, and settlement method.
   - Field demonstration in Suzhou and Changzhou Cities, around 110,000 customers are equipped with smart devices to participate in this project. It is one of the largest demand response projects in the world.
 
-![Editing a markdown file for a talk](images\research\research_friendly_interactive.png)
+![Editing a markdown file for a talk](/images/research/research_friendly_interactive.png)
 
 
 
