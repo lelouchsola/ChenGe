@@ -24,9 +24,7 @@ author_profile: true
 - *Supported by Zhejiang Province Government*
 - Position: Project director, supervised by Prof. Yi Ding
   - Zero-carbon house for high-end rehabilitation base, and low-carbon conference center for exhibition of smart energy systems.
-  - Smart energy-saving industry garden, with industries circulation system, and smart lighting systems.
-
-![Editing a markdown file for a talk](/images/research/research_distinctive_town.png)
+  - Smart energy-saving industry garden, with industries circulation system, and smart lighting systems.![Editing a markdown file for a talk](/images/research/research_distinctive_town.png)
 
 
 
@@ -39,9 +37,7 @@ author_profile: true
 - *Supported by National Natural Science Foundation of China* (No. 51577167) 
 - Position: Project participant, supervised by Prof. Yi Ding
   - Multiple uncertainties’ analysis of various flexible resources, especially HVACs.
-  - Reliability models and optimization of power systems, considering wind power and flexible resources.
-
-![Editing a markdown file for a talk](/images/research/research_reliability_NSFC.png)
+  - Reliability models and optimization of power systems, considering wind power and flexible resources.![Editing a markdown file for a talk](/images/research/research_reliability_NSFC.png)
 
 
 
@@ -55,9 +51,7 @@ author_profile: true
 - Position: Project director, supervised by Prof. Yi Ding
   - PV-battery-demand system for power optimization and energy saving.
   - Smart plug-based data acquisition, processing and energy consumption suggestion systems.
-  - Real data-driven simulation platform for energy Internet of Things.
-
-![Editing a markdown file for a talk](/images/research/research_data_driven.png)
+  - Real data-driven simulation platform for energy Internet of Things.![Editing a markdown file for a talk](/images/research/research_data_driven.png)
 
 
 
@@ -71,9 +65,7 @@ author_profile: true
 - Position: Project director, supervised by Prof. Yi Ding
   - Control method of flexible loads, especially air conditioners, considering user’s behavior and comfort.
   - Quantitative evaluation of peak-shaving capacities provided by flexible loads, considering multiple uncertainties.
-  - Comparison of reliability and economy of the power system before and after integrating demand response.
-
-![Editing a markdown file for a talk](/images/research/research_peak_shaving.png)
+  - Comparison of reliability and economy of the power system before and after integrating demand response.![Editing a markdown file for a talk](/images/research/research_peak_shaving.png)
 
 
 
@@ -87,9 +79,7 @@ author_profile: true
 - Position: Project director, supervised by Prof. Yi Ding
   - Market mechanism and implementation plan of demand response for the existing electricity market in China.
   - The new spike price policy is proposed and implemented for the first time in China.
-  - According to the energy efficiency evaluation report by State Grid Jiangsu Electric Power Company, the construction investments in power plants and transmission lines are postponed around 16.78 billion Chinese Yuan.
-
-![Editing a markdown file for a talk](/images/research/research_consumer_DR.png)
+  - According to the energy efficiency evaluation report by State Grid Jiangsu Electric Power Company, the construction investments in power plants and transmission lines are postponed around 16.78 billion Chinese Yuan.![Editing a markdown file for a talk](/images/research/research_consumer_DR.png)
 
 
 
@@ -101,10 +91,4 @@ author_profile: true
 - Position: Project director, supervised by Prof. Yi Ding
   - Mathematical and physical model of typical flexible loads, including air conditionings, EVs and batteries.
   - The operation performance and regulation potential of flexible loads with dynamic electricity prices.
-  - The proposed models and methods were tested and implemented in State Grid Jiangsu Electric Power Company.
-
-
-
-
-
-![Editing a markdown file for a talk](/images/research/research_regulation_potential.png)
+  - The proposed models and methods were tested and implemented in State Grid Jiangsu Electric Power Company.![Editing a markdown file for a talk](/images/research/research_regulation_potential.png)
