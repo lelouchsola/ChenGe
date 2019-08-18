@@ -5,49 +5,66 @@ permalink: /research/index.html
 author_profile: true
 ---
 
-- **Modeling and Potential Analysis of Flexible Loads** *(Sep. 2015 – Jun. 2016, Nanjing, China)*
-  - *Supported by China Electric Power Research Institute* (No. DZ71-15-004)
-  - Position: Project director.
-    - Models of typical flexible loads are developed, including air conditionings, EVs and batteries. The response characteristics with real-time electricity prices are also analyzed.
-    - A potential evaluation method and an uncertainty analysis method of flexible loads for participating in ancillary services are proposed.
-    - A technical report, three journal papers and a conference paper have been published.
 
----
 
-- **Research and Application of Demand Response** *(Mar. 2016 – Nov. 2016, Nanjing, China)*
-  - *Supported by State Grid Jiangsu Electric Power Co., Ltd* (No. KH20161699)
-  - Position: Project director
-    - Based on the existing electricity organization structure and market environment in China, a market mechanism and implementation plan of demand response are developed.
-    - A new spike price policy is implemented based on the original peak-valley price policy. According to the energy efficiency evaluation report in Jiangsu Province, the investments in power plants and transmission lines decrease around 16.78 billion RMB.
-    - A technical report and two journal papers have been published.
+- **Friendly Interactive Smart Grid Between Supply- and Demand-Sides** *(Jul. 2016 – Jun. 2020, Nanjing, China)*
+  - *Supported by Ministry of Science and Technology of China* (No. 2016YFB0901100)
+  - Position: Project director, supervised by Prof. Yi Ding
+    - Cooperative control strategies of supply-side (generating units) and demand-side (flexible loads).
+    - Business model design for flexible loads participating in demand response, including electricity prices, transaction method, and settlement method.
+    - Field demonstration in Suzhou and Changzhou Cities, around 110,000 customers are equipped with smart devices to participate in this project. It is one of the largest demand response projects in the world.
 
----
+------
 
-- **Research on Peak-shaving Capacities of Flexible Loads Considering Renewable Energies** *(Jan. 2016 – Dec. 2017, Hangzhou, China)*
-  - *Supported by State Grid Zhejiang Electric Power Co., Ltd* (No. 5211JY15001S)
-  - Position: Project director
-    - Peak-shaving capacities of flexible loads are evaluated quantitatively. An operation mechanism model is also developed considering the uncertainty of flexible loads.
-    - The access abilities of renewable energies are studied before and after flexible loads participating in peak-shaving. The reliability and economy of the system are evaluated.
-    - Three technical reports, two journal papers, two conference papers and two patents are published or submitted.
+- **Construction Scheme of Distinctive Town with Smart Energy** *(Sep. 2018 - Apr. 2019, Hangzhou, China)*
+  - *Supported by Zhejiang Province Government*
+  - Position: Project director, supervised by Prof. Yi Ding
+    - Zero-carbon house for high-end rehabilitation base, and low-carbon conference center for exhibition of smart energy systems.
+    - Smart energy-saving industry garden, with industries circulation system, and smart lighting systems.
 
----
-
-- **Market Mechanism Design for Demand Response** *(Jul. 2016 – Jun. 2020, Nanjing, China)*
-  - *Supported by Ministry of Science and Technology of China* (No. 2016YFB0901103)
-  - Position: Project director
-    - A business model and a market framework are designed for loads to participate in demand response project. The calculation of electricity prices, the transaction method and the settlement method are established.
-    - Around 110,000 residential customers, 1,000 large industrial customers and 730 commercial customers will be equipped with smart devices to provide demand response.
-    - The objectives are to reduce the load peak-valley difference by 5.8% and the energy consumption by 5.5% at the end year 2020, compared with the start year 2016.
-    - At present, five journal papers, four conference papers and three patents have been published or accepted.
-
----
+------
 
 - **Reliability Analysis and Optimization of Smart Grid Considering the Coordinated Operation of Flexible Resources and Wind Power** *(Jan. 2016 – Dec. 2019, Hangzhou, China)*
-  - *Supported by National Natural Science Foundation of China* (No. 51577167)
-  - Position: Project participant
-    - The basic mechanism causing multiple uncertainties of different types of flexible resources is analyzed. The reliability models of these flexible resources are also established.
-    - A novel reliability evaluation method for power systems is developed considering the coupling effects between wind power and flexible resources.
-    - A multi-time scale dispatch model considering cooperation between wind power and flexible resources is developed.
+  - *Supported by National Natural Science Foundation of China* (No. 51577167) 
+  - Position: Project participant, supervised by Prof. Yi Ding
+    - Multiple uncertainties’ analysis of various flexible resources, especially HVACs.
+    - Reliability models and optimization of power systems, considering wind power and flexible resources.
+
+------
+
+- **Data-driven Multi-energy Experiment and Simulation Platform** *(Jul. 2015 - Oct. 2018, Hangzhou, China)*
+  - *Supported by Smart Grid Operation and Optimization Laboratory*
+  - Position: Project director, supervised by Prof. Yi Ding
+    - PV-battery-demand system for power optimization and energy saving.
+    - Smart plug-based data acquisition, processing and energy consumption suggestion systems.
+    - Real data-driven simulation platform for energy Internet of Things.
+
+------
+
+- **Control Method and Peak-shaving Capacity Evaluation of Flexible Loads** *(Jan. 2016 – Dec. 2017, Hangzhou, China)*
+  - *Supported by State Grid Zhejiang Electric Power Company*  (No. 5211JY15001S)
+  - Position: Project director, supervised by Prof. Yi Ding
+    - Control method of flexible loads, especially air conditioners, considering user’s behavior and comfort.
+    - Quantitative evaluation of peak-shaving capacities provided by flexible loads, considering multiple uncertainties.
+    - Comparison of reliability and economy of the power system before and after integrating demand response.
+
+------
+
+- **Research and Application of Demand Response** *(Mar. 2016 – Nov. 2016, Nanjing, China)*
+  - *Supported by State Grid Jiangsu Electric Power Company* (No. KH20161699)
+  - Position: Project director, supervised by Prof. Yi Ding
+    - Market mechanism and implementation plan of demand response for the existing electricity market in China.
+    - The new spike price policy is proposed and implemented for the first time in China.
+    - According to the energy efficiency evaluation report by State Grid Jiangsu Electric Power Company, the construction investments in power plants and transmission lines are postponed around 16.78 billion Chinese Yuan.
+
+------
+
+- **Modeling and Regulation Potential Evaluation of Air Conditioners, EVs, and Batteries** *(Sep. 2015 – Jun. 2016, Nanjing, China)*
+  - *Supported by China Electric Power Research Institute* (No. DZ71-15-004)
+  - Position: Project director, supervised by Prof. Yi Ding
+    - Mathematical and physical model of typical flexible loads, including air conditionings, EVs and batteries.
+    - The operation performance and regulation potential of flexible loads with dynamic electricity prices.
+    - The proposed models and methods were tested and implemented in State Grid Jiangsu Electric Power Company.
 
 
 
