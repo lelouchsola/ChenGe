@@ -66,6 +66,10 @@ author_profile: true
 
 
 
+
+
+
+
 ------
 
 # Presentations and Invited Talks
@@ -75,6 +79,10 @@ author_profile: true
 - [Demonstration of Friendly Interactive Grid Under the Background of Electricity Market Reform in China](https://huihongxun.github.io/files/Presentation/20170529_EEEIC17_Italy.pdf), *IEEE EEEIC17 and I&CPS Europe*, Milan, Italy, Jun. 2017.
 - [Electricity Distribution Pricing Mechanism in China](https://huihongxun.github.io/files/Presentation/20160717_IEEE_PES_Boston.pdf), *IEEE PES General Meeting*, Boston, USA, Jul. 2016.
 - [Quantitative Analysis of Air Conditioner Aggregation for Providing Operating Reserve](https://huihongxun.github.io/files/Presentation/20160611_CUE2016.pdf), *Low-carbon Cities & Urban Energy*, Jinan, China, Jun. 2016.
+
+
+
+
 
 
 
@@ -91,11 +99,19 @@ author_profile: true
 
 
 
+
+
+
+
 ------
 
 # Software Copyrights
 
 - **Hongxun Hui**, Yi Ding and Wenqi Cui, “Coupon Computing and Settlement Software for Friendly Interactive Smart Grid Demonstration Project,” No. 2018SR449433, May 2018. [[Certificate](https://huihongxun.github.io/files/Patents/软著授权书+2018SR449433.jpg)]
+
+
+
+
 
 
 
