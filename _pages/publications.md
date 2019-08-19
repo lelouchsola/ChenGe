@@ -7,7 +7,7 @@ author_profile: true
 
 ## Books
 
-- Yi Ding (supervisor), Yonghua Song (supervisor), **Hongxun Hui** and Changzheng Shao. [Integration of Air Conditioning and Heating into Modern Power Systems](https://link.springer.com/book/10.1007%2F978-981-13-6420-4). Springer; 2019. (**All eight chapters**) [[PDF](https://huihongxun.github.io/files/2019_Book_IntegrationOfAirConditioningAn.pdf)]
+- Yi Ding, Yonghua Song, **Hongxun Hui** and Changzheng Shao. [Integration of Air Conditioning and Heating into Modern Power Systems](https://link.springer.com/book/10.1007%2F978-981-13-6420-4). Springer; 2019. (**All eight chapters**) [[PDF](https://huihongxun.github.io/files/2019_Book_IntegrationOfAirConditioningAn.pdf)]
 
 
 
@@ -107,7 +107,9 @@ author_profile: true
 
 # Software Copyrights
 
-- **Hongxun Hui**, Yi Ding and Wenqi Cui, “Coupon Computing and Settlement Software for Friendly Interactive Smart Grid Demonstration Project,” No. 2018SR449433, May 2018. [[Certificate](https://huihongxun.github.io/files/Patents/软著授权书+2018SR449433.jpg)]
+- **Hongxun Hui**, Yi Ding and Wenqi Cui, “Software for Coupon Computing and Settlement in Friendly Interactive Smart Grid,” No. 2018SR449433, May 2018. [[Certificate](https://huihongxun.github.io/files/Patents/软著授权书+2018SR449433.jpg)]
+- Yi Ding, Dunjian Xie and **Hongxun Hui**, “Software for Game Theory-Based Collaborative Optimization Control of Thermostatically Controlled Loads,” No. 2019SR0481590, Mar. 2019. [[Certificate](https://huihongxun.github.io/files/Patents/软著授权书+2019SR0481590.jpg)]
+- Dunjian Xie, Yi Ding and **Hongxun Hui**, “Simulation Software for Optimal Coordination of Thermostatically Controlled Loads for Demand Response,” No. 2019SR0450852, Mar. 2019. [[Certificate](https://huihongxun.github.io/files/Patents/软著授权书+2019SR0450852.jpg)]
 
 
 
