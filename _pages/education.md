@@ -51,7 +51,7 @@ author_profile: true
 
 ### **Academic Honors:**
 
-- First Batch of the Academic Rising Star Program, Zhejiang University, 2018. (Three winners among 180 Ph.D. students in College of Electrical Engineering, Zhejiang University)
+- First Batch of the Academic Rising Star Program (Three winners among 180 Ph.D. students in College of Electrical Engineering, Zhejiang University), 2018.
 - Excellent Honor in Edison Class, Zhejiang University, 2015.
 - Scholarship for Excellence in Research and Innovation, 2015.
 - Meritorious Winner, Interdisciplinary Contest in Modeling (ICM), Consortium for Mathematics and Its Application, 2014.
