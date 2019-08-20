@@ -47,7 +47,7 @@ author_profile: true
 
 ------
 
-## **Data-driven Multi-energy Experiment and Simulation Platform** *(Jul. 2015 - Oct. 2018, Hangzhou, China)*
+## **Data-driven Multi-energy Experiment and Simulation Platform** *(Jul. 2015 - Oct. 2018, Hangzhou, China)* [[PPT](https://huihongxun.github.io/files/Presentation/20180912_SGOOL_platform.pdf)]
 
 - *Supported by Smart Grid Operation and Optimization Laboratory*
 - Position: Project director, supervised by Prof. Yi Ding
