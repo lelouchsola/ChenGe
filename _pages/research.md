@@ -86,7 +86,7 @@ author_profile: true
   - Smart plug-based data acquisition, processing and energy consumption suggestion systems.
   - Real data-driven simulation platform for energy Internet of Things.
 
-![Editing a markdown file for a talk](C:/Users/huiho/Documents/GitHub/huihongxun.github.io/_pages/images/research/research_data_driven.png)
+![Editing a markdown file for a talk](/images/research/research_data_driven.png)
 
 
 
@@ -101,7 +101,7 @@ author_profile: true
   - Zero-carbon house for high-end rehabilitation base, and low-carbon conference center for exhibition of smart energy systems.
   - Smart energy-saving industry garden, with industries circulation system, and smart lighting systems.
 
-![Editing a markdown file for a talk](C:/Users/huiho/Documents/GitHub/huihongxun.github.io/_pages/images/research/research_distinctive_town.png)
+![Editing a markdown file for a talk](/images/research/research_distinctive_town.png)
 
 
 
