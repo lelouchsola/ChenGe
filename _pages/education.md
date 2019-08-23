@@ -9,13 +9,11 @@ author_profile: true
 
 - **Ph.D.**, [College of Electrical Engineering](http://ee.zju.edu.cn/index.php)  
 - Academic Adviser: Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) and Prof. [Yi Ding](https://person.zju.edu.cn/en/110)
-- Expertise: Modern Control Theory, Operation Analysis of Power System, Power Market.
 
 ### [Zhejiang University](http://www.zju.edu.cn/) (09/2011-06/2015)
 
 - **B.Eng.**, [College of Electrical Engineering](http://ee.zju.edu.cn/index.php)
-- Academic Adviser: Prof. [Chuangxin Guo](https://person.zju.edu.cn/en/gordon)
-- Expertise: Advanced Mathematics, Probability Theory, Control Theory, Programming in C, Power System.
+- Outstanding Graduates, Overall GPA: 3.88/4.0 (top 3%)
 
  
 
@@ -25,9 +23,8 @@ author_profile: true
 
 ### [Virginia Tech](https://vt.edu/) (10/2018-10/2019)
 
-- Visiting Scholar, [Advanced Research Institute](https://ari.vt.edu/)
+- Visiting Student Researcher, [Advanced Research Institute](https://ari.vt.edu/)
 - Academic adviser: [Prof. Saifur Rahman](http://www.saifurrahman.org/)
-- Expertise: Demand Response, Electricity Market.
 
 ### [Duke Kunshan University](https://dukekunshan.edu.cn/en) (08/2014-12/2014)
 
