@@ -6,7 +6,7 @@ excerpt: "About me"
 author_profile: true
 ---
 
-I am currently a Ph.D. student at the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/), supervised by Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) and Prof. [Yi Ding](https://person.zju.edu.cn/en/110). Previously, I received the B. Eng degree from the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/) in 2015.
+I am a Ph.D. student at the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/), supervised by Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) and Prof. [Yi Ding](https://person.zju.edu.cn/en/110). Previously, I received the B. Eng degree from the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/) in 2015.
 
 I was elected in the 1st batch of the Academic Rising Star Program (three winners among 180 Ph.D. students in College of Electrical Engineering, Zhejiang University). I am a member of [Smart Grid Operation and Optimization Laboratory (SGOOL)](http://sgool.cn/en/index.php). From 2018-2019, I was a visiting student at the [Advanced Research Institute](https://ari.vt.edu/ari_people/hongxun_hui.html) in [Virginia Tech](https://vt.edu/), supervised by Prof. [Saifur Rahman](http://www.saifurrahman.org/).
 
