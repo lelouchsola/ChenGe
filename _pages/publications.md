@@ -19,7 +19,7 @@ author_profile: true
 - **Hongxun Hui**, Yi Ding, Yonghua Song and Saifur Rahman, “[Modeling and Control of Flexible Loads for Frequency Regulation Services Considering Compensation of Communication Latency and Detection Error](https://www.sciencedirect.com/science/article/pii/S0306261919308335),” ***Applied Energy***, vol. 250, pp. 161-74, Sep. 2019. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261919308335.pdf)]
 - **Hongxun Hui**, Yi Ding and Menglian Zheng, “[Equivalent Modeling of Inverter Air Conditioners for Providing Frequency Regulation Service](https://ieeexplore.ieee.org/abstract/document/8351974/),” ***IEEE Transactions on Industrial Electronics***, vol. 66, no. 2, pp. 1413-23, Feb. 2019. [[PDF](https://huihongxun.github.io/files/TIE_8351974.pdf)]
 - **Hongxun Hui**, Yi Ding, Weidong Liu, You Lin and Yonghua Song, “[Operating Reserve Evaluation of Aggregated Air Conditioners](https://www.sciencedirect.com/science/article/pii/S0306261916317676),” ***Applied Energy***, vol. 196, pp. 218-228, Jun. 2017. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261916317676.pdf)]
-- Yi Ding, **Hongxun Hui** (Corresponding Author), Zhenzhi Lin, Menglian Zheng, Xinyao Qu and Wenqi Cui, “[Design of Business Model and Market Framework Oriented to Active Demand Response of Power Demand Side](http://www.aeps-info.com/aeps/ch/reader/view_abstract.aspx?file_no=20170218001&flag=1),” ***Automation of Electric Power Systems***, vol. 41, no. 14, Jul. 2017. (in Chinese) [[PDF](https://huihongxun.github.io/files/面向电力需求侧主动响应的商业模式及市场框架设计.pdf)]
+- Yi Ding, **Hongxun Hui***, Zhenzhi Lin, Menglian Zheng, Xinyao Qu and Wenqi Cui, “[Design of Business Model and Market Framework Oriented to Active Demand Response of Power Demand Side](http://www.aeps-info.com/aeps/ch/reader/view_abstract.aspx?file_no=20170218001&flag=1),” ***Automation of Electric Power Systems***, vol. 41, no. 14, Jul. 2017. (in Chinese) [[PDF](https://huihongxun.github.io/files/面向电力需求侧主动响应的商业模式及市场框架设计.pdf)]
 - Dunjian Xie, **Hongxun Hui**, Yi Ding and Zhenzhi Lin, “[Operating Reserve Capacity Evaluation of Aggregated Heterogeneous TCLs with Price Signals](https://www.sciencedirect.com/science/article/pii/S0306261918301302),” ***Applied Energy***, vol. 216, pp. 338-47, Apr. 2018. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261918301302.pdf)]
 - Wenqi Cui, Yi Ding, **Hongxun Hui**, Zhenzhi Lin, Pengwei Du, Yonghua Song and Changzheng Shao, “[Evaluation and Sequential Dispatch of Operating Reserve Provided by Air Conditioners Considering Lead–Lag Rebound Effect](https://ieeexplore.ieee.org/abstract/document/8379434),” ***IEEE Transactions on Power Systems***, vol. 33,no. 6, pp. 6935-50, Nov. 2018. [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_8379434.pdf)]
 - Yi Ding, Wenqi Cui, Shujun Zhang, **Hongxun Hui**, Yiwei Qiu and Yonghua Song, “[Multi-state Operating Reserve Model of Aggregate Thermostatically-Controlled-Loads for Power System Short-term Reliability Evaluation](https://www.sciencedirect.com/science/article/pii/S0306261919303083),” ***Applied Energy***, vol. 241, pp. 46-58, May 2019. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261919303083.pdf)]
@@ -88,7 +88,7 @@ author_profile: true
 
 ------
 
-# Issued Chinese Invention Patents
+# Issued Patents
 
 - Yi Ding, **Hongxun Hui** and Yonghua Song, “An Intelligent Meter with Multi-time Scale Electricity Prices,” No. CN201610543375.1, May 2019. [[Certificate](https://huihongxun.github.io/files/Patents/一种具有多时间尺度电价信息的智能电表.jpg)]
 - **Hongxun Hui**, Yi Ding, Weidong Liu, Lijun Zhang, Yikai Sun and Chenbo Xu, “A Calculation Method of Aggregated Air Conditioners for Providing Regulation Services for Power Systems,” No. CN201610821647.X, Dec. 2018. [[Certificate](https://huihongxun.github.io/files/Patents/一种空调聚合提供电力系统运行备用响应量的计算方法.jpg)]
@@ -121,15 +121,15 @@ author_profile: true
 
 # Professional Activities
 
-- **Vice President**, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University
-- **Journal Reviewer** of 
+- **Vice President**, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University (Since 2018)
+- **Journal Referee**  
   - *IEEE Transactions on Smart Grid* (Since 2019)
   - *IEEE Transactions on Sustainable Energy* (Since 2019)
   - *Applied Energy* (Since 2018)
   - *Journal of Modern Power Systems and Clean Energy* (Since 2018)
   - *International Journal of Electrical Power & Energy Systems* (Since 2017)
   - *IEEE Transactions on Industrial Electronics* (Since 2017)
-- **Conference Reviewer** of 
+- **Conference Reviewer** 
   - *IEEE PES General Meeting*
   - *International Conference on Applied Energy*
   - *IEEE Sustainable Power & Energy Conference*
