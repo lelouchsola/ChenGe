@@ -46,6 +46,7 @@ author_profile: true
 - Yi Ding, Dunjian Xie, **Hongxun Hui** and Yan Xu, “Game-Theoretic-Based Demand Side Management of Thermostatically Controlled Loads for Smoothing the Tie-line Power of Microgrid,” ***IEEE Transactions on Industrial Informatics***.
 - Xinran Zhuang, Yi Ding, Changzheng Shao and **Hongxun Hui**, “Reliability Evaluation of Interconnected Power Systems with VSC-HVDC Links Considering the Frequency Dynamics,” ***IET Generation, Transmission & Distribution***.
 - Xingying Chen, Shuyang Xu, Jun Xie, Saifur Rahman, Jixiang Wang, **Hongxun Hui** and Tao Chen, “Agent-based Modelling and Simulation of Electricity Market with Residential Demand Response,” ***CSEE Journal of Power and Energy Systems***.
+- Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Weiran Wang, Huibin Qin and Xiangrong Shentu, "Coordinated Voltage Regulation by Operating Power of Aggregated Air Conditioners Considering Participation Priority," ***Applied Energy***.
 
 
 
