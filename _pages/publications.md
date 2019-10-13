@@ -15,7 +15,7 @@ author_profile: true
 
 ## Journal Publications
 
-<p align="right">2019</p>
+<p align="right"><font color=#0099ff size="5">2019</font></p>
 
 - **Hongxun Hui**, Yi Ding, Qingxin Shi, Fangxing Li, Yonghua Song and Jinyue Yan, “5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential,” ***Applied Energy***, Accepted, Oct. 2019.
 - **Hongxun Hui**, Yi Ding, Zhenzhi Lin, Pierluigi Siano and Yonghua Song, “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” ***IEEE Transactions on Power Systems***, Early Access, Jun. 2019. [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_08743401.pdf)] 
