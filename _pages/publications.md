@@ -16,7 +16,7 @@ author_profile: true
 ## Journal Publications
 
 <p align="right"><font size="5">Accepted</font></p>
-- **Hongxun Hui**, Yi Ding, Qingxin Shi, Fangxing Li, Yonghua Song and Jinyue Yan, “5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential,” *Applied Energy*, Oct. 2019. [[PDF](https://huihongxun.github.io/files/Applied_Energy_Review_Paper_5G_and_DR.pdf)]
+- **Hongxun Hui**, Yi Ding, Qingxin Shi, Fangxing Li, Yonghua Song and Jinyue Yan, “[5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential](https://www.sciencedirect.com/science/article/pii/S0306261919316599?dgcid=coauthor),” *Applied Energy*, Oct. 2019. [[PDF](https://huihongxun.github.io/files/Applied_Energy_Review_Paper_5G_and_DR.pdf)]
 - Kang Xie, **Hongxun Hui** and Yi Ding, “Review of Modeling and Control Strategy of Thermostatically Controlled Loads for Virtual Energy Storage System,” *Protection and Control of Modern Power Systems*, Oct. 2019.
 - Kaijie Zhang, Yi Ding, **Hongxun Hui**, Xiaolun Fang and Kang Xie, “Dispatching Potential Evaluation of Thermostatically Controlled Loads Based on Realistic Customer Electricity Data in China,” *IEEE Conference on Energy Internet and Energy System Integration*, Changsha, China, 2019. [[PDF](https://huihongxun.github.io/files/IEEE EI2-Kaijie Zhang.pdf)]
 - **Hongxun Hui**, Yi Ding, Yonghua Song and Saifur Rahman, “Modelling and Dynamic Performance Analysis of the Power System Under Unit Contingency Shutdown Accidents Considering Demand Response,” *International Conference on Applied Energy*, Sweden, Aug. 2019. [[PDF](https://huihongxun.github.io/files/APEN_ICAE_Sweden_2019.pdf)]
