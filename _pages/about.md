@@ -12,7 +12,7 @@ I was elected in the 1st batch of the Academic Rising Star Program (three winner
 
 My research interests are about the optimal control and market mechanism design of flexible loads (especially the heating, ventilating, and air-conditioning loads) considering high penetration of renewable energies in smart grid, specifically including the modeling and control method of flexible loads, the electricity market considering demand response, and the reliability analysis considering multiple uncertainties brought by flexible loads and renewable energies.
 
-Here is my [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20190810.pdf).
+Here is my [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20191120.pdf).
 
 ------
 
@@ -28,6 +28,8 @@ Here is my [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20190810.pdf)
 
 News
 ======
+- **[2019-10-18]** I got the **Wang Guo Song Scholarship** in the 2018-2019 academic year! It is the highest honor at the College of Electrical Engineering, Zhejiang University. There were 4 Ph.D. student got this scholarship among about 180 Ph.D. students.
+- **[2019-10-18]** I got the **National Scholarship** in the 2018-2019 academic year, because of ranking the first in my major (Power Systems) at the College of Electrical Engineering, Zhejiang University!
 - **[2019-10-09]** Our review paper “[Review of Modeling and Control Strategy of Thermostatically Controlled Loads for Virtual Energy Storage System](http://www.pcmp.info/pcmp/ch/index.aspx),” was accepted by *Protection and Control of Modern Power Systems*! This is Kang Xie's first paper. Congratulations to him! ![Editing a markdown file for a talk](/images/Review_Paper_VESSofTCLs_KangXie.png)
 - **[2019-10-08]** Our review paper “[5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential](https://www.sciencedirect.com/science/article/pii/S0306261919316599?dgcid=coauthor),” was accepted by *Applied Energy*! This paper’s application survey of 5G on DR is carried out before 5G technology enters the large-scale commercial stage, so as to provide references and guidelines for developing future 5G networks in the smart grid paradigm.  ![Editing a markdown file for a talk](/images/5G_Review_Paper.png)
 - **[2019-08-12]** Our paper “[Data-driven Reserve Allocation with Frequency Security Constraint Considering Inverter Air Conditioners](https://ieeexplore.ieee.org/document/8809677),” was accepted by *IEEE Access*! It is Xinran's first paper. Congratulations to him!  ![Editing a markdown file for a talk](/images/IEEE Access-Xinran.png)
