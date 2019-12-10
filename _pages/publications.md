@@ -16,13 +16,18 @@ author_profile: true
 ## Journal Publications
 
 <p align="right"><font size="5">Accepted</font></p>
-- **Hongxun Hui**, Yi Ding, Qingxin Shi, Fangxing Li, Yonghua Song and Jinyue Yan, “[5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential](https://www.sciencedirect.com/science/article/pii/S0306261919316599?dgcid=coauthor),” *Applied Energy*, Oct. 2019. [[PDF](https://huihongxun.github.io/files/Applied_Energy_Review_Paper_5G_and_DR.pdf)]
-- Kang Xie, **Hongxun Hui** and Yi Ding, “Review of Modeling and Control Strategy of Thermostatically Controlled Loads for Virtual Energy Storage System,” *Protection and Control of Modern Power Systems*, Oct. 2019. [[PDF](https://huihongxun.github.io/files/PCMPS_Xiekang_Review_of_TCLs_for_VESS.pdf)]
 - Kaijie Zhang, Yi Ding, **Hongxun Hui**, Xiaolun Fang and Kang Xie, “Dispatching Potential Evaluation of Thermostatically Controlled Loads Based on Realistic Customer Electricity Data in China,” *IEEE Conference on Energy Internet and Energy System Integration*, Changsha, China, 2019. [[PDF](https://huihongxun.github.io/files/IEEE EI2-Kaijie Zhang.pdf)]
+
 - **Hongxun Hui**, Yi Ding, Yonghua Song and Saifur Rahman, “Modelling and Dynamic Performance Analysis of the Power System Under Unit Contingency Shutdown Accidents Considering Demand Response,” *International Conference on Applied Energy*, Sweden, Aug. 2019. [[PDF](https://huihongxun.github.io/files/APEN_ICAE_Sweden_2019.pdf)]
+
 - **Hongxun Hui**, Yi Ding, Zhenzhi Lin, Pierluigi Siano and Yonghua Song, “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” *IEEE Transactions on Power Systems*, Early Access, Jun. 2019. [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_08743401.pdf)]
 
+  <p align="right"><font size="5">2020</font></p>
+
+- **Hongxun Hui**, Yi Ding, Qingxin Shi, Fangxing Li, Yonghua Song and Jinyue Yan, “[5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential](https://www.sciencedirect.com/science/article/pii/S0306261919316599?dgcid=coauthor),” *Applied Energy*, vol. 257, pp. 113972, Jan. 2020. [[PDF](https://huihongxun.github.io/files/Applied_Energy_Review_Paper_5G_and_DR.pdf)]
+
 <p align="right"><font size="5">2019</font></p>
+- Kang Xie, **Hongxun Hui** and Yi Ding, “[Review of Modeling and Control Strategy of Thermostatically Controlled Loads for Virtual Energy Storage System](https://link.springer.com/article/10.1186/s41601-019-0135-3),” *Protection and Control of Modern Power Systems*, Oct. 2019. [[PDF](https://huihongxun.github.io/files/PCMPS_Xiekang_Review_of_TCLs_for_VESS.pdf)]
 - **Hongxun Hui**, Yi Ding, Yonghua Song and Saifur Rahman, “[Modeling and Control of Flexible Loads for Frequency Regulation Services Considering Compensation of Communication Latency and Detection Error](https://www.sciencedirect.com/science/article/pii/S0306261919308335),” *Applied Energy*, vol. 250, pp. 161-74, Sep. 2019. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261919308335.pdf)]
 - **Hongxun Hui**, Yi Ding and Menglian Zheng, “[Equivalent Modeling of Inverter Air Conditioners for Providing Frequency Regulation Service](https://ieeexplore.ieee.org/abstract/document/8351974/),” *IEEE Transactions on Industrial Electronics*, vol. 66, no. 2, pp. 1413-23, Feb. 2019. [[PDF](https://huihongxun.github.io/files/TIE_8351974.pdf)]
 - Yi Ding, Wenqi Cui, Shujun Zhang, **Hongxun Hui**, Yiwei Qiu and Yonghua Song, “[Multi-state Operating Reserve Model of Aggregate Thermostatically-Controlled-Loads for Power System Short-term Reliability Evaluation](https://www.sciencedirect.com/science/article/pii/S0306261919303083),” *Applied Energy*, vol. 241, pp. 46-58, May 2019. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261919303083.pdf)]
