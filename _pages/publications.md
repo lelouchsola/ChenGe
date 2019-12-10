@@ -126,13 +126,17 @@ author_profile: true
 
 - **Vice President**, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University (Since 2018)
 - **Journal Referee**  
-  - *IEEE Transactions on Smart Grid* (Since 2019)
-  - *IEEE Transactions on Sustainable Energy* (Since 2019)
-  - *IEEE Access* (Since 2019)
-  - *Applied Energy* (Since 2018)
-  - *Journal of Modern Power Systems and Clean Energy* (Since 2018)
-  - *International Journal of Electrical Power & Energy Systems* (Since 2017)
-  - *IEEE Transactions on Industrial Electronics* (Since 2017)
+  - *IEEE Transactions on Power Systems*
+  - *IEEE Transactions on Smart Grid*
+  - *IEEE Transactions on Sustainable Energy*
+  - *IEEE Transactions on Industrial Electronics*
+  - *IEEE Access*
+  - *Applied Energy*
+  - *CSEE Journal of Power & Energy Systems*
+  - *Journal of Modern Power Systems and Clean Energy* 
+  - *International Journal of Electrical Power & Energy Systems*
+  - *Renewable & Sustainable Energy Reviews*
+  - *Economic Alternatives*
 - **Conference Reviewer** 
   - *IEEE PES General Meeting*
   - *International Conference on Applied Energy*
