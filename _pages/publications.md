@@ -16,6 +16,8 @@ author_profile: true
 ## Journal Publications
 
 <p align="right"><font size="5">Accepted</font></p>
+- Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Chengjin Ye, Zhenzhi Lin, Peng Wang, Yonghua Song, Ling Ji and Rong Chen, “Utilization of Flexible Residential Loads for Voltage Control and Demand Response,”  *IET Generation, Transmission & Distribution*. [[PDF](https://huihongxun.github.io/files/IET_GTD_QiangqiangXie_DRforVoltageRegulation.pdf)]
+
 - Kaijie Zhang, Yi Ding, **Hongxun Hui**, Xiaolun Fang and Kang Xie, “Dispatching Potential Evaluation of Thermostatically Controlled Loads Based on Realistic Customer Electricity Data in China,” *IEEE Conference on Energy Internet and Energy System Integration*, Changsha, China, 2019. [[PDF](https://huihongxun.github.io/files/IEEE EI2-Kaijie Zhang.pdf)]
 
 - **Hongxun Hui**, Yi Ding, Yonghua Song and Saifur Rahman, “Modelling and Dynamic Performance Analysis of the Power System Under Unit Contingency Shutdown Accidents Considering Demand Response,” *International Conference on Applied Energy*, Sweden, Aug. 2019. [[PDF](https://huihongxun.github.io/files/APEN_ICAE_Sweden_2019.pdf)]
@@ -68,7 +70,6 @@ author_profile: true
 - **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Saifur Rahman and Yonghua Song, “Coupon-Based Demand Response for Consumers Facing the Flat-Rate Retail Pricing,” *IEEE Transactions on Smart Grid*.
 - **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners,” *IEEE Transactions on Industrial Electronics*.
 - **Hongxun Hui**, Qingxin Shi, Yi Ding, Saifur Rahman and Yonghua Song, “Inertia Support and Frequency Regulation of Virtual Synchronous Generator by IACs,” *IEEE Power Engineering Letters*.
-- Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Chengjin Ye, Zhenzhi Lin, Jiadong Cui and Peng Wang, “Utilization of Flexible Residential Loads for Voltage Control and Demand Response,” *IEEE Transactions on Sustainable Energy*.
 - Yi Ding, Dunjian Xie, **Hongxun Hui** and Yan Xu, “Game-Theoretic-Based Demand Side Management of Thermostatically Controlled Loads for Smoothing the Tie-line Power of Microgrid,” *IEEE Transactions on Industrial Informatics*.
 - Xinran Zhuang, Yi Ding, Changzheng Shao and **Hongxun Hui**, “Reliability Evaluation of Interconnected Power Systems with VSC-HVDC Links Considering the Frequency Dynamics,” *IET Generation, Transmission & Distribution*.
 - Xingying Chen, Shuyang Xu, Jun Xie, Saifur Rahman, Jixiang Wang, **Hongxun Hui** and Tao Chen, “Agent-based Modelling and Simulation of Electricity Market with Residential Demand Response,” *CSEE Journal of Power and Energy Systems*.
