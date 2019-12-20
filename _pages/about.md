@@ -24,7 +24,7 @@ The International Conference on Renewable Energy (ICREN) 2020 will be held Rome,
 
 ### ~~IEEE Student Conference on Electric Machines and Systems 2019~~
 
-- ~~The 2nd IEEE Student Conference on Electric Machines and Systems will be held at Kyungsung University, Busan, South Korea on Nov. 1st-3rd, 2019. The conference is now open for paper submission (deadline is Aug. 17, 2019). Please check the [website](https://www.scems2019.com/) for detailed information. Moreover, we are glad to tell you that all the conference papers last year in IEEE SCEMS 2018 have been published by IEEE and indexed by EI.~~
+~~The 2nd IEEE Student Conference on Electric Machines and Systems will be held at Kyungsung University, Busan, South Korea on Nov. 1st-3rd, 2019. The conference is now open for paper submission (deadline is Aug. 17, 2019). Please check the [website](https://www.scems2019.com/) for detailed information. Moreover, we are glad to tell you that all the conference papers last year in IEEE SCEMS 2018 have been published by IEEE and indexed by EI.~~
 
 
 
