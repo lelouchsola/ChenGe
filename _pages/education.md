@@ -68,8 +68,8 @@ author_profile: true
 - **Hengyu Hui**, 2019-Now, M.Eng., Zhejiang University.
 - **Kaijie Zhang**, 2018-Now, M.Eng., Zhejiang University.
 - **Kang Xie**, 2018-Now, Ph.D., Zhejiang University.
-- **Dunjian Xie**, 2016-2019, M.Eng., Zhejiang University, Topic: *Operating reserve capacity evaluation and collaborative optimization of thermostatically-controlled-loads for demand response under electricity market* (电力市场背景下温控负荷的需求响应潜力评估及其协同优化管理研究). Now, he is a Ph.D. student at Nanyang Technological University.
-- **Wenqi Cui**, 2016-2019, M.Eng., Zhejiang University, Topic: *Power system reliability evaluation considering multi-state operating reserve model provided by aggregate air conditioners* (考虑聚合空调负荷提供运行备用的电力系统可靠性分析). Now, she is a Ph.D. student at University of Washington.
+- **Dunjian Xie**, 2016-2019, M.Eng., Zhejiang University, Topic: *Operating reserve capacity evaluation and collaborative optimization of thermostatically-controlled-loads for demand response under electricity market*. Now, he is a Ph.D. student at Nanyang Technological University.
+- **Wenqi Cui**, 2016-2019, M.Eng., Zhejiang University, Topic: *Power system reliability evaluation considering multi-state operating reserve model provided by aggregate air conditioners*. Now, she is a Ph.D. student at University of Washington.
 
 
 
@@ -79,33 +79,33 @@ author_profile: true
 
 ### **Academic Honors:**
 
-- Wang Guo Song Scholarship (王国松奖学金), the highest honor at College of Electrical Engineering, Zhejiang University (Four winners among 180 Ph.D. students), 2019.
-- First Batch of the Academic Rising Star Program (Three winners among 180 Ph.D. students in College of Electrical Engineering, Zhejiang University) (第一批浙江大学学术新星), 2018.
-- Excellent Honor in Edison Class, Zhejiang University (浙江大学爱迪生班特优荣誉), 2015.
-- Scholarship for Excellence in Research and Innovation (研究与创新奖学金), 2015.
-- Meritorious Winner, Interdisciplinary Contest in Modeling (ICM), Consortium for Mathematics and Its Application (国际数学建模竞赛), 2014.
-- First Price, 7th University Student Science Contest on Energy Saving & Emission Reduction (浙江大学节能减排竞赛一等奖), 2014.
-- Fifth (5/149), 9th University Student Robot Contest (My Super Personal Shopper) (浙江大学机器人竞赛第5名), 2014.
-- Best Design Award, 9th University Student Robot Contest (My Super Personal Shopper) (浙江大学机器人竞赛最佳设计奖), 2014.
-- Third Price, 7th Intelligent Car Competition of Zhejiang University (浙江大学智能车竞赛三等奖), 2014.
+- Wang Guo Song Scholarship, the highest honor at College of Electrical Engineering, Zhejiang University (Four winners among 180 Ph.D. students), 2019.
+- First Batch of the Academic Rising Star Program (Three winners among 180 Ph.D. students in College of Electrical Engineering, Zhejiang University), 2018.
+- Excellent Honor in Edison Class, Zhejiang University, 2015.
+- Scholarship for Excellence in Research and Innovation, 2015.
+- Meritorious Winner, Interdisciplinary Contest in Modeling (ICM), Consortium for Mathematics and Its Application, 2014.
+- First Price, 7th University Student Science Contest on Energy Saving & Emission Reduction, 2014.
+- Fifth (5/149), 9th University Student Robot Contest (My Super Personal Shopper), 2014.
+- Best Design Award, 9th University Student Robot Contest (My Super Personal Shopper), 2014.
+- Third Price, 7th Intelligent Car Competition of Zhejiang University, 2014.
 
 ### **Study Achievements:**
 
-- National Scholarship (国家奖学金) for rewarding the first ranking in my major (Power Systems), 2019. 
-- Tang Lixin Scholarship (唐立新奖学金), 2017.
-- Award of Honor for Graduate (浙江大学优秀研究生), 2017, 2016.
-- Huayi Scholarship (华仪奖学金), 2016.
-- Outstanding Graduates of Zhejiang University (浙江大学优秀毕业生), 2015.
-- Bosch Scholarship (博世奖学金), 2015.
-- First-Class Scholarship for Outstanding Merits (优秀学生一等奖学金), 2012.
-- First-Class Scholarship for Outstanding Students (学业优秀一等奖学金), 2012.
+- National Scholarship for rewarding the first ranking in my major (Power Systems), 2019. 
+- Tang Lixin Scholarship, 2017.
+- Award of Honor for Graduate, 2017, 2016.
+- Huayi Scholarship, 2016.
+- Outstanding Graduates of Zhejiang University, 2015.
+- Bosch Scholarship, 2015.
+- First-Class Scholarship for Outstanding Merits, 2012.
+- First-Class Scholarship for Outstanding Students, 2012.
 
 ### **Leadership, Cooperation and Morality:**
 
-- The twelfth Top Ten Students (十佳学子) at College of Electrical Engineering, Zhejiang University. Ten students were selected from around 2300 students at College of EE.
-- Graduate of Merit/Triple A graduate (浙江大学三好研究生), 2016.
-- Outstanding Student Leader Awards (浙江大学优秀学生干部), 2014, 2012.
-- Excellent Student Awards (优秀学生奖学金), 2014, 2013, 2012.
+- The twelfth Top Ten Students at College of Electrical Engineering, Zhejiang University. Ten students were selected from around 2300 students at College of EE.
+- Graduate of Merit/Triple A graduate, 2016.
+- Outstanding Student Leader Awards, 2014, 2012.
+- Excellent Student Awards, 2014, 2013, 2012.
 
 
 
