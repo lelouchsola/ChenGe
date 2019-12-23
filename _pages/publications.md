@@ -143,6 +143,7 @@ author_profile: true
   - *International Journal of Electrical Power & Energy Systems*
   - *Renewable & Sustainable Energy Reviews*
   - *Economic Alternatives*
+  - *IET Energy Systems Integration*
 - **Conference Reviewer** 
   - *IEEE PES General Meeting*
   - *International Conference on Applied Energy*
