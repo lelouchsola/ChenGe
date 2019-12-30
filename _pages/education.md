@@ -62,14 +62,14 @@ author_profile: true
 
 # Student Research Supervision
 
-- **Haiyue Yu**, 2019-2020, B.Eng., Shandong University.
-- **Taoyi Qi**, 2019-2020, B.Eng., Zhejiang University.
-- **Xunhu Yin**, 2019-Now, Ph.D., Zhejiang University.
-- **Hengyu Hui**, 2019-Now, M.Eng., Zhejiang University.
-- **Kaijie Zhang**, 2018-Now, M.Eng., Zhejiang University.
-- **Kang Xie**, 2018-Now, Ph.D., Zhejiang University.
-- **Dunjian Xie**, 2016-2019, M.Eng., Zhejiang University, Topic: *Operating reserve capacity evaluation and collaborative optimization of thermostatically-controlled-loads for demand response under electricity market*. Now, he is a Ph.D. student at Nanyang Technological University.
-- **Wenqi Cui**, 2016-2019, M.Eng., Zhejiang University, Topic: *Power system reliability evaluation considering multi-state operating reserve model provided by aggregate air conditioners*. Now, she is a Ph.D. student at University of Washington.
+- **Haiyue Yu, Ph.D.,** 2019-Now, Zhejiang University.
+- **Xunhu Yin, Ph.D.,** 2019-Now, Zhejiang University.
+- **Kang Xie, Ph.D.,** 2018-Now, Zhejiang University.
+- **Taoyi Qi, M.Eng.,** 2019-Now, Zhejiang University.
+- **Hengyu Hui, M.Eng.,** 2019-Now, Zhejiang University.
+- **Kaijie Zhang, M.Eng.,** 2018-Now, Zhejiang University.
+- **Dunjian Xie, M.Eng.,** 2016-2019, Zhejiang University, Topic: Demand response evaluation and coordinated optimization of thermostatically-controlled-loads [[PDF](https://huihongxun.github.io/files/Thesis/温控负荷的需求响应潜力评估及其协同优化管理研究_谢敦见.caj)]. He is pursuing Ph.D. at *Nanyang Technological University*.
+- **Wenqi Cui, M.Eng.,** 2016-2019, Zhejiang University, Topic: Power system reliability evaluation considering operating reserve provided by air conditioners [[PDF](https://huihongxun.github.io/files/Thesis/考虑聚合空调负荷提供运行备用的电力系统可靠性分析_崔文琪.caj)]. She is pursuing Ph.D. at *University of Washington*. 
 
 
 
