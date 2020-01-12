@@ -16,7 +16,7 @@ author_profile: true
 ## Journal Publications
 
 <p align="right"><font size="5">Accepted</font></p>
-- Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Chengjin Ye, Zhenzhi Lin, Peng Wang, Yonghua Song, Ling Ji and Rong Chen, “Utilization of Flexible Residential Loads for Voltage Control and Demand Response,”  *IET Generation, Transmission & Distribution*. [[PDF](https://huihongxun.github.io/files/IET_GTD_QiangqiangXie_DRforVoltageRegulation.pdf)]
+- Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Chengjin Ye, Zhenzhi Lin, Peng Wang, Yonghua Song, Ling Ji and Rong Chen, “Use of Demand Response for Voltage Regulation in Power Distribution Systems with Flexible Resources,”  *IET Generation, Transmission & Distribution*. [[PDF](https://huihongxun.github.io/files/IET_GTD_QiangqiangXie_DRforVoltageRegulation.pdf)]
 
 - Kaijie Zhang, Yi Ding, **Hongxun Hui**, Xiaolun Fang and Kang Xie, “Dispatching Potential Evaluation of Thermostatically Controlled Loads Based on Realistic Customer Electricity Data in China,” *IEEE Conference on Energy Internet and Energy System Integration*, Changsha, China, 2019. [[PDF](https://huihongxun.github.io/files/IEEE EI2-Kaijie Zhang.pdf)]
 
@@ -143,6 +143,7 @@ author_profile: true
   - *International Journal of Electrical Power & Energy Systems*
   - *Renewable & Sustainable Energy Reviews*
   - *Economic Alternatives*
+  - *IET Energy Systems Integration*
 - **Conference Reviewer** 
   - *IEEE PES General Meeting*
   - *International Conference on Applied Energy*

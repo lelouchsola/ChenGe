@@ -78,7 +78,7 @@ author_profile: true
 
 # Build My Lab
 
-### **Data-driven Multi-energy Experiment and Simulation Platform** *(Jul. 2015 - Oct. 2018, Hangzhou, China)* [[Lab Introduction](https://huihongxun.github.io/files/Presentation/20180912_SGOOL_platform.pdf)]
+### **Data-driven Multi-energy Experiment and Simulation Platform** *(Jul. 2015 - Oct. 2018, Hangzhou, China)* [[Lab Introduction Presentation](https://huihongxun.github.io/files/ResearchProjects/20180912_SGOOL_platform.pdf)] [[Lab Introduction in English](https://huihongxun.github.io/files/ResearchProjects/Data-driven_Multi-energy_Platform.pdf)]
 
 - *Supported by Smart Grid Operation and Optimization Laboratory*
 - Position: Project director, supervised by Prof. Yi Ding
