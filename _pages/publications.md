@@ -22,9 +22,9 @@ author_profile: true
 
 - **Hongxun Hui**, Yi Ding, Yonghua Song and Saifur Rahman, “Modelling and Dynamic Performance Analysis of the Power System Under Unit Contingency Shutdown Accidents Considering Demand Response,” *International Conference on Applied Energy*, Sweden, Aug. 2019. [[PDF](https://huihongxun.github.io/files/APEN_ICAE_Sweden_2019.pdf)]
 
-- **Hongxun Hui**, Yi Ding, Zhenzhi Lin, Pierluigi Siano and Yonghua Song, “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” *IEEE Transactions on Power Systems*, Early Access, Jun. 2019. [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_08743401.pdf)]
-
   <p align="right"><font size="5">2020</font></p>
+
+- **Hongxun Hui**, Yi Ding, Zhenzhi Lin, Pierluigi Siano and Yonghua Song, “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” *IEEE Transactions on Power Systems*, vol. 35, no. 1, pp. 332-345, Jan. 2020. [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_08743401.pdf)]
 
 - **Hongxun Hui**, Yi Ding, Qingxin Shi, Fangxing Li, Yonghua Song and Jinyue Yan, “[5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential](https://www.sciencedirect.com/science/article/pii/S0306261919316599?dgcid=coauthor),” *Applied Energy*, vol. 257, pp. 113972, Jan. 2020. [[PDF](https://huihongxun.github.io/files/Applied_Energy_Review_Paper_5G_and_DR.pdf)]
 
@@ -139,7 +139,7 @@ author_profile: true
   - *IEEE Access*
   - *Applied Energy*
   - *CSEE Journal of Power & Energy Systems*
-  - *Journal of Modern Power Systems and Clean Energy* 
+  - *Journal of Modern Power Systems and Clean Energy* [[Excellence in Reviewing](https://huihongxun.github.io/files/Awards/2019_MPCE_Excellence_in_Reviewing.jpg)]
   - *International Journal of Electrical Power & Energy Systems*
   - *Renewable & Sustainable Energy Reviews*
   - *Economic Alternatives*
