@@ -32,6 +32,7 @@ The International Conference on Renewable Energy (ICREN) 2020 will be held in Ro
 
 News
 ======
+- **[2020-02-10]** Our paper "Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners" was accepted by *IEEE Transactions on Industrial Electronics*!
 - **[2020-01-15]** I was awarded as 2019 “[**Excellence in Reviewing**](https://huihongxun.github.io/files/Awards/2019_MPCE_Excellence_in_Reviewing.jpg)” by *Journal of Modern Power Systems and Clean Energy* (MPCE).  
 - **[2019-12-20]** Our paper “Use of Demand Response for Voltage Regulation in Power Distribution Systems with Flexible Resources,” was accepted by *IET Generation, Transmission & Distribution*! ![Editing a markdown file for a talk](/images/IET_GTD_QiangqiangXie_DRforVoltageRegulation.png)
 - **[2019-12-13]** I was awarded the twelfth **Top Ten Students** ([十佳学子](https://huihongxun.github.io/files/Awards/2019_Certificate_十佳学子.png)) at the College of Electrical Engineering, Zhejiang University! 10 students were selected from around 2300 students at College of EE.
