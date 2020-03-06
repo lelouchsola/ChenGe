@@ -16,7 +16,7 @@ author_profile: true
 ## Journal Publications
 
 <p align="right"><font size="5">Accepted</font></p>
-- **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners,” *IEEE Transactions on Industrial Electronics*.
+- **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “[Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners](https://ieeexplore.ieee.org/document/9014526),” *IEEE Transactions on Industrial Electronics*, Early Access, Feb. 2020, **DOI:** [10.1109/TIE.2020.2975465](https://doi.org/10.1109/TIE.2020.2975465). [[PDF](https://huihongxun.github.io/files/TIE_9014526.pdf)]
 
 - Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Chengjin Ye, Zhenzhi Lin, Peng Wang, Yonghua Song, Ling Ji and Rong Chen, “Use of Demand Response for Voltage Regulation in Power Distribution Systems with Flexible Resources,”  *IET Generation, Transmission & Distribution*. [[PDF](https://huihongxun.github.io/files/IET_GTD_QiangqiangXie_DRforVoltageRegulation.pdf)]
 
