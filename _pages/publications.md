@@ -18,8 +18,6 @@ author_profile: true
 <p align="right"><font size="5">Accepted</font></p>
 - **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “[Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners](https://ieeexplore.ieee.org/document/9014526),” *IEEE Transactions on Industrial Electronics*, Early Access, Feb. 2020, **DOI:** [10.1109/TIE.2020.2975465](https://doi.org/10.1109/TIE.2020.2975465). [[PDF](https://huihongxun.github.io/files/TIE_9014526.pdf)]
 
-- Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Chengjin Ye, Zhenzhi Lin, Peng Wang, Yonghua Song, Ling Ji and Rong Chen, “Use of Demand Response for Voltage Regulation in Power Distribution Systems with Flexible Resources,”  *IET Generation, Transmission & Distribution*. [[PDF](https://huihongxun.github.io/files/IET_GTD_QiangqiangXie_DRforVoltageRegulation.pdf)]
-
 - Kaijie Zhang, Yi Ding, **Hongxun Hui**, Xiaolun Fang and Kang Xie, “Dispatching Potential Evaluation of Thermostatically Controlled Loads Based on Realistic Customer Electricity Data in China,” *IEEE Conference on Energy Internet and Energy System Integration*, Changsha, China, 2019. [[PDF](https://huihongxun.github.io/files/IEEE EI2-Kaijie Zhang.pdf)]
 
   <p align="right"><font size="5">2020</font></p>
@@ -27,6 +25,8 @@ author_profile: true
 - **Hongxun Hui**, Yi Ding, Zhenzhi Lin, Pierluigi Siano and Yonghua Song, “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” *IEEE Transactions on Power Systems*, vol. 35, no. 1, pp. 332-345, Jan. 2020. [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_08743401.pdf)]
 
 - **Hongxun Hui**, Yi Ding, Qingxin Shi, Fangxing Li, Yonghua Song and Jinyue Yan, “[5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential](https://www.sciencedirect.com/science/article/pii/S0306261919316599?dgcid=coauthor),” *Applied Energy*, vol. 257, pp. 113972, Jan. 2020. [[PDF](https://huihongxun.github.io/files/Applied_Energy_Review_Paper_5G_and_DR.pdf)]
+
+- Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Chengjin Ye, Zhenzhi Lin, Peng Wang, Yonghua Song, Ling Ji and Rong Chen, “[Use of Demand Response for Voltage Regulation in Power Distribution Systems with Flexible Resources](https://digital-library.theiet.org/content/journals/10.1049/iet-gtd.2019.1170),”  *IET Generation, Transmission & Distribution*, vol. 14, no. 5, pp. 883-92, Jan. 2020.[[PDF](https://huihongxun.github.io/files/IET_GTD_QiangqiangXie_DRforVoltageRegulation.pdf)]
 
 <p align="right"><font size="5">2019</font></p>
 - Kang Xie, **Hongxun Hui** and Yi Ding, “[Review of Modeling and Control Strategy of Thermostatically Controlled Loads for Virtual Energy Storage System](https://link.springer.com/article/10.1186/s41601-019-0135-3),” *Protection and Control of Modern Power Systems*, vol.4, no. 1, pp. 1-13, Dec. 2019. [[PDF](https://huihongxun.github.io/files/PCMPS_Xiekang_Review_of_TCLs_for_VESS.pdf)]
