@@ -12,7 +12,7 @@ I was elected in the 1st batch of the Academic Rising Star Program (three winner
 
 My research interests are about the optimal control and market mechanism design of flexible loads (especially the heating, ventilating, and air-conditioning loads) considering high penetration of renewable energies in smart grid, specifically including the modeling and control method of flexible loads, the electricity market considering demand response, and the reliability analysis considering multiple uncertainties brought by flexible loads and renewable energies.
 
-Here is my [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20191120.pdf).
+Here is my [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20200402.pdf).
 
 ------
 
