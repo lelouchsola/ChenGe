@@ -67,9 +67,8 @@ author_profile: true
 
 ## Submitted Journal Papers (Under Review)
 
-- **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Saifur Rahman and Yonghua Song, “Coupon-Based Demand Response for Consumers Facing the Flat-Rate Retail Pricing,” *IEEE Transactions on Smart Grid*.
-- **Hongxun Hui**, Qingxin Shi, Yi Ding, Saifur Rahman and Yonghua Song, “Inertia Support and Frequency Regulation of Virtual Synchronous Generator by IACs,” *IEEE Power Engineering Letters*.
-- Yi Ding, Dunjian Xie, **Hongxun Hui** and Yan Xu, “Game-Theoretic-Based Demand Side Management of Thermostatically Controlled Loads for Smoothing the Tie-line Power of Microgrid,” *IEEE Transactions on Sustainable Energy*.
+- **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Saifur Rahman and Yonghua Song, “Coupon-Based Demand Response in Power Systems for Consumers Facing Flat-Rate Retail Pricing Considering High Penetration of Renewable Resources,” *Energy Conversion and Management*.
+- Yi Ding, Dunjian Xie, **Hongxun Hui**, Yan Xu and Pierluigi Siano, “Game-Theoretic-Based Demand Side Management of Thermostatically Controlled Loads for Smoothing the Tie-line Power of Microgrid,” *IEEE Transactions on Power Systems*.
 - Xinran Zhuang, Yi Ding, Changzheng Shao and **Hongxun Hui**, “Reliability Evaluation of Interconnected Power Systems with VSC-HVDC Links Considering the Frequency Dynamics,” *IET Generation, Transmission & Distribution*.
 - Xingying Chen, Shuyang Xu, Jun Xie, Saifur Rahman, Jixiang Wang, **Hongxun Hui** and Tao Chen, “Agent-based Modelling and Simulation of Electricity Market with Residential Demand Response,” *CSEE Journal of Power and Energy Systems*.
 - Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Weiran Wang, Huibin Qin and Xiangrong Shentu, "Coordinated Voltage Regulation by Operating Power of Aggregated Air Conditioners Considering Participation Priority," *Applied Energy*.
@@ -140,9 +139,13 @@ author_profile: true
   - *CSEE Journal of Power & Energy Systems*
   - *Journal of Modern Power Systems and Clean Energy* [[Excellence in Reviewing](https://huihongxun.github.io/files/Awards/2019_MPCE_Excellence_in_Reviewing.jpg)]
   - *International Journal of Electrical Power & Energy Systems*
+  - *Journal of Electrical Engineering & Technology*
+  - *International Transactions on Electrical Energy Systems*
   - *Renewable & Sustainable Energy Reviews*
   - *Economic Alternatives*
   - *IET Energy Systems Integration*
+  - *IEEE IAS Publications (IEEE Transactions on Industry Applications)*
+  - *IEEE Transactions on Circuits and Systems I: Regular Papers*
 - **Conference Reviewer** 
   - *IEEE PES General Meeting*
   - *International Conference on Applied Energy*
