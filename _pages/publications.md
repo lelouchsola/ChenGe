@@ -20,6 +20,8 @@ author_profile: true
 
 - Kaijie Zhang, Yi Ding, **Hongxun Hui**, Xiaolun Fang and Kang Xie, “Dispatching Potential Evaluation of Thermostatically Controlled Loads Based on Realistic Customer Electricity Data in China,” *IEEE Conference on Energy Internet and Energy System Integration*, Changsha, China, 2019. [[PDF](https://huihongxun.github.io/files/IEEE EI2-Kaijie Zhang.pdf)]
 
+- Shuyang Xu, Xingying Chen, Jun Xie, Saifur Rahman, Jixiang Wang, **Hongxun Hui** and Tao Chen, “Agent-based Modelling and Simulation of Electricity Market with Residential Demand Response,” *CSEE Journal of Power and Energy Systems*.
+
   <p align="right"><font size="5">2020</font></p>
 
 - **Hongxun Hui**, Yi Ding, Zhenzhi Lin, Pierluigi Siano and Yonghua Song, “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” *IEEE Transactions on Power Systems*, vol. 35, no. 1, pp. 332-345, Jan. 2020. [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_08743401.pdf)]
@@ -67,11 +69,10 @@ author_profile: true
 
 ## Submitted Journal Papers (Under Review)
 
-- **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Saifur Rahman and Yonghua Song, “Coupon-Based Demand Response in Power Systems for Consumers Facing Flat-Rate Retail Pricing Considering High Penetration of Renewable Resources,” *Energy Conversion and Management*.
+- **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Saifur Rahman and Yonghua Song, “Coupon-Based Demand Response in Power Systems for Consumers Facing Flat-Rate Retail Pricing Considering High Penetration of Renewable Resources,” *Journal of Modern Power Systems and Clean Energy*.
 - Yi Ding, Dunjian Xie, **Hongxun Hui**, Yan Xu and Pierluigi Siano, “Game-Theoretic-Based Demand Side Management of Thermostatically Controlled Loads for Smoothing the Tie-line Power of Microgrid,” *IEEE Transactions on Power Systems*.
 - Xinran Zhuang, Yi Ding, Changzheng Shao and **Hongxun Hui**, “Reliability Evaluation of Interconnected Power Systems with VSC-HVDC Links Considering the Frequency Dynamics,” *IET Generation, Transmission & Distribution*.
-- Xingying Chen, Shuyang Xu, Jun Xie, Saifur Rahman, Jixiang Wang, **Hongxun Hui** and Tao Chen, “Agent-based Modelling and Simulation of Electricity Market with Residential Demand Response,” *CSEE Journal of Power and Energy Systems*.
-- Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Weiran Wang, Huibin Qin and Xiangrong Shentu, "Coordinated Voltage Regulation by Operating Power of Aggregated Air Conditioners Considering Participation Priority," *Applied Energy*.
+- Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Weiran Wang, Huibin Qin and Xiangrong Shentu, "Coordinated Voltage Regulation by Operating Power of Aggregated Air Conditioners Considering Participation Priority," *Electric Power Systems Research*.
 
 
 
