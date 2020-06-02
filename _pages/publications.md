@@ -16,9 +16,11 @@ author_profile: true
 ## Journal Publications
 
 <p align="right"><font size="5">Accepted</font></p>
-- **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “[Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners](https://ieeexplore.ieee.org/document/9014526),” *IEEE Transactions on Industrial Electronics*, Early Access, Feb. 2020, **DOI:** [10.1109/TIE.2020.2975465](https://doi.org/10.1109/TIE.2020.2975465). [[PDF](https://huihongxun.github.io/files/TIE_9014526.pdf)]
+- Hongxun Hui, Yi Ding, Yonghua Song, "Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages," *Applied Energy*, Jun. 2020.
 
-- Shuyang Xu, Xingying Chen, Jun Xie, Saifur Rahman, Jixiang Wang, **Hongxun Hui** and Tao Chen, “Agent-based Modelling and Simulation of Electricity Market with Residential Demand Response,” *CSEE Journal of Power and Energy Systems*.
+- Shuyang Xu, Xingying Chen, Jun Xie, Saifur Rahman, Jixiang Wang, **Hongxun Hui** and Tao Chen, “Agent-based Modelling and Simulation of Electricity Market with Residential Demand Response,” *CSEE Journal of Power and Energy Systems*, May 2020.
+
+- **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “[Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners](https://ieeexplore.ieee.org/document/9014526),” *IEEE Transactions on Industrial Electronics*, Early Access, Feb. 2020, **DOI:** [10.1109/TIE.2020.2975465](https://doi.org/10.1109/TIE.2020.2975465). [[PDF](https://huihongxun.github.io/files/TIE_9014526.pdf)]
 
   <p align="right"><font size="5">2020</font></p>
 
