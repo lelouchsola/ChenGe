@@ -20,7 +20,7 @@ author_profile: true
 
   <p align="right"><font size="5">2020</font></p>
 
-- **Hongxun Hui**, Yi Ding, Yonghua Song, "[Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages](https://www.sciencedirect.com/science/article/abs/pii/S0306261920308333)," *Applied Energy*, vol. 275, pp. 115321, Oct. 2020.
+- **Hongxun Hui**, Yi Ding, Yonghua Song, "[Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages](https://www.sciencedirect.com/science/article/abs/pii/S0306261920308333)," *Applied Energy*, vol. 275, pp. 115321, Oct. 2020. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261920308333.pdf)] 
 
 - **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “[Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners](https://ieeexplore.ieee.org/document/9014526),” *IEEE Transactions on Industrial Electronics*, Early Access, Feb. 2020, **DOI:** [10.1109/TIE.2020.2975465](https://doi.org/10.1109/TIE.2020.2975465). [[PDF](https://huihongxun.github.io/files/TIE_9014526.pdf)]
 
