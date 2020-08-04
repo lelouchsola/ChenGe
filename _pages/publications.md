@@ -16,11 +16,15 @@ author_profile: true
 ## Journal Publications
 
 <p align="right"><font size="5">Accepted</font></p>
-- Shuyang Xu, Xingying Chen, Jun Xie, Saifur Rahman, Jixiang Wang, **Hongxun Hui** and Tao Chen, “Agent-based Modelling and Simulation of Electricity Market with Residential Demand Response,” *CSEE Journal of Power and Energy Systems*, May 2020.
+- 
 
   <p align="right"><font size="5">2020</font></p>
 
-- **Hongxun Hui**, Yi Ding, Yonghua Song, "[Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages](https://www.sciencedirect.com/science/article/abs/pii/S0306261920308333)," *Applied Energy*, vol. 275, pp. 115321, Oct. 2020. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261920308333.pdf)] 
+- **Hongxun Hui**, Yi Ding, Yonghua Song, "[Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages](https://www.sciencedirect.com/science/article/abs/pii/S0306261920308333)," *Applied Energy*, vol. 275, pp. 115321, Oct. 2020. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261920308333.pdf)]
+
+- Taoyi Qi, **Hongxun Hui**, Lizhong Xu, Xiang Ma, Yi Ding, "[Modeling and Control of Generalized Demand Response in Micro-grids Based on GridLAB-D](http://gydi.cbpt.cnki.net/WKD/WebPublication/paperDigest.aspx?paperID=22b3ab6c-34ca-48ad-b4cf-2fa5f896716c)," *Distribution & Utilization*, vol. 37, no. 7, pp. 3-10, Aug. 2020. [[PDF](https://huihongxun.github.io/files/基于GridLAB_D的微电网广义需求响应建模与控制_漆淘懿.pdf)]
+
+- Shuyang Xu, Xingying Chen, Jun Xie, Saifur Rahman, Jixiang Wang, **Hongxun Hui** and Tao Chen, “[Agent-based Modelling and Simulation of Electricity Market with Residential Demand Response](https://ieeexplore.ieee.org/document/9133617),” *CSEE Journal of Power and Energy Systems*, Early Access, Jul. 2020, **DOI:** [10.17775/CSEEJPES.2019.01750](https://doi.org/10.17775/CSEEJPES.2019.01750). [[PDF](https://huihongxun.github.io/files/CSEE_XuShuyang.pdf)] 
 
 - **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “[Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners](https://ieeexplore.ieee.org/document/9014526),” *IEEE Transactions on Industrial Electronics*, Early Access, Feb. 2020, **DOI:** [10.1109/TIE.2020.2975465](https://doi.org/10.1109/TIE.2020.2975465). [[PDF](https://huihongxun.github.io/files/TIE_9014526.pdf)]
 
