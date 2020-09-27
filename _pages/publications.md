@@ -16,7 +16,7 @@ author_profile: true
 ## Journal Publications
 
 <p align="right"><font size="5">Accepted</font></p>
-- 
+- Haiyue Yu, Kang Xie, **Hongxun Hui**, Yi Ding, "Review and Prospect of Flexible Loads for Participating in Frequency Regulation," In 4th IEEE Conference on Energy Internet and Energy system Integration, Wuhan, China, Oct. 2020, pp. 1-5.
 
   <p align="right"><font size="5">2020</font></p>
 
