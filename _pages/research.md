@@ -21,6 +21,19 @@ author_profile: true
 
 ------
 
+### **Construction Scheme of Distinctive Town with Smart Energy** *(Sep. 2018 - Apr. 2019, Hangzhou, China)*
+
+- *Supported by Zhejiang Province Government*
+- *Research Assistant (Principal Student Investigator)*
+  - Zero-carbon house for high-end rehabilitation base, and low-carbon conference center for exhibition of smart energy systems.
+  - Smart energy-saving industry garden, with industries circulation system, and smart lighting systems.
+
+![Editing a markdown file for a talk](/images/research/research_distinctive_town.png)
+
+
+
+------
+
 ### **Reliability Analysis and Optimization of Smart Grid Considering the Coordinated Operation of Flexible Resources and Wind Power** *(Jan. 2016 – Dec. 2019, Hangzhou, China)*, $130K
 
 - *Supported by National Natural Science Foundation of China* (No. 51577167) 
@@ -87,23 +100,6 @@ author_profile: true
   - Real data-driven simulation platform for energy Internet of Things.
 
 ![Editing a markdown file for a talk](/images/research/research_data_driven.png)
-
-
-
-
-
-# In Application
-
-### **Construction Scheme of Distinctive Town with Smart Energy** *(Sep. 2018 - Apr. 2019, Hangzhou, China)*
-
-- *Supported by Zhejiang Province Government*
-- *Research Assistant (Principal Student Investigator)*
-  - Zero-carbon house for high-end rehabilitation base, and low-carbon conference center for exhibition of smart energy systems.
-  - Smart energy-saving industry garden, with industries circulation system, and smart lighting systems.
-
-![Editing a markdown file for a talk](/images/research/research_distinctive_town.png)
-
-
 
 
 
