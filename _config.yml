@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Welcome to my personal website! If you are interested in my research, welcome to contact with me."
   avatar           : "profile.png"
-  bio              : #"Room 1005h, Building N21, University of Macau, Avenida da Universidade, Taipa, Macau, CHINA."
-  location         : "Room 1005h, Building N21, University of Macau, Avenida da Universidade, Taipa, Macau, CHINA."
+  bio              : "Room 1005h, Building N21, University of Macau, Avenida da Universidade, Taipa, Macau, CHINA."
+  location         : #"Room 1005h, Building N21, University of Macau, Avenida da Universidade, Taipa, Macau, CHINA."
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=m2L0mD4AAAAJ&hl=en"
