@@ -15,7 +15,11 @@ author_profile: true
   - Cooperative control method of flexible loads for providing regulation services for power systems.
   - Optimal dispatch methods of flexible loads and renewable energy generations.
 
+<!--
+
 ![Editing a markdown file for a talk](/images/research/research_RisingStar.png)
+
+-->
 
 
 
