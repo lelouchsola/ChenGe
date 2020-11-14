@@ -15,7 +15,7 @@ author_profile: true
   - Cooperative control method of flexible loads for providing regulation services for power systems.
   - Optimal dispatch methods of flexible loads and renewable energy generations.
 
-<!--
+<!-- 这个图片注释掉了
 
 ![Editing a markdown file for a talk](/images/research/research_RisingStar.png)
 
@@ -33,9 +33,11 @@ author_profile: true
   - Business model design for flexible loads participating in demand response, including electricity prices, transaction method, and settlement method.
   - Field demonstration in Suzhou and Changzhou Cities, around 110,000 customers are equipped with smart devices to participate in this project. It is one of the largest demand response projects in the world.
 
+<!-- 这个图片注释掉了
+
 ![Editing a markdown file for a talk](/images/research/research_friendly_interactive.png)
 
-
+-->
 
 ------
 
@@ -46,9 +48,11 @@ author_profile: true
   - Zero-carbon house for high-end rehabilitation base, and low-carbon conference center for exhibition of smart energy systems.
   - Smart energy-saving industry garden, with industries circulation system, and smart lighting systems.
 
+<!-- 这个图片注释掉了
+
 ![Editing a markdown file for a talk](/images/research/research_distinctive_town.png)
 
-
+-->
 
 ------
 
@@ -59,9 +63,11 @@ author_profile: true
   - Multiple uncertainties’ analysis of various flexible resources, especially HVACs.
   - Reliability models and optimization of power systems, considering wind power and flexible resources.
 
+<!-- 这个图片注释掉了
+
 ![Editing a markdown file for a talk](/images/research/research_reliability_NSFC.png)
 
-
+-->
 
 ------
 
@@ -73,9 +79,11 @@ author_profile: true
   - Quantitative evaluation of peak-shaving capacities provided by flexible loads, considering multiple uncertainties.
   - Comparison of reliability and economy of the power system before and after integrating demand response.
 
+<!-- 这个图片注释掉了
+
 ![Editing a markdown file for a talk](/images/research/research_peak_shaving.png)
 
-
+-->
 
 ------
 
@@ -87,9 +95,11 @@ author_profile: true
   - The new spike price policy is proposed and implemented for the first time in China.
   - According to the energy efficiency evaluation report by State Grid Jiangsu Electric Power Company, the construction investments in power plants and transmission lines are postponed around 16.78 billion Chinese Yuan.
 
+<!-- 这个图片注释掉了
+
 ![Editing a markdown file for a talk](/images/research/research_consumer_DR.png)
 
-
+-->
 
 ------
 
@@ -101,9 +111,11 @@ author_profile: true
   - The operation performance and regulation potential of flexible loads with dynamic electricity prices.
   - The proposed models and methods were tested and implemented in State Grid Jiangsu Electric Power Company.
 
+<!-- 这个图片注释掉了
+
 ![Editing a markdown file for a talk](/images/research/research_regulation_potential.png)
 
-
+-->
 
 
 
@@ -117,7 +129,9 @@ author_profile: true
   - Smart plug-based data acquisition, processing and energy consumption suggestion systems.
   - Real data-driven simulation platform for energy Internet of Things.
 
+<!-- 这个图片注释掉了
+
 ![Editing a markdown file for a talk](/images/research/research_data_driven.png)
 
-
+-->
 
