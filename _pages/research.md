@@ -7,6 +7,20 @@ author_profile: true
 
 
 
+### **Cooperative Control of Flexible Loads in Power Systems with High Penetration of Renewable Energies ** *(Sep. 2018 – Sep. 2019, Hangzhou, China)*, $40K
+
+- *Supported by Zhejiang University, Academic Rising Star Program* (No. 2018025)
+- *Principal Investigator*
+- - Modelling of flexible loads, especially HVACs.
+  - Cooperative control method of flexible loads for providing regulation services for power systems.
+  - Optimal dispatch methods of flexible loads and renewable energy generations.
+
+![Editing a markdown file for a talk](/images/research/research_RisingStar.png)
+
+
+
+------
+
 ### **Friendly Interactive Smart Grid Between Supply- and Demand-Sides** *(Jul. 2016 – Jun. 2020, Nanjing, China)*, $1100K
 
 - *Supported by Ministry of Science and Technology of China* (No. 2016YFB0901100)
