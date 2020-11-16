@@ -7,7 +7,7 @@ author_profile: true
 
 ## Books
 
-- Yi Ding, Yonghua Song, **Hongxun Hui** and Changzheng Shao. [Integration of Air Conditioning and Heating into Modern Power Systems—Enabling Demand Response and Energy Efficiency](https://link.springer.com/book/10.1007%2F978-981-13-6420-4). Springer; 2019. (All eight chapters) [[PDF](https://huihongxun.github.io/files/2019_Book_IntegrationOfAirConditioningAn.pdf)]
+- Yi Ding, Yonghua Song, **Hongxun Hui** and Changzheng Shao. [Integration of Air Conditioning and Heating into Modern Power Systems—Enabling Demand Response and Energy Efficiency](https://link.springer.com/book/10.1007%2F978-981-13-6420-4). Springer; 2019. [[PDF](https://huihongxun.github.io/files/2019_Book_IntegrationOfAirConditioningAn.pdf)]
 
 
 
@@ -129,7 +129,7 @@ author_profile: true
 
 # Professional Activities
 
-- **Vice President**, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University (2018-2020)
+- **Past-Vice President**, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University (2018-2020)
 - **Journal Referee**  
   - *IEEE Transactions on Power Systems*
   - *IEEE Transactions on Smart Grid*
@@ -153,4 +153,5 @@ author_profile: true
   - *IEEE Sustainable Power & Energy Conference*
   - *International Conference on Smart Energy Systems and Technologies*
   - *IEEE International Conference on Environment and Electrical Engineering and IEEE Industrial and Commercial Power Systems Europe*
+  - *International Conference on Renewable Energy*
 
