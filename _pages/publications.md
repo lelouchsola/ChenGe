@@ -86,6 +86,8 @@ author_profile: true
 
 # Presentations and Invited Talks
 
+- Control of Thermostatically Controlled Loads for Providing Regulation Services in Power Systems, *International Conference on Renewable Energy*, Rome, Italy, Nov. 2020. ([Plenary Speaker](https://premc.org/conferences/icren-renewable-energy/plenary-speakers/#menu))
+- [Equivalent Modeling and Control of Inverter Air Conditioners for Providing Frequency Regulation Service](https://mp.weixin.qq.com/s/L-vmXeJVAh823DENaT6jzg), *the 4th IEEE Conference on Energy Internet and Energy System Integration* ([EI2 2020](https://attend.ieee.org/ei2-2020/)) , Wuhan, China, Oct. 2020. ([Outstanding presentation]((https://huihongxun.github.io/files/Presentation/20201101_PlenarySpeaker_Wuhan_EI2.jpg)))
 - [Modelling and Dynamic Performance Analysis of the Power System Under Unit Contingency Shutdown Accidents Considering Demand Response](https://huihongxun.github.io/files/Presentation/20190810_ICAE2019.pdf), *International Conference on Applied Energy*, Västerås, Sweden, Aug. 2019.
 - [Modeling and Analysis of Inverter Air Conditioners for Primary Frequency Control Considering Signal Delays and Detection Errors](https://huihongxun.github.io/files/Presentation/20180825_ICAE2018.pdf), *International Conference on Applied Energy*, Hong Kong, China, Aug. 2018.
 - [Demonstration of Friendly Interactive Grid Under the Background of Electricity Market Reform in China](https://huihongxun.github.io/files/Presentation/20170529_EEEIC17_Italy.pdf), *IEEE EEEIC17 and I&CPS Europe*, Milan, Italy, Jun. 2017.
@@ -106,6 +108,7 @@ author_profile: true
 - Yi Ding, **Hongxun Hui** and Yonghua Song, “An Intelligent Meter with Multi-time Scale Electricity Prices,” No. CN201610543375.1, May 2019. [[Certificate](https://huihongxun.github.io/files/Patents/一种具有多时间尺度电价信息的智能电表.jpg)]
 - Yi Ding, **Hongxun Hui**, Zhenyu Chen, Kaining Luan, Chunyu Xie, Wenqi Cui, and Kang Xie, "One Demand Response Method Considering the Total Cost Risk of Power System," No. CN201811050910.5, Jul. 2020. [[Certificate](https://huihongxun.github.io/files/Patents/一种考虑电网总计价风险的计量机制的需求响应方法.pdf)]
 - Yi Ding, Kang Xie, **Hongxun Hui**, and Kaijie Zhang, "Frequency Regulation Controller of Inverter Air Conditioners Considering Incentive Signals," No. CN201910576119.6, Oct. 2020. [[Certificate](https://huihongxun.github.io/files/Patents/考虑调频激励信号的变频空调参与电力系统调频的控制器.pdf)]
+- Yi Ding, **Hongxun Hui**, and Yonghua Song, "Hybrid Control Method of Integrated Inverter Air Conditioners for Providing Frequency Regulation Services," No. CN201910511062.1, Nov. 2020. [[Certificate](https://huihongxun.github.io/files/Patents/考虑调频激励信号的变频空调参与电力系统调频的控制器.pdf)]
 
 
 
