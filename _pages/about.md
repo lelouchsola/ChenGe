@@ -18,9 +18,9 @@ Here is my [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20200402.pdf)
 
 # Call for Papers
 
-### International Conference on Renewable Energy 2020
+### ~~International Conference on Renewable Energy 2020~~
 
-The International Conference on Renewable Energy (ICREN) 2020 will be held in Rome, Italy, on  25-27 Nov. 2020. The conference is now open for paper submission (deadline is 9 Sep. 2020). Please check the [website]( https://premc.org/conferences/icren-renewable-energy/ ) for detailed information.
+~~The International Conference on Renewable Energy (ICREN) 2020 will be held in Rome, Italy, on  25-27 Nov. 2020. The conference is now open for paper submission (deadline is 9 Sep. 2020). Please check the [website]( https://premc.org/conferences/icren-renewable-energy/ ) for detailed information.~~
 
 ### ~~IEEE Student Conference on Electric Machines and Systems 2019~~
 
