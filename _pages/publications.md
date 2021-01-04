@@ -108,7 +108,7 @@ author_profile: true
 - Yi Ding, **Hongxun Hui** and Yonghua Song, “An Intelligent Meter with Multi-time Scale Electricity Prices,” No. CN201610543375.1, May 2019. [[Certificate](https://huihongxun.github.io/files/Patents/一种具有多时间尺度电价信息的智能电表.jpg)]
 - Yi Ding, **Hongxun Hui**, Zhenyu Chen, Kaining Luan, Chunyu Xie, Wenqi Cui, and Kang Xie, "One Demand Response Method Considering the Total Cost Risk of Power System," No. CN201811050910.5, Jul. 2020. [[Certificate](https://huihongxun.github.io/files/Patents/一种考虑电网总计价风险的计量机制的需求响应方法.pdf)]
 - Yi Ding, Kang Xie, **Hongxun Hui**, and Kaijie Zhang, "Frequency Regulation Controller of Inverter Air Conditioners Considering Incentive Signals," No. CN201910576119.6, Oct. 2020. [[Certificate](https://huihongxun.github.io/files/Patents/考虑调频激励信号的变频空调参与电力系统调频的控制器.pdf)]
-- Yi Ding, **Hongxun Hui**, and Yonghua Song, "Hybrid Control Method of Integrated Inverter Air Conditioners for Providing Frequency Regulation Services," No. CN201910511062.1, Nov. 2020. [[Certificate](https://huihongxun.github.io/files/Patents/考虑调频激励信号的变频空调参与电力系统调频的控制器.pdf)]
+- Yi Ding, **Hongxun Hui**, and Yonghua Song, "Hybrid Control Method of Integrated Inverter Air Conditioners for Providing Frequency Regulation Services," No. CN201910511062.1, Nov. 2020. [[Certificate](https://huihongxun.github.io/files/Patents/一种变频空调聚合参与电力系统调频的混合控制方法.pdf)]
 
 
 
