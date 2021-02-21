@@ -16,6 +16,8 @@ author_profile: true
 ## Journal Publications
 
 <p align="right"><font size="5">Accepted</font></p>
+- Yi Ding, Dunjian Xie, **Hongxun Hui**, Yan Xu, Pierluigi Siano, "Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids," *IEEE Transactions on Power Systems*, Accepted.
+
 - Haiyue Yu, Kang Xie, **Hongxun Hui**, Yi Ding, "Review and Prospect of Flexible Loads for Participating in Frequency Regulation," In *4th IEEE Conference on Energy Internet and Energy system Integration*, Wuhan, China, Oct. 2020, pp. 1-5. [[PDF](https://huihongxun.github.io/files/IEEE_Conf_EI2_Wuhan_2020.pdf)]
 
   <p align="right"><font size="5">2020</font></p>

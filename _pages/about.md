@@ -32,6 +32,7 @@ Here is my [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20200402.pdf)
 
 News
 ======
+- **[2021-02-21]**  Our paper "Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids" was accepted by *IEEE Transactions on Power Systems*.
 - **[2020-09-17]**  Our paper "[5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential](https://www.sciencedirect.com/science/article/pii/S0306261919316599?dgcid=coauthor)" was selected as the [Highly Cited Papers (Top 1%)](https://huihongxun.github.io/files/Applied_Energy_Review_Paper_5G_and_DR_HighlyCited.jpg).
 - **[2020-08-02]**  Our paper "[Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages](https://www.sciencedirect.com/science/article/abs/pii/S0306261920308333)" was published by *Applied Energy*!
 - **[2020-06-13]**  I completed my [PhD thesis defense](https://huihongxun.github.io/files/Awards/2020_PhD_Defense.jpg). Deeply indebted to my supervisors, Prof. Yi Ding and Prof. Yonghua Song.
