@@ -40,6 +40,7 @@ author_profile: true
 - **Hongxun Hui**, Yi Ding, Yonghua Song and Saifur Rahman, “[Modeling and Control of Flexible Loads for Frequency Regulation Services Considering Compensation of Communication Latency and Detection Error](https://www.sciencedirect.com/science/article/pii/S0306261919308335),” *Applied Energy*, vol. 250, pp. 161-74, Sep. 2019. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261919308335.pdf)]
 - **Hongxun Hui**, Yi Ding and Menglian Zheng, “[Equivalent Modeling of Inverter Air Conditioners for Providing Frequency Regulation Service](https://ieeexplore.ieee.org/abstract/document/8351974/),” *IEEE Transactions on Industrial Electronics*, vol. 66, no. 2, pp. 1413-23, Feb. 2019. [[PDF](https://huihongxun.github.io/files/TIE_8351974.pdf)]
 - **Hongxun Hui**, Yi Ding and Shihai Yang, “[Modeling and Analysis of Inverter Air Conditioners for Primary Frequency Control Considering Signal Delays and Detection Errors](https://www.sciencedirect.com/science/article/pii/S1876610219308811),” *Energy Procedia*, vol. 158, pp. 4003-10, Feb. 2019. [[PDF](https://huihongxun.github.io/files/APEN_ICAE_HongKong_2018.pdf)]
+- **Hongxun Hui**, Yi Ding, Yonghua Song and Saifur Rahman, “[Modelling and Dynamic Performance Analysis of the Power System Under Unit Contingency Shutdown Accidents Considering Demand Response](http://www.energy-proceedings.org/modelling-and-dynamic-performance-analysis-of-the-power-system-under-unit-contingency-shutdown-accidents-considering-demand-response/),” *Energy Proceedings*, vol. 3, pp. 1-6, Aug. 2019. [[PDF](https://huihongxun.github.io/files/APEN_ICAE_Sweden_2019.pdf)]
 - Kang Xie, **Hongxun Hui** and Yi Ding, “[Review of Modeling and Control Strategy of Thermostatically Controlled Loads for Virtual Energy Storage System](https://link.springer.com/article/10.1186/s41601-019-0135-3),” *Protection and Control of Modern Power Systems*, vol.4, no. 1, pp. 1-13, Dec. 2019. [[PDF](https://huihongxun.github.io/files/PCMPS_Xiekang_Review_of_TCLs_for_VESS.pdf)]
 - Yi Ding, Wenqi Cui, Shujun Zhang, **Hongxun Hui**, Yiwei Qiu and Yonghua Song, “[Multi-state Operating Reserve Model of Aggregate Thermostatically-Controlled-Loads for Power System Short-term Reliability Evaluation](https://www.sciencedirect.com/science/article/pii/S0306261919303083),” *Applied Energy*, vol. 241, pp. 46-58, May 2019. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261919303083.pdf)]
 - Yi Ding, Kaining Luan and **Hongxun Hui**, “[Energy saving and emission reduction from the glowworm project—Coupon-based demand response demonstration in flat rate market](https://spectrum.ieee.org/magazine/2019/January),” *IEEE Spectrum*, vol. 78, pp. 76-78, Jan. 2019. (in Chinese) [[PDF](https://huihongxun.github.io/files/IEEE Spectrum_Coupon.pdf)]
@@ -71,14 +72,6 @@ author_profile: true
 
 
 
-
-------
-
-## Submitted Journal Papers (Under Review)
-
-- **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Saifur Rahman and Yonghua Song, “Coupon-Based Demand Response in Power Systems for Consumers Facing Flat-Rate Retail Pricing Considering High Penetration of Renewable Resources,” *Journal of Modern Power Systems and Clean Energy*.
-- Yi Ding, Dunjian Xie, **Hongxun Hui**, Yan Xu and Pierluigi Siano, “Game-Theoretic-Based Demand Side Management of Thermostatically Controlled Loads for Smoothing the Tie-line Power of Microgrid,” *IEEE Transactions on Power Systems*.
-- Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Weiran Wang, Huibin Qin and Xiangrong Shentu, "Coordinated Voltage Regulation by Operating Power of Aggregated Air Conditioners Considering Participation Priority," *Electric Power Systems Research*.
 
 
 
