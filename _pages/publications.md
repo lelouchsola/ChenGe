@@ -16,7 +16,7 @@ author_profile: true
 ## Journal Publications
 
 <p align="right"><font size="5">Accepted</font></p>
-- Yi Ding, Dunjian Xie, **Hongxun Hui**, Yan Xu, Pierluigi Siano, "Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids," *IEEE Transactions on Power Systems*, Accepted.
+- Yi Ding, Dunjian Xie, **Hongxun Hui**, Yan Xu, Pierluigi Siano, "[Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids](https://ieeexplore.ieee.org/document/9374672)," *IEEE Transactions on Power Systems*, Early Access, Mar. 2021, **DOI:**  [10.1109/TPWRS.2021.3065097](https://doi.org/10.1109/TPWRS.2021.3065097). [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_9374672_Dunjian.pdf)] 
 
 - Haiyue Yu, Kang Xie, **Hongxun Hui**, Yi Ding, "Review and Prospect of Flexible Loads for Participating in Frequency Regulation," In *4th IEEE Conference on Energy Internet and Energy system Integration*, Wuhan, China, Oct. 2020, pp. 1-5. [[PDF](https://huihongxun.github.io/files/IEEE_Conf_EI2_Wuhan_2020.pdf)]
 
@@ -51,7 +51,7 @@ author_profile: true
 <p align="right"><font size="5">2018</font></p>
 - **Hongxun Hui**, Yi Ding, Kaining Luan and Daoqiang Xu, “[Analysis of 815 Blackout in Taiwan and the Improvement Method of Contingency Reserve Capacity Through Direct Load Control](https://ieeexplore.ieee.org/abstract/document/8586352),” *In IEEE PES General Meeting*, Portland, USA, Aug. 2018, pp. 1-5. [[PDF](https://huihongxun.github.io/files/IEEE_Conf_PES_2018_08586352.pdf)]
 - Dunjian Xie, **Hongxun Hui**, Yi Ding and Zhenzhi Lin, “[Operating Reserve Capacity Evaluation of Aggregated Heterogeneous TCLs with Price Signals](https://www.sciencedirect.com/science/article/pii/S0306261918301302),” *Applied Energy*, vol. 216, pp. 338-47, Apr. 2018. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261918301302.pdf)]
-- Wenqi Cui, Yi Ding, **Hongxun Hui**, Zhenzhi Lin, Pengwei Du, Yonghua Song and Changzheng Shao, “[Evaluation and Sequential Dispatch of Operating Reserve Provided by Air Conditioners Considering Lead–Lag Rebound Effect](https://ieeexplore.ieee.org/abstract/document/8379434),” *IEEE Transactions on Power Systems*, vol. 33,no. 6, pp. 6935-50, Nov. 2018. [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_8379434.pdf)]
+- Wenqi Cui, Yi Ding, **Hongxun Hui**, Zhenzhi Lin, Pengwei Du, Yonghua Song and Changzheng Shao, “[Evaluation and Sequential Dispatch of Operating Reserve Provided by Air Conditioners Considering Lead–Lag Rebound Effect](https://ieeexplore.ieee.org/abstract/document/8379434),” *IEEE Transactions on Power Systems*, vol. 33,no. 6, pp. 6935-50, Nov. 2018. [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_8379434_Wenqi.pdf)]
 - Xinyao Qu, **Hongxun Hui**, Yi Ding and Kaining Luan, “[Optimal Control of Intelligent Electricity Consumption for Residential Customers Considering Demand Response](https://www.sciencedirect.com/science/article/pii/S1876610218300821),” *Energy Procedia*, vol. 145, pp. 510-5, Jul. 2018. [[PDF](https://huihongxun.github.io/files/APEN_REM_Tianjin_2017.pdf)]
 
 <p align="right"><font size="5">2017</font></p>
