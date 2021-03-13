@@ -145,6 +145,8 @@ author_profile: true
   - *IET Energy Systems Integration*
   - *IEEE IAS Publications (IEEE Transactions on Industry Applications)*
   - *IEEE Transactions on Circuits and Systems I: Regular Papers*
+  - *IEEE Transactions on Automation Science and Engineering*
+  - *Energy Reports*
 - **Conference Reviewer** 
   - *IEEE PES General Meeting*
   - *International Conference on Applied Energy*
