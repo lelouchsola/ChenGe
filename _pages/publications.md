@@ -135,6 +135,9 @@ author_profile: true
   - *IEEE Transactions on Industrial Electronics*
   - *IEEE Access*
   - *Applied Energy*
+  - *IEEE Transactions on Circuits and Systems I: Regular Papers*
+  - *IEEE Transactions on Automation Science and Engineering*
+  - *IEEE IAS Publications (IEEE Transactions on Industry Applications)*
   - *CSEE Journal of Power & Energy Systems*
   - *Journal of Modern Power Systems and Clean Energy* [[Excellence in Reviewing](https://huihongxun.github.io/files/Awards/2019_MPCE_Excellence_in_Reviewing.jpg)]
   - *International Journal of Electrical Power & Energy Systems*
@@ -143,9 +146,8 @@ author_profile: true
   - *Renewable & Sustainable Energy Reviews*
   - *Economic Alternatives*
   - *IET Energy Systems Integration*
-  - *IEEE IAS Publications (IEEE Transactions on Industry Applications)*
-  - *IEEE Transactions on Circuits and Systems I: Regular Papers*
-  - *IEEE Transactions on Automation Science and Engineering*
+  - *IET Generation, Transmission & Distribution*
+  - *Technology in Society*
   - *Energy Reports*
 - **Conference Reviewer** 
   - *IEEE PES General Meeting*
