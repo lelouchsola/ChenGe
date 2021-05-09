@@ -20,13 +20,13 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 # Call for Papers
 
-### ~~International Conference on Renewable Energy 2020~~
+### International Conference on Renewable Energy 2020 (Closed)
 
-~~The International Conference on Renewable Energy (ICREN) 2020 will be held in Rome, Italy, on  25-27 Nov. 2020. The conference is now open for paper submission (deadline is 9 Sep. 2020). Please check the [website]( https://premc.org/conferences/icren-renewable-energy/ ) for detailed information.~~
+The International Conference on Renewable Energy (ICREN) 2020 will be held in Rome, Italy, on  25-27 Nov. 2020. The conference is now open for paper submission (deadline is 9 Sep. 2020). Please check the [website]( https://premc.org/conferences/icren-renewable-energy/ ) for detailed information.
 
-### ~~IEEE Student Conference on Electric Machines and Systems 2019~~
+### IEEE Student Conference on Electric Machines and Systems 2019 (Closed)
 
-~~The 2nd IEEE Student Conference on Electric Machines and Systems will be held at Kyungsung University, Busan, South Korea on Nov. 1st-3rd, 2019. The conference is now open for paper submission (deadline is Aug. 17, 2019). Please check the [website](https://www.scems2019.com/) for detailed information. Moreover, we are glad to tell you that all the conference papers last year in IEEE SCEMS 2018 have been published by IEEE and indexed by EI.~~
+The 2nd IEEE Student Conference on Electric Machines and Systems will be held at Kyungsung University, Busan, South Korea on Nov. 1st-3rd, 2019. The conference is now open for paper submission (deadline is Aug. 17, 2019). Please check the [website](https://www.scems2019.com/) for detailed information. Moreover, we are glad to tell you that all the conference papers last year in IEEE SCEMS 2018 have been published by IEEE and indexed by EI.
 
 
 
@@ -34,6 +34,7 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 News
 ======
+- **[2021-04-25]**  New publication: G. Chen, H. Zhang, H. Hui, and Y. Song, “Fast Wasserstein-distance-based distributionally robust chance-constrained power dispatch for multi-zone HVAC systems,” to appear in *IEEE Transactions on Smart Grid*, 2021. 
 - **[2021-02-21]**  Our paper "Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids" was accepted by *IEEE Transactions on Power Systems*.
 - **[2020-09-17]**  Our paper "[5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential](https://www.sciencedirect.com/science/article/pii/S0306261919316599?dgcid=coauthor)" was selected as the [Highly Cited Papers (Top 1%)](https://huihongxun.github.io/files/Applied_Energy_Review_Paper_5G_and_DR_HighlyCited.jpg).
 - **[2020-08-02]**  Our paper "[Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages](https://www.sciencedirect.com/science/article/abs/pii/S0306261920308333)" was published by *Applied Energy*!

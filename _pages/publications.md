@@ -15,16 +15,19 @@ author_profile: true
 
 ## Journal Publications
 
-<p align="right"><font size="5">Accepted</font></p>
-- Yi Ding, Dunjian Xie, **Hongxun Hui**, Yan Xu, Pierluigi Siano, "[Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids](https://ieeexplore.ieee.org/document/9374672)," *IEEE Transactions on Power Systems*, Early Access, Mar. 2021, **DOI:**  [10.1109/TPWRS.2021.3065097](https://doi.org/10.1109/TPWRS.2021.3065097). [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_9374672_Dunjian.pdf)] 
+<p align="right"><font size="5">2021</font></p>
 
-- Haiyue Yu, Kang Xie, **Hongxun Hui**, Yi Ding, "Review and Prospect of Flexible Loads for Participating in Frequency Regulation," In *4th IEEE Conference on Energy Internet and Energy system Integration*, Wuhan, China, Oct. 2020, pp. 1-5. [[PDF](https://huihongxun.github.io/files/IEEE_Conf_EI2_Wuhan_2020.pdf)]
+- Ge Chen, Hongcai Zhang, Hongxun Hui and Yonghua Song, “Fast Wasserstein-distance-based distributionally robust chance-constrained power dispatch for multi-zone HVAC systems,” *IEEE Transactions on Smart Grid*, Early Access, Apr. 2021. **DOI:** [10.1109/TSG.2021.3076237](https://doi.org/10.1109/TSG.2021.3076237). [[PDF](https://huihongxun.github.io/files/IEEE_Smart_Grid_09417102_Chenge.pdf)]
+
+- Yi Ding, Dunjian Xie, **Hongxun Hui**, Yan Xu and Pierluigi Siano, "[Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids](https://ieeexplore.ieee.org/document/9374672)," *IEEE Transactions on Power Systems*, Early Access, Mar. 2021, **DOI:**  [10.1109/TPWRS.2021.3065097](https://doi.org/10.1109/TPWRS.2021.3065097). [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_9374672_Dunjian.pdf)] 
+
+- Haiyue Yu, Kang Xie, **Hongxun Hui** and Yi Ding, "Review and Prospect of Flexible Loads for Participating in Frequency Regulation," In *4th IEEE Conference on Energy Internet and Energy system Integration*, Wuhan, China, Oct. 2020, pp. 1-5. [[PDF](https://huihongxun.github.io/files/IEEE_Conf_EI2_Wuhan_2020.pdf)]
 
   <p align="right"><font size="5">2020</font></p>
 
-- **Hongxun Hui**, Yi Ding, Yonghua Song, "[Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages](https://www.sciencedirect.com/science/article/abs/pii/S0306261920308333)," *Applied Energy*, vol. 275, pp. 115321, Oct. 2020. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261920308333.pdf)]
+- **Hongxun Hui**, Yi Ding and Yonghua Song, "[Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages](https://www.sciencedirect.com/science/article/abs/pii/S0306261920308333)," *Applied Energy*, vol. 275, pp. 115321, Oct. 2020. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261920308333.pdf)]
 
-- Taoyi Qi, **Hongxun Hui**, Lizhong Xu, Xiang Ma, Yi Ding, "[Modeling and Control of Generalized Demand Response in Micro-grids Based on GridLAB-D](http://gydi.cbpt.cnki.net/WKD/WebPublication/paperDigest.aspx?paperID=22b3ab6c-34ca-48ad-b4cf-2fa5f896716c)," *Distribution & Utilization*, vol. 37, no. 7, pp. 3-10, Aug. 2020. [[PDF](https://huihongxun.github.io/files/基于GridLAB_D的微电网广义需求响应建模与控制_漆淘懿.pdf)]
+- Taoyi Qi, **Hongxun Hui**, Lizhong Xu, Xiang Ma and Yi Ding, "[Modeling and Control of Generalized Demand Response in Micro-grids Based on GridLAB-D](http://gydi.cbpt.cnki.net/WKD/WebPublication/paperDigest.aspx?paperID=22b3ab6c-34ca-48ad-b4cf-2fa5f896716c)," *Distribution & Utilization*, vol. 37, no. 7, pp. 3-10, Aug. 2020. [[PDF](https://huihongxun.github.io/files/基于GridLAB_D的微电网广义需求响应建模与控制_漆淘懿.pdf)]
 
 - Shuyang Xu, Xingying Chen, Jun Xie, Saifur Rahman, Jixiang Wang, **Hongxun Hui** and Tao Chen, “[Agent-based Modelling and Simulation of Electricity Market with Residential Demand Response](https://ieeexplore.ieee.org/document/9133617),” *CSEE Journal of Power and Energy Systems*, Early Access, Jul. 2020, **DOI:** [10.17775/CSEEJPES.2019.01750](https://doi.org/10.17775/CSEEJPES.2019.01750). [[PDF](https://huihongxun.github.io/files/CSEE_XuShuyang.pdf)] 
 
