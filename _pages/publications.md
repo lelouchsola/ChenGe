@@ -16,11 +16,13 @@ author_profile: true
 ## Journal Publications
 
 <p align="right"><font size="5">2021</font></p>
-- Ge Chen, Hongcai Zhang, Hongxun Hui and Yonghua Song, “Fast Wasserstein-distance-based distributionally robust chance-constrained power dispatch for multi-zone HVAC systems,” *IEEE Transactions on Smart Grid*, Early Access, Apr. 2021. **DOI:** [10.1109/TSG.2021.3076237](https://doi.org/10.1109/TSG.2021.3076237). [[PDF](https://huihongxun.github.io/files/IEEE_Smart_Grid_09417102_Chenge.pdf)]
+- Xunhu Yin, Yi Ding, **Hongxun Hui**, Minglei Bao, Lizhong Xu, Xueyong Tang and Maosheng Sang, "Design of Demand Response Mechanism in Initial Electricity Spot Market Considering Response Behaviors of Customers," *Automation of Electric Power Systems*, vol. xx, no. xx, Jun. 2021. (in Chinese)
+
+- Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, “[Fast Wasserstein-distance-based Distributionally Robust Chance-constrained Power Dispatch for Multi-zone HVAC Systems](https://ieeexplore.ieee.org/document/9417102),” *IEEE Transactions on Smart Grid*, Early Access, Apr. 2021. **DOI:** [10.1109/TSG.2021.3076237](https://doi.org/10.1109/TSG.2021.3076237). [[PDF](https://huihongxun.github.io/files/IEEE_Smart_Grid_09417102_Chenge.pdf)]
 
 - Yi Ding, Dunjian Xie, **Hongxun Hui**, Yan Xu and Pierluigi Siano, "[Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids](https://ieeexplore.ieee.org/document/9374672)," *IEEE Transactions on Power Systems*, Early Access, Mar. 2021. **DOI:**  [10.1109/TPWRS.2021.3065097](https://doi.org/10.1109/TPWRS.2021.3065097). [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_9374672_Dunjian.pdf)] 
 
-- Haiyue Yu, Kang Xie, **Hongxun Hui** and Yi Ding, "Review and Prospect of Flexible Loads for Participating in Frequency Regulation," In *4th IEEE Conference on Energy Internet and Energy system Integration*, Wuhan, China, Oct. 2020, pp. 1-5. **DOI:** [10.1109/EI250167.2020.9347253](https://doi.org/10.1109/EI250167.2020.9347253). [[PDF](https://huihongxun.github.io/files/IEEE_Conf_EI2_Wuhan_2020.pdf)]
+- Haiyue Yu, Kang Xie, **Hongxun Hui** and Yi Ding, "[Review and Prospect of Flexible Loads for Participating in Frequency Regulation](https://ieeexplore.ieee.org/document/9347253)," In *4th IEEE Conference on Energy Internet and Energy system Integration*, Wuhan, China, Oct. 2020, pp. 1-5. **DOI:** [10.1109/EI250167.2020.9347253](https://doi.org/10.1109/EI250167.2020.9347253). [[PDF](https://huihongxun.github.io/files/IEEE_Conf_EI2_Wuhan_2020.pdf)]
 
   <p align="right"><font size="5">2020</font></p>
 
