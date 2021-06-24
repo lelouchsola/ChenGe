@@ -16,15 +16,11 @@ author_profile: true
 ## Journal Publications
 
 <p align="right"><font size="5">2021</font></p>
-- Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Weiran Wang, Huibin Qin, Xiangrong Shentu, Jiadong Cui, "[Collaborative Voltage Regulation By Increasing/decreasing the Operating Power of Aggregated Air Conditioners Considering Participation Priority](https://www.sciencedirect.com/science/article/pii/S0378779621004016?dgcid=author)," Electric Power Systems Research, Vol. 199, pp. 107420, Jun. 2021. [[PDF](https://huihongxun.github.io/files/EPSR_XieQiangqiang_2021.pdf)]
-
-- Xunhu Yin, Yi Ding, **Hongxun Hui**, Minglei Bao, Lizhong Xu, Xueyong Tang and Maosheng Sang, "Design of Demand Response Mechanism in Initial Electricity Spot Market Considering Response Behaviors of Customers," *Automation of Electric Power Systems*, vol. xx, no. xx, Jun. 2021. (in Chinese)
-
-- Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, “[Fast Wasserstein-distance-based Distributionally Robust Chance-constrained Power Dispatch for Multi-zone HVAC Systems](https://ieeexplore.ieee.org/document/9417102),” *IEEE Transactions on Smart Grid*, Early Access, Apr. 2021. **DOI:** [10.1109/TSG.2021.3076237](https://doi.org/10.1109/TSG.2021.3076237). [[PDF](https://huihongxun.github.io/files/IEEE_Smart_Grid_09417102_Chenge.pdf)]
+- Ge Chen, Hongcai Zhang, Hongxun Hui and Yonghua Song, “Fast Wasserstein-distance-based distributionally robust chance-constrained power dispatch for multi-zone HVAC systems,” *IEEE Transactions on Smart Grid*, Early Access, Apr. 2021. **DOI:** [10.1109/TSG.2021.3076237](https://doi.org/10.1109/TSG.2021.3076237). [[PDF](https://huihongxun.github.io/files/IEEE_Smart_Grid_09417102_Chenge.pdf)]
 
 - Yi Ding, Dunjian Xie, **Hongxun Hui**, Yan Xu and Pierluigi Siano, "[Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids](https://ieeexplore.ieee.org/document/9374672)," *IEEE Transactions on Power Systems*, Early Access, Mar. 2021. **DOI:**  [10.1109/TPWRS.2021.3065097](https://doi.org/10.1109/TPWRS.2021.3065097). [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_9374672_Dunjian.pdf)] 
 
-- Haiyue Yu, Kang Xie, **Hongxun Hui** and Yi Ding, "[Review and Prospect of Flexible Loads for Participating in Frequency Regulation](https://ieeexplore.ieee.org/document/9347253)," In *4th IEEE Conference on Energy Internet and Energy system Integration*, Wuhan, China, Oct. 2020, pp. 1-5. **DOI:** [10.1109/EI250167.2020.9347253](https://doi.org/10.1109/EI250167.2020.9347253). [[PDF](https://huihongxun.github.io/files/IEEE_Conf_EI2_Wuhan_2020.pdf)]
+- Haiyue Yu, Kang Xie, **Hongxun Hui** and Yi Ding, "Review and Prospect of Flexible Loads for Participating in Frequency Regulation," In *4th IEEE Conference on Energy Internet and Energy system Integration*, Wuhan, China, Oct. 2020, pp. 1-5. **DOI:** [10.1109/EI250167.2020.9347253](https://doi.org/10.1109/EI250167.2020.9347253). [[PDF](https://huihongxun.github.io/files/IEEE_Conf_EI2_Wuhan_2020.pdf)]
 
   <p align="right"><font size="5">2020</font></p>
 
@@ -133,7 +129,12 @@ author_profile: true
 
 # Professional Activities
 
-- **Past-Vice President**, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University (2018-2020)
+- International Technical Committee, *2022 7th Asia Conference on Power and Electrical Engineering*. [Link](https://www.acpee.net/index.html)
+- Scientific Committee, *2021 International Conference on Renewable Energy*. [Link](https://premc.org/conferences/icren-renewable-energy/Committee/#menu)
+- Scientific Committee, *2022 International Conference on Civil, Structural and Environmental Engineering*. [Link](https://www.albedomeetings.com/civilmeet/index.php#)
+- Program Committee, *2021 International Conference on Power System and Energy Internet*. [Link](http://www.posei.net/)
+- Member of a council of *IEEE PES China Electric Vehicle Technical Committee*, *Technical Sub-Committee on Integration of Electric Vehicle and Energy Transportation System* (Since 2020)  
+- Vice President, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University (2018-2020)
 - **Journal Referee**  
   - *IEEE Transactions on Power Systems*
   - *IEEE Transactions on Smart Grid*
