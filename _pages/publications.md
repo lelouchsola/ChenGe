@@ -13,10 +13,12 @@ author_profile: true
 
 ------
 
-## Journal Publications
+## Publications
 
 <p align="right"><font size="5">2021</font></p>
-- Ge Chen, Hongcai Zhang, Hongxun Hui and Yonghua Song, “Fast Wasserstein-distance-based distributionally robust chance-constrained power dispatch for multi-zone HVAC systems,” *IEEE Transactions on Smart Grid*, Early Access, Apr. 2021. **DOI:** [10.1109/TSG.2021.3076237](https://doi.org/10.1109/TSG.2021.3076237). [[PDF](https://huihongxun.github.io/files/IEEE_Smart_Grid_09417102_Chenge.pdf)]
+- Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Weiran Wang, Huibin Qin, Xiangrong Shentu, Jiadong Cui, "[Collaborative Voltage Regulation By Increasing/decreasing the Operating Power of Aggregated Air Conditioners Considering Participation Priority](https://www.sciencedirect.com/science/article/pii/S0378779621004016?dgcid=author)," Electric Power Systems Research, Vol. 199, pp. 107420, Jun. 2021. [[PDF](https://huihongxun.github.io/files/EPSR_XieQiangqiang_2021.pdf)]
+- Xunhu Yin, Yi Ding, **Hongxun Hui**, Minglei Bao, Lizhong Xu, Xueyong Tang and Maosheng Sang, "Design of Demand Response Mechanism in Initial Electricity Spot Market Considering Response Behaviors of Customers," *Automation of Electric Power Systems*, vol. xx, no. xx, Jun. 2021. (in Chinese)
+- Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, “[Fast Wasserstein-distance-based Distributionally Robust Chance-constrained Power Dispatch for Multi-zone HVAC Systems](https://ieeexplore.ieee.org/document/9417102),” *IEEE Transactions on Smart Grid*, Early Access, Apr. 2021. **DOI:** [10.1109/TSG.2021.3076237](https://doi.org/10.1109/TSG.2021.3076237). [[PDF](https://huihongxun.github.io/files/IEEE_Smart_Grid_09417102_Chenge.pdf)]
 
 - Yi Ding, Dunjian Xie, **Hongxun Hui**, Yan Xu and Pierluigi Siano, "[Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids](https://ieeexplore.ieee.org/document/9374672)," *IEEE Transactions on Power Systems*, Early Access, Mar. 2021. **DOI:**  [10.1109/TPWRS.2021.3065097](https://doi.org/10.1109/TPWRS.2021.3065097). [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_9374672_Dunjian.pdf)] 
 
