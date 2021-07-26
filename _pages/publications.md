@@ -16,8 +16,12 @@ author_profile: true
 ## Publications
 
 <p align="right"><font size="5">2021</font></p>
-- Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Weiran Wang, Huibin Qin, Xiangrong Shentu, Jiadong Cui, "[Collaborative Voltage Regulation By Increasing/decreasing the Operating Power of Aggregated Air Conditioners Considering Participation Priority](https://www.sciencedirect.com/science/article/pii/S0378779621004016?dgcid=author)," *Electric Power Systems Research*, Vol. 199, pp. 107420, Jun. 2021. [[PDF](https://huihongxun.github.io/files/EPSR_XieQiangqiang_2021.pdf)]
+- Ge Chen, Hongcai Zhang, **Hongxun Hui**, Ningyi Dai and Yonghua Song, "Scheduling thermostatically controlled loads to provide regulation capacity based on a learning-based optimal power flow model," *IEEE Transactions on Sustainable Energy*, Early Access, Jul. 2021.  [[PDF](https://huihongxun.github.io/files/IEEE_TSTE_2021_Chenge_Scheduling TCLs to provide regulation-a learning-based OPF.pdf)]
+
+- Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Weiran Wang, Huibin Qin, Xiangrong Shentu and Jiadong Cui, "[Collaborative Voltage Regulation By Increasing/decreasing the Operating Power of Aggregated Air Conditioners Considering Participation Priority](https://www.sciencedirect.com/science/article/pii/S0378779621004016?dgcid=author)," *Electric Power Systems Research*, Vol. 199, pp. 107420, Jun. 2021. [[PDF](https://huihongxun.github.io/files/EPSR_XieQiangqiang_2021.pdf)]
+
 - Xunhu Yin, Yi Ding, **Hongxun Hui**, Minglei Bao, Lizhong Xu, Xueyong Tang and Maosheng Sang, "Design of Demand Response Mechanism in Initial Electricity Spot Market Considering Response Behaviors of Customers," *Automation of Electric Power Systems*, vol. xx, no. xx, Jun. 2021. (in Chinese)
+
 - Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, “[Fast Wasserstein-distance-based Distributionally Robust Chance-constrained Power Dispatch for Multi-zone HVAC Systems](https://ieeexplore.ieee.org/document/9417102),” *IEEE Transactions on Smart Grid*, Early Access, Apr. 2021. **DOI:** [10.1109/TSG.2021.3076237](https://doi.org/10.1109/TSG.2021.3076237). [[PDF](https://huihongxun.github.io/files/IEEE_Smart_Grid_09417102_Chenge.pdf)]
 
 - Yi Ding, Dunjian Xie, **Hongxun Hui**, Yan Xu and Pierluigi Siano, "[Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids](https://ieeexplore.ieee.org/document/9374672)," *IEEE Transactions on Power Systems*, Early Access, Mar. 2021. **DOI:**  [10.1109/TPWRS.2021.3065097](https://doi.org/10.1109/TPWRS.2021.3065097). [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_9374672_Dunjian.pdf)] 
@@ -104,12 +108,18 @@ author_profile: true
 # Issued Patents
 
 - **Hongxun Hui**, Yi Ding, Weidong Liu, Lijun Zhang, Yikai Sun and Chenbo Xu, “A Calculation Method of Aggregated Air Conditioners for Providing Regulation Services for Power Systems,” No. CN201610821647.X, Dec. 2018. [[Certificate](https://huihongxun.github.io/files/Patents/一种空调聚合提供电力系统运行备用响应量的计算方法.jpg)]
+
 - Yi Ding, **Hongxun Hui** and Yonghua Song, “An Intelligent Meter with Multi-time Scale Electricity Prices,” No. CN201610543375.1, May 2019. [[Certificate](https://huihongxun.github.io/files/Patents/一种具有多时间尺度电价信息的智能电表.jpg)]
+
 - Yi Ding, **Hongxun Hui**, Zhenyu Chen, Kaining Luan, Chunyu Xie, Wenqi Cui, and Kang Xie, "One Demand Response Method Considering the Total Cost Risk of Power System," No. CN201811050910.5, Jul. 2020. [[Certificate](https://huihongxun.github.io/files/Patents/一种考虑电网总计价风险的计量机制的需求响应方法.pdf)]
+
 - Yi Ding, Kang Xie, **Hongxun Hui**, and Kaijie Zhang, "Frequency Regulation Controller of Inverter Air Conditioners Considering Incentive Signals," No. CN201910576119.6, Oct. 2020. [[Certificate](https://huihongxun.github.io/files/Patents/考虑调频激励信号的变频空调参与电力系统调频的控制器.pdf)]
+
 - Yi Ding, **Hongxun Hui**, and Yonghua Song, "Hybrid Control Method of Integrated Inverter Air Conditioners for Providing Frequency Regulation Services," No. CN201910511062.1, Nov. 2020. [[Certificate](https://huihongxun.github.io/files/Patents/一种变频空调聚合参与电力系统调频的混合控制方法.pdf)]
 
+- Yong Xia, Yi Ding, Hongxun Hui, Zhenyu Chen, Kaining Luan, Wenqi Cui and Xinyao Qu, "An Incentive Demand Response Method Based on Coupons," No. CN201811051906.0, Jul. 2021. [[Certificate](https://huihongxun.github.io/files/Patents/一种基于计量机制的激励型需求响应方法.pdf)]
 
+  
 
 
 
