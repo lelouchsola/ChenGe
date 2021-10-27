@@ -16,11 +16,11 @@ author_profile: true
 ## Publications
 
 <p align="right"><font size="5">2021</font></p>
-- Ge Chen, Hongcai Zhang, **Hongxun Hui**, Ningyi Dai and Yonghua Song, "[Scheduling thermostatically controlled loads to provide regulation capacity based on a learning-based optimal power flow model](https://ieeexplore.ieee.org/abstract/document/9502573)," *IEEE Transactions on Sustainable Energy*, Early Access, Jul. 2021.  [[PDF](https://huihongxun.github.io/files/IEEE_TSTE_2021_Chenge_Scheduling TCLs to provide regulation-a learning-based OPF.pdf)]
+- Ge Chen, Hongcai Zhang, **Hongxun Hui**, Ningyi Dai and Yonghua Song, "[Scheduling thermostatically controlled loads to provide regulation capacity based on a learning-based optimal power flow model](https://ieeexplore.ieee.org/abstract/document/9502573)," *IEEE Transactions on Sustainable Energy*, vol. 12, no. 4, pp. 2459-2470, Oct. 2021.  [[PDF](https://huihongxun.github.io/files/IEEE_TSTE_2021_Chenge_Scheduling TCLs to provide regulation-a learning-based OPF.pdf)]
 
 - Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Weiran Wang, Huibin Qin, Xiangrong Shentu and Jiadong Cui, "[Collaborative Voltage Regulation By Increasing/decreasing the Operating Power of Aggregated Air Conditioners Considering Participation Priority](https://www.sciencedirect.com/science/article/pii/S0378779621004016?dgcid=author)," *Electric Power Systems Research*, Vol. 199, p. 107420, Jun. 2021. [[PDF](https://huihongxun.github.io/files/EPSR_XieQiangqiang_2021.pdf)]
 
-- Xunhu Yin, Yi Ding, **Hongxun Hui**, Minglei Bao, Lizhong Xu, Xueyong Tang and Maosheng Sang, "[Design of Demand Response Mechanism Considering Response Behaviors of Customers in Initial Electricity Spot Market](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=DLXT20210720002&v=lzPv3VaLE%25mmd2Bl%25mmd2BCdSSPXu63eV3tr%25mmd2BUT9l4CCZtiD0FmQHlLNYrBP7re%25mmd2Bgckkz8f20A)," *Automation of Electric Power Systems*, vol. xx, no. xx, Jun. 2021. (in Chinese) [[PDF](https://huihongxun.github.io/files/初期现货市场下考虑用户响应行为的需求响应机制设计_尹逊虎.pdf)]
+- Xunhu Yin, Yi Ding, **Hongxun Hui**, Minglei Bao, Lizhong Xu, Xueyong Tang and Maosheng Sang, "[Design of Demand Response Mechanism Considering Response Behaviors of Customers in Initial Electricity Spot Market](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=DLXT20210720002&v=lzPv3VaLE%25mmd2Bl%25mmd2BCdSSPXu63eV3tr%25mmd2BUT9l4CCZtiD0FmQHlLNYrBP7re%25mmd2Bgckkz8f20A)," *Automation of Electric Power Systems*, Jun. 2021. (in Chinese) [[PDF](https://huihongxun.github.io/files/初期现货市场下考虑用户响应行为的需求响应机制设计_尹逊虎.pdf)]
 
 - Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, “[Fast Wasserstein-distance-based Distributionally Robust Chance-constrained Power Dispatch for Multi-zone HVAC Systems](https://ieeexplore.ieee.org/document/9417102),” *IEEE Transactions on Smart Grid*,  vol. 12, no. 5, pp. 4016-4028, Sep. 2021. [[PDF](https://huihongxun.github.io/files/IEEE_Smart_Grid_09417102_Chenge.pdf)]
 
@@ -145,7 +145,7 @@ author_profile: true
 - Scientific Committee, *2021 International Conference on Renewable Energy*. [Link](https://premc.org/conferences/icren-renewable-energy/Committee/#menu)
 - Scientific Committee, *2022 International Conference on Civil, Structural and Environmental Engineering*. [Link](https://www.albedomeetings.com/civilmeet/index.php#)
 - Program Committee, *2021 International Conference on Power System and Energy Internet*. [Link](http://www.posei.net/)
-- Member of a council of *IEEE PES China Electric Vehicle Technical Committee*, *Technical Sub-Committee on Integration of Electric Vehicle and Energy Transportation System* (Since 2020)  
+- Director of *IEEE PES Electric Vehicle Satellite Committee-China*, *Energy and Transportation Nexus Subcommittee* (2020-2023)  [[Certificate](https://huihongxun.github.io/files/Energy and Transportation Nexus Subcommittee_Hongxun Hui.pdf)]
 - Vice President, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University (2018-2020)
 - **Journal Referee**  
   - *IEEE Transactions on Power Systems*
