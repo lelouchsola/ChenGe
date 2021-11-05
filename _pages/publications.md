@@ -145,8 +145,9 @@ author_profile: true
 # Professional Activities
 
 - International Technical Committee, *2022 7th Asia Conference on Power and Electrical Engineering*. [Link](https://www.acpee.net/index.html)
-- Scientific Committee, *2021 International Conference on Renewable Energy*. [Link](https://premc.org/conferences/icren-renewable-energy/Committee/#menu)
 - Scientific Committee, *2022 International Conference on Civil, Structural and Environmental Engineering*. [Link](https://www.albedomeetings.com/civilmeet/index.php#)
+- Technical Committee, the 13th International Conference on Power System Technology (PowerCon2021). [Link](http://powercon2021.csee.org.cn/index.html), [Program](https://huihongxun.github.io/files/Professional_Activities/PowerCon2021-Advanced-Program.pdf)
+- Scientific Committee, *2021 International Conference on Renewable Energy*. [Link](https://premc.org/conferences/icren-renewable-energy/Committee/#menu)
 - Program Committee, *2021 International Conference on Power System and Energy Internet*. [Link](http://www.posei.net/)
 - Director of *IEEE PES Electric Vehicle Satellite Committee-China*, *Energy and Transportation Nexus Subcommittee* (2020-2023)  [[Certificate](https://huihongxun.github.io/files/Energy and Transportation Nexus Subcommittee_Hongxun Hui.pdf)]
 - Vice President, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University (2018-2020)
