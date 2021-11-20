@@ -16,6 +16,8 @@ author_profile: true
 ## Publications
 
 <p align="right"><font size="5">2021</font></p>
+- Tao Chen, Meng Song, Hongxun Hui and Huan Long, "[Battery electrode mass loading prognostics and analysis for lithium-ion battery–based energy storage systems](https://www.frontiersin.org/articles/10.3389/fenrg.2021.754317/full)," Front. Energy Res., vol. 9, p. 754317, Oct. 2021. [[PDF](https://huihongxun.github.io/files/Frontier_Energy_Research_2021_TaoChen_Battery.pdf)]
+
 - Ge Chen, Hongcai Zhang, **Hongxun Hui**, Ningyi Dai and Yonghua Song, "[Scheduling thermostatically controlled loads to provide regulation capacity based on a learning-based optimal power flow model](https://ieeexplore.ieee.org/abstract/document/9502573)," *IEEE Transactions on Sustainable Energy*, vol. 12, no. 4, pp. 2459-2470, Oct. 2021.  [[PDF](https://huihongxun.github.io/files/IEEE_TSTE_2021_Chenge_Scheduling TCLs to provide regulation-a learning-based OPF.pdf)]
 
 - Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Weiran Wang, Huibin Qin, Xiangrong Shentu and Jiadong Cui, "[Collaborative Voltage Regulation By Increasing/decreasing the Operating Power of Aggregated Air Conditioners Considering Participation Priority](https://www.sciencedirect.com/science/article/pii/S0378779621004016?dgcid=author)," *Electric Power Systems Research*, Vol. 199, p. 107420, Jun. 2021. [[PDF](https://huihongxun.github.io/files/EPSR_XieQiangqiang_2021.pdf)]
