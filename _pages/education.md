@@ -7,7 +7,7 @@ author_profile: true
 
 ### [University of Macau](https://www.um.edu.mo/) (10/2020-10/2022)
 
-- Postdoctoral Fellow, [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/)
+- **Postdoctoral Fellow**, [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/)
 - Cooperation Adviser: [Prof. Yonghua Song](https://rto.um.edu.mo/biography/)
 
 ### [Zhejiang University](http://www.zju.edu.cn/) (09/2015-06/2020) 
@@ -60,27 +60,6 @@ author_profile: true
 - Expertise: Flight Vehicle Design and Engineering.
 
 
-
-------
-
-# Teaching
-
-- **Teaching Fellow**, *Power System Operation and Control* (Instructor: Prof. Yi Ding and Prof. Pierluigi Siano), College of Electrical Engineering, Zhejiang University, 2016.
-
-
-
-------
-
-# Student Research Supervision
-
-- **Haiyue Yu, Ph.D.,** 2019-Now, Zhejiang University.
-- **Xunhu Yin, Ph.D.,** 2019-Now, Zhejiang University.
-- **Kang Xie, Ph.D.,** 2018-Now, Zhejiang University.
-- **Taoyi Qi, M.Eng.,** 2019-Now, Zhejiang University.
-- **Hengyu Hui, M.Eng.,** 2019-Now, Zhejiang University.
-- **Kaijie Zhang, M.Eng.,** 2018-Now, Zhejiang University.
-- **Dunjian Xie, M.Eng.,** 2016-2019, Zhejiang University, Topic: Demand response evaluation and coordinated optimization of thermostatically-controlled-loads [[PDF](https://huihongxun.github.io/files/Thesis/温控负荷的需求响应潜力评估及其协同优化管理研究_谢敦见.caj)]. He is pursuing Ph.D. at *Nanyang Technological University*.
-- **Wenqi Cui, M.Eng.,** 2016-2019, Zhejiang University, Topic: Power system reliability evaluation considering operating reserve provided by air conditioners [[PDF](https://huihongxun.github.io/files/Thesis/考虑聚合空调负荷提供运行备用的电力系统可靠性分析_崔文琪.caj)]. She is pursuing Ph.D. at *University of Washington*. 
 
 
 
