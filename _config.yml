@@ -7,7 +7,7 @@
 # 备注：网页头设置在Top navigation bar config: _data/navigation.yml 中
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "China"
 title                    : "Hongxun Hui"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -81,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Welcome to my personal website! If you are interested in my research, welcome to contact with me."
+  name             : "Welcome to my personal website!"
   avatar           : "profile.png"
-  bio              : "Room 5006, Building N21, University of Macau, Avenida da Universidade, Taipa, Macau, CHINA."
-  location         : #"Room 5006, Building N21, University of Macau, Avenida da Universidade, Taipa, Macau, CHINA."
+  bio              : "Room 5006, Building N21, University of Macau, Avenida da Universidade, Taipa, Macau 999078, CHINA."
+  location         : #"Room 5006, Building N21, University of Macau, Avenida da Universidade, Taipa, Macau 999078, CHINA."
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=m2L0mD4AAAAJ&hl=en"
   email            : "hongxunhui@um.edu.mo"
-  researchgate     : "https://www.researchgate.net/profile/Hongxun_Hui"
+  researchgate     : "https://www.researchgate.net/profile/Hongxun-Hui"
   uri              :
   bitbucket        :
   codepen          :
