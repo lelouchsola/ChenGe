@@ -7,7 +7,7 @@ author_profile: true
 
 ## Books
 
-- Yi Ding, Yonghua Song, **Hongxun Hui** and Changzheng Shao. [Integration of Air Conditioning and Heating into Modern Power Systems—Enabling Demand Response and Energy Efficiency](https://link.springer.com/book/10.1007%2F978-981-13-6420-4). Springer; 2019. [[PDF](https://huihongxun.github.io/files/2019_Book_IntegrationOfAirConditioningAn.pdf)]
+- Yi Ding, Yonghua Song, **Hongxun Hui** and Changzheng Shao. [Integration of Air Conditioning and Heating into Modern Power Systems—Enabling Demand Response and Energy Efficiency](https://link.springer.com/book/10.1007%2F978-981-13-6420-4). *Springer*; 2019. [[PDF](https://huihongxun.github.io/files/2019_Book_IntegrationOfAirConditioningAn.pdf)]
 
 
 
@@ -15,8 +15,15 @@ author_profile: true
 
 ## Publications
 
-<p align="right"><font size="5">2021</font></p>
-- Tao Chen, Meng Song, Hongxun Hui and Huan Long, "[Battery electrode mass loading prognostics and analysis for lithium-ion battery–based energy storage systems](https://www.frontiersin.org/articles/10.3389/fenrg.2021.754317/full)," Frontiers in Energy Research, vol. 9, p. 754317, Oct. 2021. [[PDF](https://huihongxun.github.io/files/Frontier_Energy_Research_2021_TaoChen_Battery.pdf)]
+<p align="right"><font size="5">2022</font></p>
+
+- Qingxin Shi, Wenxia Liu, Bo Zeng, **Hongxun Hui** and Fangxing Li, "[Enhancing distribution system resilience against extreme weather events: Concept review, algorithm summary, and future vision](https://www.sciencedirect.com/science/article/pii/S0142061521010759?dgcid=coauthor)," *International Journal of Electrical Power & Energy Systems*, vol. 138, p. 107860, Jun. 2022. [[PDF](https://huihongxun.github.io/files/IJEPES_QinxinShi_ResilienceReview2022.pdf)]
+
+  <p align="right"><font size="5">2021</font></p>
+
+- Peipei Yu, **Hongxun Hui**, Hongcai Zhang, Ge Chen and Yonghua Song, "[District Cooling System Control for Providing Operating Reserve based on Safe Deep Reinforcement Learning](https://arxiv.org/abs/2112.10949)," arXiv preprint arXiv:2112.10949. [[PDF](https://huihongxun.github.io/files/PeipeiYu_DistrictCoolingSystemControl_2021.pdf)]
+
+- Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, “[Fast Wasserstein-distance-based Distributionally Robust Chance-constrained Power Dispatch for Multi-zone HVAC Systems](https://ieeexplore.ieee.org/document/9417102),” *IEEE Transactions on Smart Grid*,  vol. 12, no. 5, pp. 4016-4028, Sep. 2021. [[PDF](https://huihongxun.github.io/files/IEEE_Smart_Grid_09417102_Chenge.pdf)]
 
 - Ge Chen, Hongcai Zhang, **Hongxun Hui**, Ningyi Dai and Yonghua Song, "[Scheduling thermostatically controlled loads to provide regulation capacity based on a learning-based optimal power flow model](https://ieeexplore.ieee.org/abstract/document/9502573)," *IEEE Transactions on Sustainable Energy*, vol. 12, no. 4, pp. 2459-2470, Oct. 2021.  [[PDF](https://huihongxun.github.io/files/IEEE_TSTE_2021_Chenge_Scheduling TCLs to provide regulation-a learning-based OPF.pdf)]
 
@@ -24,28 +31,22 @@ author_profile: true
 
 - Xunhu Yin, Yi Ding, **Hongxun Hui**, Minglei Bao, Lizhong Xu, Xueyong Tang and Maosheng Sang, "[Design of Demand Response Mechanism Considering Response Behaviors of Customers in Initial Electricity Spot Market](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=DLXT20210720002&v=lzPv3VaLE%25mmd2Bl%25mmd2BCdSSPXu63eV3tr%25mmd2BUT9l4CCZtiD0FmQHlLNYrBP7re%25mmd2Bgckkz8f20A)," *Automation of Electric Power Systems*, Jun. 2021. (in Chinese) [[PDF](https://huihongxun.github.io/files/初期现货市场下考虑用户响应行为的需求响应机制设计_尹逊虎.pdf)]
 
-- Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, “[Fast Wasserstein-distance-based Distributionally Robust Chance-constrained Power Dispatch for Multi-zone HVAC Systems](https://ieeexplore.ieee.org/document/9417102),” *IEEE Transactions on Smart Grid*,  vol. 12, no. 5, pp. 4016-4028, Sep. 2021. [[PDF](https://huihongxun.github.io/files/IEEE_Smart_Grid_09417102_Chenge.pdf)]
-
 - Yi Ding, Dunjian Xie, **Hongxun Hui**, Yan Xu and Pierluigi Siano, "[Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids](https://ieeexplore.ieee.org/document/9374672)," *IEEE Transactions on Power Systems*, vol. 36, no. 5, pp. 4089-4101, Sep. 2021. [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_9374672_Dunjian.pdf)]
 
-- 
+- Tao Chen, Meng Song, **Hongxun Hui** and Huan Long, "[Battery electrode mass loading prognostics and analysis for lithium-ion battery–based energy storage systems](https://www.frontiersin.org/articles/10.3389/fenrg.2021.754317/full)," *Frontiers in Energy Research*, vol. 9, p. 754317, Oct. 2021. [[PDF](https://huihongxun.github.io/files/Frontier_Energy_Research_2021_TaoChen_Battery.pdf)]
 
-  <p align="right"><font size="5">2020</font></p>
+- Tao Chen, Ciwei Gao, **Hongxun Hui**, Qiushi Cui and Huan Long, "[A generalized additive model-based data-driven solution for lithium-ion battery capacity prediction and local effects analysis](https://journals.sagepub.com/doi/abs/10.1177/01423312211057981)," *Transactions of the Institute of Measurement and Control*, Nov. 2021.
+
+<p align="right"><font size="5">2020</font></p>
 
 - **Hongxun Hui**, Yi Ding and Yonghua Song, "[Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages](https://www.sciencedirect.com/science/article/abs/pii/S0306261920308333)," *Applied Energy*, vol. 275, p. 115321, Oct. 2020. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261920308333.pdf)]
 
 - **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “[Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners](https://ieeexplore.ieee.org/document/9014526),” *IEEE Transactions on Industrial Electronics*, vol. 68, no. 3, pp. 2725-2736, Mar. 2021. [[PDF](https://huihongxun.github.io/files/TIE_9014526.pdf)]
-
 - **Hongxun Hui**, Yi Ding, Zhenzhi Lin, Pierluigi Siano and Yonghua Song, “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” *IEEE Transactions on Power Systems*, vol. 35, no. 1, pp. 332-345, Jan. 2020. [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_08743401.pdf)]
-
 - **Hongxun Hui**, Yi Ding, Qingxin Shi, Fangxing Li, Yonghua Song and Jinyue Yan, “[5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential](https://www.sciencedirect.com/science/article/pii/S0306261919316599?dgcid=coauthor),” *Applied Energy*, vol. 257, p. 113972, Jan. 2020. [[PDF](https://huihongxun.github.io/files/Applied_Energy_Review_Paper_5G_and_DR.pdf)] [**ESI Highly Cited Paper**]
-
 - Taoyi Qi, **Hongxun Hui**, Lizhong Xu, Xiang Ma and Yi Ding, "[Modeling and Control of Generalized Demand Response in Micro-grids Based on GridLAB-D](http://gydi.cbpt.cnki.net/WKD/WebPublication/paperDigest.aspx?paperID=22b3ab6c-34ca-48ad-b4cf-2fa5f896716c)," *Distribution & Utilization*, vol. 37, no. 7, pp. 3-10, Aug. 2020. [[PDF](https://huihongxun.github.io/files/基于GridLAB_D的微电网广义需求响应建模与控制_漆淘懿.pdf)]
-
 - Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Chengjin Ye, Zhenzhi Lin, Peng Wang, Yonghua Song, Ling Ji and Rong Chen, “[Use of Demand Response for Voltage Regulation in Power Distribution Systems with Flexible Resources](https://digital-library.theiet.org/content/journals/10.1049/iet-gtd.2019.1170),”  *IET Generation, Transmission & Distribution*, vol. 14, no. 5, pp. 883-892, Jan. 2020.[[PDF](https://huihongxun.github.io/files/IET_GTD_QiangqiangXie_DRforVoltageRegulation.pdf)]
-
 - Haiyue Yu, Kang Xie, **Hongxun Hui** and Yi Ding, "[Review and Prospect of Flexible Loads for Participating in Frequency Regulation](https://ieeexplore.ieee.org/document/9347253)," *2020 IEEE 4th Conference on Energy Internet and Energy System Integration (EI2)*, 2020, pp. 2605-2608. [[PDF](https://huihongxun.github.io/files/IEEE_Conf_EI2_Wuhan_2020.pdf)]
-
 - Shuyang Xu, Xingying Chen, Jun Xie, Saifur Rahman, Jixiang Wang, **Hongxun Hui** and Tao Chen, “[Agent-based Modelling and Simulation of Electricity Market with Residential Demand Response](https://ieeexplore.ieee.org/document/9133617),” *CSEE Journal of Power and Energy Systems*, vol. 7, no. 2, pp. 368-380, Mar. 2021. [[PDF](https://huihongxun.github.io/files/CSEE_XuShuyang.pdf)] 
 
 <p align="right"><font size="5">2019</font></p>
