@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-### Cooperative Control of Flexible Loads in Power Systems with High Penetration of Renewable Energies (Sep. 2018 – Sep. 2019, Hangzhou, China), $40K
+### Cooperative Control of Flexible Loads in Power Systems with High Penetration of Renewable Energies (Sep. 2018 – Sep. 2019, Hangzhou, China)
 
 - *Supported by Zhejiang University, Academic Rising Star Program* (No. 2018025)
 - *Principal Investigator*
