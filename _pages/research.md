@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-### **Cooperative Control of Flexible Loads in Power Systems with High Penetration of Renewable Energies ** *(Sep. 2018 – Sep. 2019, Hangzhou, China)*, $40K
+### Cooperative Control of Flexible Loads in Power Systems with High Penetration of Renewable Energies (Sep. 2018 – Sep. 2019, Hangzhou, China), $40K
 
 - *Supported by Zhejiang University, Academic Rising Star Program* (No. 2018025)
 - *Principal Investigator*
@@ -25,7 +25,7 @@ author_profile: true
 
 ------
 
-### **Friendly Interactive Smart Grid Between Supply- and Demand-Sides** *(Jul. 2016 – Jun. 2020, Nanjing, China)*, $1100K
+### Friendly Interactive Smart Grid Between Supply- and Demand-Sides (Jul. 2016 – Jun. 2020, Nanjing, China)
 
 - *Supported by Ministry of Science and Technology of China* (No. 2016YFB0901100)
 - *Research Assistant (Principal Student Investigator)*
@@ -41,7 +41,7 @@ author_profile: true
 
 ------
 
-### **Construction Scheme of Distinctive Town with Smart Energy** *(Sep. 2018 - Apr. 2019, Hangzhou, China)*
+### Construction Scheme of Distinctive Town with Smart Energy (Sep. 2018 - Apr. 2019, Hangzhou, China)
 
 - *Supported by Zhejiang Province Government*
 - *Research Assistant (Principal Student Investigator)*
@@ -56,7 +56,7 @@ author_profile: true
 
 ------
 
-### **Reliability Analysis and Optimization of Smart Grid Considering the Coordinated Operation of Flexible Resources and Wind Power** *(Jan. 2016 – Dec. 2019, Hangzhou, China)*, $130K
+### Reliability Analysis and Optimization of Smart Grid Considering the Coordinated Operation of Flexible Resources and Wind Power (Jan. 2016 – Dec. 2019, Hangzhou, China)
 
 - *Supported by National Natural Science Foundation of China* (No. 51577167) 
 - *Research Assistant*
@@ -71,7 +71,7 @@ author_profile: true
 
 ------
 
-### **Control Method and Peak-shaving Capacity Evaluation of Flexible Loads** *(Jan. 2016 – Dec. 2017, Hangzhou, China)*, $160K
+### Control Method and Peak-shaving Capacity Evaluation of Flexible Loads (Jan. 2016 – Dec. 2017, Hangzhou, China)
 
 - *Supported by State Grid Zhejiang Electric Power Company*  (No. 5211JY15001S)
 - *Research Assistant (Principal Student Investigator)*
@@ -87,7 +87,7 @@ author_profile: true
 
 ------
 
-### **Research and Application of Demand Response** *(Mar. 2016 – Nov. 2016, Nanjing, China)*, $120K
+### Research and Application of Demand Response (Mar. 2016 – Nov. 2016, Nanjing, China)
 
 - *Supported by State Grid Jiangsu Electric Power Company* (No. KH20161699)
 - *Research Assistant (Principal Student Investigator)*
@@ -103,7 +103,7 @@ author_profile: true
 
 ------
 
-### **Modeling and Regulation Potential Evaluation of Air Conditioners, EVs, and Batteries** *(Sep. 2015 – Jun. 2016, Nanjing, China)*, $50K
+### Modeling and Regulation Potential Evaluation of Air Conditioners, EVs, and Batteries (Sep. 2015 – Jun. 2016, Nanjing, China)
 
 - *Supported by China Electric Power Research Institute* (No. DZ71-15-004)
 - *Research Assistant (Principal Student Investigator)*
@@ -119,7 +119,7 @@ author_profile: true
 
 ------
 
-### **Develop the Data-driven Multi-energy Experiment and Simulation Platform** *(Jul. 2015 - Oct. 2018, Hangzhou, China)* [[Lab Introduction Presentation](https://huihongxun.github.io/files/ResearchProjects/20180912_SGOOL_platform.pdf)] [[Lab Introduction in English](https://huihongxun.github.io/files/ResearchProjects/Data-driven_Multi-energy_Platform.pdf)]
+### Develop the Data-driven Multi-energy Experiment and Simulation Platform (Jul. 2015 - Oct. 2018, Hangzhou, China) [[Lab Introduction Presentation](https://huihongxun.github.io/files/ResearchProjects/20180912_SGOOL_platform.pdf)] [[Lab Introduction in English](https://huihongxun.github.io/files/ResearchProjects/Data-driven_Multi-energy_Platform.pdf)]
 
 - *Supported by Smart Grid Operation and Optimization Laboratory*
 - Position: Project director, supervised by Prof. Yi Ding
