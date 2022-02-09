@@ -16,10 +16,11 @@ author_profile: true
 ## Publications
 
 <p align="right"><font size="5">2022</font></p>
-
 - Qingxin Shi, Wenxia Liu, Bo Zeng, **Hongxun Hui** and Fangxing Li, "[Enhancing distribution system resilience against extreme weather events: Concept review, algorithm summary, and future vision](https://www.sciencedirect.com/science/article/pii/S0142061521010759?dgcid=coauthor)," *International Journal of Electrical Power & Energy Systems*, vol. 138, p. 107860, Jun. 2022. [[PDF](https://huihongxun.github.io/files/IJEPES_QinxinShi_ResilienceReview2022.pdf)]
 
   <p align="right"><font size="5">2021</font></p>
+
+- **Hongxun Hui**, Qifan Yang, Ningyi Dai, Hongcai Zhang, Yi Ding and Yonghua Song, "[Anticipatory Control of Flexible Loads for System Resilience Enhancement Facing Accidental Outages](https://ieeexplore.ieee.org/document/9697825)," *2021 International Conference on Power System Technology* (POWERCON), 2021, pp. 844-849. [[PDF](https://huihongxun.github.io/files/IEEE_Conf_PowerCon_Hainan_2021.pdf)]
 
 - Peipei Yu, **Hongxun Hui**, Hongcai Zhang, Ge Chen and Yonghua Song, "[District Cooling System Control for Providing Operating Reserve based on Safe Deep Reinforcement Learning](https://arxiv.org/abs/2112.10949)," arXiv preprint arXiv:2112.10949. [[PDF](https://huihongxun.github.io/files/PeipeiYu_DistrictCoolingSystemControl_2021.pdf)]
 
@@ -38,7 +39,6 @@ author_profile: true
 - Tao Chen, Ciwei Gao, **Hongxun Hui**, Qiushi Cui and Huan Long, "[A generalized additive model-based data-driven solution for lithium-ion battery capacity prediction and local effects analysis](https://journals.sagepub.com/doi/abs/10.1177/01423312211057981)," *Transactions of the Institute of Measurement and Control*, Nov. 2021.
 
 <p align="right"><font size="5">2020</font></p>
-
 - **Hongxun Hui**, Yi Ding and Yonghua Song, "[Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages](https://www.sciencedirect.com/science/article/abs/pii/S0306261920308333)," *Applied Energy*, vol. 275, p. 115321, Oct. 2020. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261920308333.pdf)]
 
 - **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “[Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners](https://ieeexplore.ieee.org/document/9014526),” *IEEE Transactions on Industrial Electronics*, vol. 68, no. 3, pp. 2725-2736, Mar. 2021. [[PDF](https://huihongxun.github.io/files/TIE_9014526.pdf)]
