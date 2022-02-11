@@ -69,6 +69,10 @@ author_profile: true
 
 ### **Academic Honors:**
 
+- Winning Prize, the 1st China Postdoctoral Innovation & Entrepreneurship Competition, Jan. 2022.
+- Best Paper Award of the 3rd IEEE Conference on Sustainable Power and Energy, Dec. 2021. [[Certification](https://huihongxun.github.io/files/Awards/2021_iSPEC_BestPaper.pdf)]
+- The First Prize and the only Best Innovation Award at a national competition on artificial intelligence (AI) application in power dispatching, Oct. 2021.
+- The Second Prize and the only Best Innovation Award at a national competition on artificial intelligence (AI) application in power dispatching, Jan. 2021. [[Certification](https://huihongxun.github.io/files/Awards/2021_01_AI_SecondPrize.jpg)] [[Certification](https://huihongxun.github.io/files/Awards/2021_01_AI_Innovation.jpg)]
 - Wang Guo Song Scholarship, the highest honor at College of Electrical Engineering, Zhejiang University (Four winners among 180 Ph.D. students), 2019.
 - First Batch of the Academic Rising Star Program (Three winners among 180 Ph.D. students in College of Electrical Engineering, Zhejiang University), 2018.
 - Excellent Honor in Edison Class, Zhejiang University, 2015.

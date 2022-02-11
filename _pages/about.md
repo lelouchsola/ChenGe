@@ -20,8 +20,9 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 News
 ======
-- **[2021-04-25]**  New publication: G. Chen, H. Zhang, H. Hui, and Y. Song, “Fast Wasserstein-distance-based distributionally robust chance-constrained power dispatch for multi-zone HVAC systems,” to appear in *IEEE Transactions on Smart Grid*, 2021. 
-- **[2021-02-21]**  Our paper "Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids" was accepted by *IEEE Transactions on Power Systems*.
+- **[2022-02-09]**  New publication: H. Hui, P. Siano, Y. Ding, P. Yu, Y. Song, H. Zhang, and N. Dai, "[A Transactive Energy Framework for Inverter-based HVAC Loads in a Real-time Local Electricity Market Considering Distributed Energy Resources](https://ieeexplore.ieee.org/document/9709098)", *IEEE Transactions on Industrial Informatics*, early access.
+-  **[2022-01-17]**  We won the Best Paper Award of the 3rd IEEE Conference on Sustainable Power and Energy (iSPEC).   ![Editing a markdown file for a talk](/images/2021_iSPEC_BestPaper.png)
+- **[2021-02-21]**  Our paper "[Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids](https://ieeexplore.ieee.org/document/9374672)" was accepted by *IEEE Transactions on Power Systems*.
 - **[2020-09-17]**  Our paper "[5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential](https://www.sciencedirect.com/science/article/pii/S0306261919316599?dgcid=coauthor)" was selected as the [Highly Cited Papers (Top 1%)](https://huihongxun.github.io/files/Applied_Energy_Review_Paper_5G_and_DR_HighlyCited.jpg).
 - **[2020-08-02]**  Our paper "[Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages](https://www.sciencedirect.com/science/article/abs/pii/S0306261920308333)" was published by *Applied Energy*!
 - **[2020-06-13]**  I completed my [PhD thesis defense](https://huihongxun.github.io/files/Awards/2020_PhD_Defense.jpg). Deeply indebted to my supervisors, Prof. Yi Ding and Prof. Yonghua Song.
