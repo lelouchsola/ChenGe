@@ -16,6 +16,8 @@ author_profile: true
 ## Publications
 
 <p align="right"><font size="5">2022</font></p>
+- Jiatu Hong, **Hongxun Hui***, Hongcai Zhang, Ningyi Dai and Yonghua Song, "Distributed Control of Large-scale Inverter Air Conditioners for Providing Operating Reserve Based on Consensus With Nonlinear Protocol", *IEEE Internet of Things Journal*, Early Access.
+
 - **Hongxun Hui**, Pierluigi Siano, Yi Ding, Peipei Yu, Yonghua Song, Hongcai Zhang and Ning Yi Dai, "[A Transactive Energy Framework for Inverter-based HVAC Loads in a Real-time Local Electricity Market Considering Distributed Energy Resources](https://ieeexplore.ieee.org/document/9709098)", *IEEE Transactions on Industrial Informatics*, Early Access,  **DOI:** [10.1109/TII.2022.3149941](https://doi.org/10.1109/TII.2022.3149941). [[PDF](https://huihongxun.github.io/files/2022_TII_HongxunHui.pdf)]
 
 - Qingxin Shi, Wenxia Liu, Bo Zeng, **Hongxun Hui** and Fangxing Li, "[Enhancing distribution system resilience against extreme weather events: Concept review, algorithm summary, and future vision](https://www.sciencedirect.com/science/article/pii/S0142061521010759?dgcid=coauthor)," *International Journal of Electrical Power & Energy Systems*, vol. 138, p. 107860, Jun. 2022. [[PDF](https://huihongxun.github.io/files/2022_IJEPES_QinxinShi_ResilienceReview.pdf)]
@@ -119,5 +121,4 @@ author_profile: true
 - **Hongxun Hui**, Yi Ding and Wenqi Cui, “Software for Coupon Computing and Settlement in Friendly Interactive Smart Grid,” No. 2018SR449433, May 2018. [[Certificate](https://huihongxun.github.io/files/Patents/软著授权书+2018SR449433.jpg)]
 - Yi Ding, Dunjian Xie and **Hongxun Hui**, “Software for Game Theory-Based Collaborative Optimization Control of Thermostatically Controlled Loads,” No. 2019SR0481590, Mar. 2019. [[Certificate](https://huihongxun.github.io/files/Patents/软著授权书+2019SR0481590.jpg)]
 - Dunjian Xie, Yi Ding and **Hongxun Hui**, “Simulation Software for Optimal Coordination of Thermostatically Controlled Loads for Demand Response,” No. 2019SR0450852, Mar. 2019. [[Certificate](https://huihongxun.github.io/files/Patents/软著授权书+2019SR0450852.jpg)]
-
 
