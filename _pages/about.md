@@ -20,7 +20,7 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 News
 ======
-- **[2022-02-15]**  New publication: J. Hong, H. Hui, H. Zhang, N. Dai, and Y. Song, "Distributed Control of Large-scale Inverter Air Conditioners for Providing Operating Reserve Based on Consensus With Nonlinear Protocol", *IEEE Internet of Things Journal*, early access.
+- **[2022-02-15]**  New publication: J. Hong, H. Hui\*, H. Zhang, N. Dai, and Y. Song, "Distributed Control of Large-scale Inverter Air Conditioners for Providing Operating Reserve Based on Consensus With Nonlinear Protocol", *IEEE Internet of Things Journal*, early access.
 - **[2022-02-09]**  New publication: H. Hui, P. Siano, Y. Ding, P. Yu, Y. Song, H. Zhang, and N. Dai, "[A Transactive Energy Framework for Inverter-based HVAC Loads in a Real-time Local Electricity Market Considering Distributed Energy Resources](https://ieeexplore.ieee.org/document/9709098)", *IEEE Transactions on Industrial Informatics*, early access.
 -  **[2022-01-17]**  We won the Best Paper Award of the 3rd IEEE Conference on Sustainable Power and Energy (iSPEC).   ![Editing a markdown file for a talk](/images/2021_iSPEC_BestPaper.png)
 - **[2021-02-21]**  Our paper "[Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids](https://ieeexplore.ieee.org/document/9374672)" was accepted by *IEEE Transactions on Power Systems*.
