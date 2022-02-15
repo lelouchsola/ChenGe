@@ -14,7 +14,7 @@ He serves as reviewers for many international journals, including IEEE, IET, CSE
 
 Dr. Hongxun Hui's research interests are about the optimal control and market mechanism design of flexible loads (especially the heating, ventilating, and air-conditioning loads) considering high penetration of renewable energies in smart grid, specifically including the modeling and control method of flexible loads, the electricity market considering demand response, and the reliability analysis considering multiple uncertainties brought by flexible loads and renewable energies.
 
-Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20211025.pdf).
+Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20220213.pdf).
 
 ------
 
