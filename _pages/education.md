@@ -5,11 +5,6 @@ permalink: /education/index.html
 author_profile: true
 ---
 
-### [University of Macau](https://www.um.edu.mo/) (10/2020-10/2022)
-
-- **Postdoctoral Fellow**, [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/)
-- Cooperation Adviser: [Prof. Yonghua Song](https://rto.um.edu.mo/biography/)
-
 ### [Zhejiang University](http://www.zju.edu.cn/) (09/2015-06/2020) 
 
 - **Ph.D.**, [College of Electrical Engineering](http://ee.zju.edu.cn/index.php)  
@@ -25,6 +20,13 @@ author_profile: true
 ------
 
 # Academic Experiences
+
+### [University of Macau](https://www.um.edu.mo/) (10/2020-10/2022)
+
+- **Postdoctoral Fellow**, [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/)
+- Cooperation Adviser: [Prof. Yonghua Song](https://rto.um.edu.mo/biography/)
+
+
 
 ### [Zhuhai UM Science & Technology Research Institute](https://baike.baidu.com/item/%E7%8F%A0%E6%B5%B7%E6%BE%B3%E5%A4%A7%E7%A7%91%E6%8A%80%E7%A0%94%E7%A9%B6%E9%99%A2/20726124?fr=aladdin) (08/2020-10/2020)
 
