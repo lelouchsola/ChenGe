@@ -1,12 +1,16 @@
 ---
 layout: archive
 permalink: /
-title: "Open for Applications 2022"
+title: "Openings"
 excerpt: "About me"
 author_profile: true
 ---
 
-#### I will be the Research Assistant Professor with the State Key Laboratory of Internet of Things for Smart City, University of Macau. And Open for Applications 2022
+<font color='red'> I will be a Research Assistant Professor with the State Key Laboratory of Internet of Things for Smart City, University of Macau. Now Open for Applications 2022, including Post-Doctoral Fellow (), PhD (), Visiting Fellow (), Research Assistant (Monthly Remuneration 12,500MOP), and Short-team Visiting Scholar (). If you are interested in our research and want to join our group, please don’t hesitate to drop me an email with your CV, transcript, & representative publications. </font>
+
+```html
+<span style='color:red;background:yellow;font-size:20;'>文字</span>
+```
 
 ------
 
@@ -26,30 +30,31 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 News
 ======
-- **[2022-02-15]**  New publication: J. Hong, H. Hui\*, H. Zhang, N. Dai, and Y. Song, "[Distributed Control of Large-scale Inverter Air Conditioners for Providing Operating Reserve Based on Consensus With Nonlinear Protocol](https://ieeexplore.ieee.org/document/9714473)", *IEEE Internet of Things Journal*, early access.
+- **[2022-02-15]**  New publication: J. Hong, H. Hui, H. Zhang, N. Dai, and Y. Song, "[Distributed Control of Large-scale Inverter Air Conditioners for Providing Operating Reserve Based on Consensus With Nonlinear Protocol](https://ieeexplore.ieee.org/document/9714473)", *IEEE Internet of Things Journal*, early access.
 - **[2022-02-09]**  New publication: H. Hui, P. Siano, Y. Ding, P. Yu, Y. Song, H. Zhang, and N. Dai, "[A Transactive Energy Framework for Inverter-based HVAC Loads in a Real-time Local Electricity Market Considering Distributed Energy Resources](https://ieeexplore.ieee.org/document/9709098)", *IEEE Transactions on Industrial Informatics*, early access.
--  **[2022-01-17]**  We won the Best Paper Award of the 3rd IEEE Conference on Sustainable Power and Energy (iSPEC).   ![Editing a markdown file for a talk](/images/2021_iSPEC_BestPaper.png)
-- **[2021-02-21]**  Our paper "[Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids](https://ieeexplore.ieee.org/document/9374672)" was accepted by *IEEE Transactions on Power Systems*.
-- **[2020-09-17]**  Our paper "[5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential](https://www.sciencedirect.com/science/article/pii/S0306261919316599?dgcid=coauthor)" was selected as the [Highly Cited Papers (Top 1%)](https://huihongxun.github.io/files/Applied_Energy_Review_Paper_5G_and_DR_HighlyCited.jpg).
-- **[2020-08-02]**  Our paper "[Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages](https://www.sciencedirect.com/science/article/abs/pii/S0306261920308333)" was published by *Applied Energy*!
-- **[2020-06-13]**  I completed my [PhD thesis defense](https://huihongxun.github.io/files/Awards/2020_PhD_Defense.jpg). Deeply indebted to my supervisors, Prof. Yi Ding and Prof. Yonghua Song.
-- **[2020-04-28]**  I was awarded the [Nomination of Top Ten Academic Achievements](https://huihongxun.github.io/files/Awards/2020_学生十佳提名学术成果.jpg) in the College of EE.
-- **[2020-04-02]**  I was awarded the [Postgraduate Students' Scholarship](https://huihongxun.github.io/files/Awards/2020_毕业研究生奖学金.jpg) (3 students in the College of EE).
-- **[2020-03-12]**  I was awarded the Outstanding Graduates both in Zhejiang University and in Zhejiang Province (3 PhD students in the College of EE).
-- **[2020-02-10]** Our paper "Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners" was accepted by *IEEE Transactions on Industrial Electronics*!
-- **[2020-01-15]** I was awarded as 2019 “[Excellence in Reviewing](https://huihongxun.github.io/files/Awards/2019_MPCE_Excellence_in_Reviewing.jpg)” by *Journal of Modern Power Systems and Clean Energy* (MPCE).  
-- **[2019-12-20]** Our paper “Use of Demand Response for Voltage Regulation in Power Distribution Systems with Flexible Resources,” was accepted by *IET Generation, Transmission & Distribution*! 
-- **[2019-12-13]** I was awarded the twelfth [Top Ten Students](https://huihongxun.github.io/files/Awards/2019_Certificate_十佳学子.png) at the College of Electrical Engineering, Zhejiang University! 10 students were selected from around 2300 students at College of EE.
-- **[2019-10-18]** I got the [Wang Guo Song Scholarship](https://huihongxun.github.io/files/Awards/2020_王国松奖学金.png) in the 2018-2019 academic year! It is the highest honor at the College of Electrical Engineering, Zhejiang University. This year, 4 Ph.D. students got this scholarship among about 180 Ph.D. students.
-- **[2019-10-18]** I got the [National Scholarship](https://huihongxun.github.io/files/Awards/2020_国家奖学金_教育部.jpg) in the 2018-2019 academic year, for rewarding my high quality academic publications and the first ranking in my major (Power Systems)!
-- **[2019-10-09]** Our review paper “[Review of Modeling and Control Strategy of Thermostatically Controlled Loads for Virtual Energy Storage System]( https://link.springer.com/article/10.1186/s41601-019-0135-3 ),” was accepted by *Protection and Control of Modern Power Systems*! This is Kang Xie's first paper. Congratulations to him! 
-- **[2019-10-08]** Our review paper “[5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential](https://www.sciencedirect.com/science/article/pii/S0306261919316599?dgcid=coauthor)” was accepted by *Applied Energy*! This paper’s application survey of 5G on DR is carried out before 5G technology enters the large-scale commercial stage, so as to provide references and guidelines for developing future 5G networks in the smart grid paradigm.  ![Editing a markdown file for a talk](/images/5G_Review_Paper.png)
-- **[2019-08-12]** Our paper “[Data-driven Reserve Allocation with Frequency Security Constraint Considering Inverter Air Conditioners](https://ieeexplore.ieee.org/document/8809677),” was accepted by *IEEE Access*! It is Xinran's first paper. Congratulations to him! 
-- **[2019-06-16]** Our paper “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” was accepted by *IEEE Transactions on Power Systems*!
-- **[2019-04-29]** Our paper "[Modeling and Control of Flexible Loads for Frequency Regulation Services Considering Compensation of Communication Latency and Detection Error](https://www.sciencedirect.com/science/article/pii/S0306261919308335)," was accepted by *Applied Energy*! 
+-  **[2022-01-17]**  We won the *Best Paper Award* of the 3rd IEEE Conference on Sustainable Power and Energy (iSPEC 2021).  Check the news [here](https://skliotsc.um.edu.mo/um-scholar-wins-best-paper-award-of-the-3rd-ieee-conference-on-sustainable-power-and-energy/). The paper is: H. Hui, P. Yu, H. Zhang, N. Dai, W. Jiang and Y. Song, “Regulation Capacity Evaluation of Large-scale Heterogeneous Residential Air Conditioning Loads,” the 3rd IEEE Conference on Sustainable Power and Energy (iSPEC 2021).  <!--[Editing a markdown file for a talk](/images/2021_iSPEC_BestPaper.png) -->
+-  **[2022-01-01]** Hongxun Hui is promoted to be a Research Assistant Professor with the State Key Laboratory of Internet of Things for Smart City! 
+-  **[2021-07-25]** New publication “Scheduling thermostatically controlled loads to provide regulation capacity based on a learning-based optimal power flow model,” to appear in *IEEE Transactions on Sustainable Energy*.
+-  **[2021-04-25]** New publication “Fast Wasserstein-distance-based distributionally robust chance-constrained power dispatch for multi-zone HVAC systems,” to appear in *IEEE Transactions on Smart Grid*.
+- **[2021-02-21]**  New publication "Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids" to appear in *IEEE Transactions on Power Systems*.
+- **[2020-09-17]**  Our paper "[5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential](https://www.sciencedirect.com/science/article/pii/S0306261919316599?dgcid=coauthor)" was selected as the Highly Cited Papers (Top 1%).
+- **[2020-08-02]**  New publication "Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages" to appear in *Applied Energy*!
+- **[2020-06-13]**  I completed my PhD thesis defense Deeply indebted to my supervisors, Prof. Yi Ding and Prof. Yonghua Song.
+- **[2020-05-12]**  Hongxun Hui was awarded the *Outstanding Graduates* (优秀毕业生) both in Zhejiang University and in Zhejiang Province (3 PhD students in the College of EE).
+- **[2020-04-28]**  I was awarded the Nomination of Top Ten Academic Achievements (学生十佳提名学术成果) in the College of EE.
+- **[2020-02-10]** New publication "Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners" to appear in *IEEE Transactions on Industrial Electronics*!
+- **[2020-01-15]** I was awarded as 2019 *Excellence in Reviewing* by *Journal of Modern Power Systems and Clean Energy* (MPCE).  
+- **[2019-12-20]** New publication “Use of Demand Response for Voltage Regulation in Power Distribution Systems with Flexible Resources,” to appear in *IET Generation, Transmission & Distribution*! 
+- **[2019-12-13]** Hongxun Hui was awarded the twelfth *Top Ten Students* (十佳学子) at the College of Electrical Engineering, Zhejiang University! 10 students were selected from around 2300 students at College of EE.
+- **[2019-10-18]** Hongxun Hui got the *Wang Guo Song Scholarship* (王国松奖学金)  in the 2018-2019 academic year! It is the highest honor at the College of Electrical Engineering, Zhejiang University. This year, 4 Ph.D. students got this scholarship among about 180 Ph.D. students.
+- **[2019-10-18]** Hongxun Hui got the *National Scholarship* (国家奖学金) in the 2018-2019 academic year, for rewarding my high quality academic publications and the first ranking in my major (Power Systems)!
+- **[2019-10-09]** New publication “Review of Modeling and Control Strategy of Thermostatically Controlled Loads for Virtual Energy Storage System,” to appear in *Protection and Control of Modern Power Systems*! It is Kang Xie's first paper. Congratulations to Dr. Xie! 
+- **[2019-10-08]** New publication “[5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential](https://www.sciencedirect.com/science/article/pii/S0306261919316599?dgcid=coauthor)” to appear in by *Applied Energy*. This paper’s application survey of 5G on DR is carried out before 5G technology enters the large-scale commercial stage, so as to provide references and guidelines for developing future 5G networks in the smart grid paradigm. <!-- ![Editing a markdown file for a talk](/images/5G_Review_Paper.png)-->
+- **[2019-06-16]** New publication “Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems,” to appear in *IEEE Transactions on Power Systems*.
+- **[2019-04-29]** New publication "Modeling and Control of Flexible Loads for Frequency Regulation Services Considering Compensation of Communication Latency and Detection Error," to appear in *Applied Energy*. 
 - **[2019-03-20]** Our book "[Integration of Air Conditioning and Heating into Modern Power Systems—Enabling Demand Response and Energy Efficiency](https://link.springer.com/book/10.1007%2F978-981-13-6420-4)," was published by Springer! <!--![Editing a markdown file for a talk](/images/2019_Book_IntegrationOfAirConditioningAn.png)-->
 - **[2018-12-16]** The 1st IEEE Student Conference on Electric Machines and Systems ([IEEE SCEMS 2018](https://ias.ieee.org/images/files/CMD/2018/2018-03-25_IEEE_SCEMS__.DOCX.pdf)) was held successfully! Thanks to all the members in IEEE Zhejiang University Industry Applications Society Student Branch Chapter (IEEEiasZJU)! More photos can be found [here](https://mp.weixin.qq.com/s/7qj0Jz9xPQ3u-9jm9_MAkQ).
-- **[2018-04-18]** I am elected in the 1st batch of the [Academic Rising Star Program](http://grs.zju.edu.cn/redir.php?catalog_id=16313&object_id=139983), Zhejiang University. More information about the Academic Rising Star Program can be found [here](http://grs.zju.edu.cn/redir.php?catalog_id=16313&object_id=122176).
+- **[2018-04-18]** Hongxun Hui is elected in the 1st batch of the [Academic Rising Star Program](http://grs.zju.edu.cn/redir.php?catalog_id=16313&object_id=139983), Zhejiang University. 60 Ph.D. students will be supported by Science and Technology Development Fund to carry out a research project as principal investigator (PI), who will also get supported as a joint-supervision student to visit global universities for 6~12 months. More information can be found [here](http://grs.zju.edu.cn/redir.php?catalog_id=16313&object_id=122176).
 
 
 
