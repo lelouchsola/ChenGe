@@ -6,11 +6,9 @@ excerpt: "About me"
 author_profile: true
 ---
 
-<font color='blue'> I will be a Research Assistant Professor with the State Key Laboratory of Internet of Things for Smart City, University of Macau. Now Open for Applications 2022, including **Post-Doctoral Fellow** (25,000MOP/month), **PhD** (12,500~20,000MOP/month), **Visiting Fellow** (25,000-30,000MOP/month), **Research Assistant** (12,500MOP/month), and **Short-team Visiting Scholar** (around 25,000-30,000MOP/month). If you are interested in our research and want to join our group, please don’t hesitate to drop me an email with your CV, transcript, & representative publications. </font>
+<font color='blue'> I will be a Research Assistant Professor with the State Key Laboratory of Internet of Things for Smart City, University of Macau. Now Open for Applications 2022, including Post-Doctoral Fellow (25,000MOP/month), PhD (12,500~20,000MOP/month), Visiting Fellow (25,000-30,000MOP/month), Research Assistant (12,500MOP/month), and Short-team Visiting Scholar (around 25,000-30,000MOP/month). If you are interested in our research and want to join our group, please don’t hesitate to drop me an email with your CV, transcript, & representative publications. </font>
 
-```html
-<span style='color:red;background:yellow;font-size:20;'>文字</span>
-```
+
 
 ------
 
