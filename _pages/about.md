@@ -1,12 +1,14 @@
 ---
 layout: archive
 permalink: /
-title: "Openings"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 ---
 
-<font color='blue'> I will be a Research Assistant Professor with the State Key Laboratory of Internet of Things for Smart City, University of Macau. Now Open for Applications 2022, including Post-Doctoral Fellow (25,000MOP/month), PhD (12,500~20,000MOP/month), Visiting Fellow (25,000-30,000MOP/month), Research Assistant (12,500MOP/month), and Short-team Visiting Scholar (around 25,000-30,000MOP/month). If you are interested in our research and want to join our group, please don’t hesitate to drop me an email with your CV, transcript, & representative publications. </font>
+# <font color='cornflowerblue'>Open for Applications 2022</font> 
+
+I will be a Research Assistant Professor with the State Key Laboratory of Internet of Things for Smart City, University of Macau. Now Open for Applications 2022, including **<font color='cornflowerblue'>Post-Doctoral Fellow</font>** (25,000MOP/month), **<font color='cornflowerblue'>PhD</font>** (12,500~20,000MOP/month), **<font color='cornflowerblue'>Visiting Fellow</font>** (25,000-30,000MOP/month), **<font color='cornflowerblue'>Research Assistant</font>** (12,500MOP/month), and **<font color='cornflowerblue'>Short-team Visiting Scholar</font>** (around 25,000-30,000MOP/month). If you are interested in our research and want to join our group, please don’t hesitate to drop me an email with your CV, transcript, & representative publications.
 
 
 
@@ -14,7 +16,7 @@ author_profile: true
 
 # News
 
-Dr. Hongxun Hui is a Post-doctoral Fellow with the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), supervised by Prof. [Yonghua Song](https://rto.um.edu.mo/biography/). Previously, he received the Ph.D. and B. Eng degree both from the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/) in 2020 and 2015, respectively. 
+Dr. Hongxun Hui is a Post-doctoral Fellow with the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). Previously, he received the Ph.D. and B. Eng degree both from the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/) in 2020 and 2015, respectively. 
 
 From 2015 to 2020, he was a member of [Smart Grid Operation and Optimization Laboratory (SGOOL)](http://sgool.cn/en/index.php), supervised by Prof. [Yi Ding](https://person.zju.edu.cn/en/110) and Prof. [Yonghua Song](https://rto.um.edu.mo/biography/). From 2018 to 2019, he was a visiting student at the [Advanced Research Institute](https://ari.vt.edu/ari_people/hongxun_hui.html) in [Virginia Tech](https://vt.edu/), supervised by Prof. [Saifur Rahman](http://www.saifurrahman.org/). He was elected in the 1st batch of the Academic Rising Star Program for Ph.D. students in Zhejiang University in 2018. He has authored or coauthored 1 international book, 20 journal papers and 10 issued patents. One of his paper was selected as the ESI Highly Cited Papers (Top 1%). 
 
