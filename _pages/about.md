@@ -1,14 +1,14 @@
 ---
 layout: archive
 permalink: /
-title: "Home"
+title: "Home Hongxun Hui 惠紅勛"
 excerpt: "About me"
 author_profile: true
 ---
 
-# <font color='cornflowerblue'>Open for Applications 2022</font> 
+# Open for Applications 2022 
 
-I will be a Research Assistant Professor with the State Key Laboratory of Internet of Things for Smart City, University of Macau. Now Open for Applications 2022, including **<font color='cornflowerblue'>Post-Doctoral Fellow</font>** (25,000MOP/month), **<font color='cornflowerblue'>PhD</font>** (12,500~20,000MOP/month), **<font color='cornflowerblue'>Visiting Fellow</font>** (25,000-30,000MOP/month), **<font color='cornflowerblue'>Research Assistant</font>** (12,500MOP/month), and **<font color='cornflowerblue'>Short-team Visiting Scholar</font>** (around 25,000-30,000MOP/month). If you are interested in our research and want to join our group, please don’t hesitate to drop me an email with your CV, transcript, & representative publications.
+I will be a Research Assistant Professor with the State Key Laboratory of Internet of Things for Smart City, University of Macau. Now Open for Applications 2022, including **<font color='orange'>Post-Doctoral Fellow</font>** (25,000MOP/month), **<font color='orange'>PhD</font>** (12,500~20,000MOP/month), **<font color='orange'>Visiting Fellow</font>** (25,000-30,000MOP/month), **<font color='orange'>Research Assistant</font>** (12,500MOP/month), and **<font color='orange'>Short-team Visiting Scholar</font>** (around 25,000-30,000MOP/month). If you are interested in our research and want to join our group, please don’t hesitate to drop me an email with your CV, transcript, & representative publications.
 
 
 
