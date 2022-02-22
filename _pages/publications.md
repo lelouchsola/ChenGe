@@ -16,7 +16,7 @@ author_profile: true
 ## Publications
 
 <p align="right"><font size="5">2022</font></p>
-- Jiatu Hong, **Hongxun Hui\***, Hongcai Zhang, Ningyi Dai and Yonghua Song, "[Distributed Control of Large-scale Inverter Air Conditioners for Providing Operating Reserve Based on Consensus With Nonlinear Protocol](https://ieeexplore.ieee.org/document/9714473)", *IEEE Internet of Things Journal*, Early Access,  DOI: [10.1109/JIOT.2022.3151817](https://doi.org/10.1109/JIOT.2022.3151817). [[PDF](https://huihongxun.github.io/files/2022_JIoT_JiatuHong.pdf)]
+- Jiatu Hong, **Hongxun Hui**, Hongcai Zhang, Ningyi Dai and Yonghua Song, "[Distributed Control of Large-scale Inverter Air Conditioners for Providing Operating Reserve Based on Consensus With Nonlinear Protocol](https://ieeexplore.ieee.org/document/9714473)", *IEEE Internet of Things Journal*, Early Access,  DOI: [10.1109/JIOT.2022.3151817](https://doi.org/10.1109/JIOT.2022.3151817). [[PDF](https://huihongxun.github.io/files/2022_JIoT_JiatuHong.pdf)]
 
 - **Hongxun Hui**, Pierluigi Siano, Yi Ding, Peipei Yu, Yonghua Song, Hongcai Zhang and Ningyi Dai, "[A Transactive Energy Framework for Inverter-based HVAC Loads in a Real-time Local Electricity Market Considering Distributed Energy Resources](https://ieeexplore.ieee.org/document/9709098)", *IEEE Transactions on Industrial Informatics*, Early Access,  DOI: [10.1109/TII.2022.3149941](https://doi.org/10.1109/TII.2022.3149941). [[PDF](https://huihongxun.github.io/files/2022_TII_HongxunHui.pdf)]
 
