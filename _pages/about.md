@@ -6,6 +6,12 @@ excerpt: "About me"
 author_profile: true
 ---
 
+#### I will be the Research Assistant Professor with the State Key Laboratory of Internet of Things for Smart City, University of Macau. And Open for Applications 2022
+
+------
+
+# News
+
 Dr. Hongxun Hui is a Post-doctoral Fellow with the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), supervised by Prof. [Yonghua Song](https://rto.um.edu.mo/biography/). Previously, he received the Ph.D. and B. Eng degree both from the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/) in 2020 and 2015, respectively. 
 
 From 2015 to 2020, he was a member of [Smart Grid Operation and Optimization Laboratory (SGOOL)](http://sgool.cn/en/index.php), supervised by Prof. [Yi Ding](https://person.zju.edu.cn/en/110) and Prof. [Yonghua Song](https://rto.um.edu.mo/biography/). From 2018 to 2019, he was a visiting student at the [Advanced Research Institute](https://ari.vt.edu/ari_people/hongxun_hui.html) in [Virginia Tech](https://vt.edu/), supervised by Prof. [Saifur Rahman](http://www.saifurrahman.org/). He was elected in the 1st batch of the Academic Rising Star Program for Ph.D. students in Zhejiang University in 2018. He has authored or coauthored 1 international book, 20 journal papers and 10 issued patents. One of his paper was selected as the ESI Highly Cited Papers (Top 1%). 
@@ -41,9 +47,9 @@ News
 - **[2019-08-12]** Our paper “[Data-driven Reserve Allocation with Frequency Security Constraint Considering Inverter Air Conditioners](https://ieeexplore.ieee.org/document/8809677),” was accepted by *IEEE Access*! It is Xinran's first paper. Congratulations to him! 
 - **[2019-06-16]** Our paper “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” was accepted by *IEEE Transactions on Power Systems*!
 - **[2019-04-29]** Our paper "[Modeling and Control of Flexible Loads for Frequency Regulation Services Considering Compensation of Communication Latency and Detection Error](https://www.sciencedirect.com/science/article/pii/S0306261919308335)," was accepted by *Applied Energy*! 
-- **[2019-03-20]** Our book "[Integration of Air Conditioning and Heating into Modern Power Systems—Enabling Demand Response and Energy Efficiency](https://link.springer.com/book/10.1007%2F978-981-13-6420-4)," was published by Springer! ![Editing a markdown file for a talk](/images/2019_Book_IntegrationOfAirConditioningAn.png)
+- **[2019-03-20]** Our book "[Integration of Air Conditioning and Heating into Modern Power Systems—Enabling Demand Response and Energy Efficiency](https://link.springer.com/book/10.1007%2F978-981-13-6420-4)," was published by Springer! <!--![Editing a markdown file for a talk](/images/2019_Book_IntegrationOfAirConditioningAn.png)-->
 - **[2018-12-16]** The 1st IEEE Student Conference on Electric Machines and Systems ([IEEE SCEMS 2018](https://ias.ieee.org/images/files/CMD/2018/2018-03-25_IEEE_SCEMS__.DOCX.pdf)) was held successfully! Thanks to all the members in IEEE Zhejiang University Industry Applications Society Student Branch Chapter (IEEEiasZJU)! More photos can be found [here](https://mp.weixin.qq.com/s/7qj0Jz9xPQ3u-9jm9_MAkQ).
-- **[2018-04-18]** I was elected in the 1st batch of the [Academic Rising Star Program](http://grs.zju.edu.cn/redir.php?catalog_id=16313&object_id=139983), Zhejiang University [[Certificate](https://huihongxun.github.io/files/Awards/2018_Certificate_学术新星.png)]. More information about the Academic Rising Star Program can be found [here](http://grs.zju.edu.cn/redir.php?catalog_id=16313&object_id=122176).
+- **[2018-04-18]** I am elected in the 1st batch of the [Academic Rising Star Program](http://grs.zju.edu.cn/redir.php?catalog_id=16313&object_id=139983), Zhejiang University. More information about the Academic Rising Star Program can be found [here](http://grs.zju.edu.cn/redir.php?catalog_id=16313&object_id=122176).
 
 
 
