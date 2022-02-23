@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Welcome to my personal website!"
   avatar           : "profile.png"
-  bio              : "N21 Room 2013g, University of Macau, Avenida da Universidade, Taipa, Macau 999078, CHINA"
-  location         : "中國澳門特別行政區，氹仔，大學大馬路，澳門大學科研大樓北21座，房間2013g"
+  bio              : "N21 Room 2013g, University of Macau, Avenida da Universidade, Taipa, Macau 999078, CHINA. 中國澳門特別行政區，氹仔，大學大馬路，澳門大學科研大樓北21座，房間2013g"
+  location         : #"中國澳門特別行政區，氹仔，大學大馬路，澳門大學科研大樓北21座，房間2013g"
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=m2L0mD4AAAAJ&hl=en"
