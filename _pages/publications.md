@@ -38,9 +38,10 @@ author_profile: true
 
 - Yi Ding, Dunjian Xie, **Hongxun Hui**, Yan Xu and Pierluigi Siano, "[Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids](https://ieeexplore.ieee.org/document/9374672)," *IEEE Transactions on Power Systems*, vol. 36, no. 5, pp. 4089-4101, Sep. 2021. [[PDF](https://huihongxun.github.io/files/2021_IEEE_Power_Systems_9374672_Dunjian.pdf)]
 
-- Tao Chen, Meng Song, **Hongxun Hui** and Huan Long, "[Battery electrode mass loading prognostics and analysis for lithium-ion battery–based energy storage systems](https://www.frontiersin.org/articles/10.3389/fenrg.2021.754317/full)," *Frontiers in Energy Research*, vol. 9, p. 754317, Oct. 2021. [[PDF](https://huihongxun.github.io/files/2021_Frontier_Energy_Research_TaoChen_Battery.pdf)]
+  <!--Tao Chen, Meng Song, **Hongxun Hui** and Huan Long, "[Battery electrode mass loading prognostics and analysis for lithium-ion battery--based energy storage systems](https://www.frontiersin.org/articles/10.3389/fenrg.2021.754317/full)," *Frontiers in Energy Research*, vol. 9, p. 754317, Oct. 2021. [[PDF](https://huihongxun.github.io/files/2021_Frontier_Energy_Research_TaoChen_Battery.pdf)]-->
 
-- Tao Chen, Ciwei Gao, **Hongxun Hui**, Qiushi Cui and Huan Long, "[A generalized additive model-based data-driven solution for lithium-ion battery capacity prediction and local effects analysis](https://journals.sagepub.com/doi/abs/10.1177/01423312211057981)," *Transactions of the Institute of Measurement and Control*, Nov. 2021.
+  <!--Tao Chen, Ciwei Gao, **Hongxun Hui**, Qiushi Cui and Huan Long, "[A generalized additive model-based data-driven solution for lithium-ion battery capacity prediction and local effects analysis](https://journals.sagepub.com/doi/abs/10.1177/01423312211057981)," *Transactions of the Institute of Measurement and Control*, Nov. 2021.-->
+
 
 <p align="right"><font size="5">2020</font></p>
 - **Hongxun Hui**, Yi Ding and Yonghua Song, "[Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages](https://www.sciencedirect.com/science/article/abs/pii/S0306261920308333)," *Applied Energy*, vol. 275, p. 115321, Oct. 2020. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261920308333.pdf)]
