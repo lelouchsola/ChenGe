@@ -11,7 +11,7 @@ author_profile: true
 
 ## **Part-time Academic Members**
 
-- Guest Editor, Integrated Intelligent Energy, Power System Demand-Side Load Regulation Technologies based on IoTs. [[special issue](https://huihongxun.github.io/files/综合智慧能源_2022年2期_电子版.pdf)]
+- Guest Editor, Integrated Intelligent Energy, Power System Demand-Side Load Regulation Technologies based on IoTs. [[special issue](https://huihongxun.github.io/files/Professional_Activities/综合智慧能源_2022年2期_电子版.pdf)]
 - Panel Chair, *the 13th International Conference on Applied Energy* (ICAE 2021). [Link](https://applied-energy.org/icae2021/#hero1), [Programe](https://huihongxun.github.io/files/Professional_Activities/ICAE2021-Program-Book.pdf)
 - International Technical Committee, *2022 7th Asia Conference on Power and Electrical Engineering*. [Link](https://www.acpee.net/index.html)
 - Scientific Committee, *2022 International Conference on Civil, Structural and Environmental Engineering*. [Link](https://www.albedomeetings.com/civilmeet/index.php#)
