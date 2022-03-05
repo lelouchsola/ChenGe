@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research and Projects"
 permalink: /research/index.html
 author_profile: true
 ---
@@ -24,6 +24,4 @@ author_profile: true
 <!-- Construction Scheme of Distinctive Town with Smart Energy (Sep. 2018 - Apr. 2019, Hangzhou, China) *Supported by Zhejiang Province Government* *Research Assistant (Principal Student Investigator)* Zero-carbon house for high-end rehabilitation base, and low-carbon conference center for exhibition of smart energy systems. Smart energy-saving industry garden, with industries circulation system, and smart lighting systems. ![Editing a markdown file for a talk](/images/research/research_distinctive_town.png)-->
 
 <!-- Develop the Data-driven Multi-energy Experiment and Simulation Platform (Jul. 2015 - Oct. 2018, Hangzhou, China) [[Lab Introduction Presentation](https://huihongxun.github.io/files/ResearchProjects/20180912_SGOOL_platform.pdf)] [[Lab Introduction in English](https://huihongxun.github.io/files/ResearchProjects/Data-driven_Multi-energy_Platform.pdf)] *Supported by Smart Grid Operation and Optimization Laboratory*, Position: Project director, supervised by Prof. Yi Ding, PV-battery-demand system for power optimization and energy saving. Smart plug-based data acquisition, processing and energy consumption suggestion systems. Real data-driven simulation platform for energy Internet of Things.  ![Editing a markdown file for a talk](/images/research/research_data_driven.png)-->
-
-### 
 

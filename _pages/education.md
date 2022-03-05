@@ -1,18 +1,18 @@
 ---
 layout: archive
-title: "Education"
+title: "Education and Experience"
 permalink: /education/index.html
 author_profile: true
 ---
 
-### [Zhejiang University](http://www.zju.edu.cn/) (09/2015-06/2020) 
+### Zhejiang University (09/2015-06/2020) 
 
-- **Ph.D.**, [College of Electrical Engineering](http://ee.zju.edu.cn/index.php)  
+- **Ph.D.**, College of Electrical Engineering
 - Academic Adviser: Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) and Prof. [Yi Ding](https://person.zju.edu.cn/en/110)
 
-### [Zhejiang University](http://www.zju.edu.cn/) (09/2011-06/2015)
+### Zhejiang University (09/2011-06/2015)
 
-- **B.Eng.**, [College of Electrical Engineering](http://ee.zju.edu.cn/index.php)
+- **B.Eng.**, College of Electrical Engineering
 - Outstanding Graduates, Overall GPA: 3.88/4.0 (top 3%)
 
  
@@ -21,7 +21,7 @@ author_profile: true
 
 # Academic Experiences
 
-### [University of Macau](https://www.um.edu.mo/) (10/2020-10/2022)
+### University of Macau (10/2020-10/2022)
 
 - **Postdoctoral Fellow**, [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/)
 - Cooperation Adviser: [Prof. Yonghua Song](https://rto.um.edu.mo/biography/)

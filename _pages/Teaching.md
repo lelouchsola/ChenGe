@@ -11,7 +11,8 @@ author_profile: true
 
 ## Teaching
 
-- **Teaching Fellow**, *Power System Operation and Control* (Instructor: Prof. Yi Ding and Prof. Pierluigi Siano), College of Electrical Engineering, Zhejiang University, 2016.
+- Introduction to Internet of Things, Department of Electrical and Computer Engineering, University of Macau, 2022.
+- *Power System Operation and Control* (Teaching Assistant, Instructor: Prof. Yi Ding and Prof. Pierluigi Siano), College of Electrical Engineering, Zhejiang University, 2016.
 
 
 
