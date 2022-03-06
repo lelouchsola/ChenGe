@@ -52,7 +52,7 @@ author_profile: true
 
 ------
 
-# Academic Experiences
+# Working Experiences
 
 ### University of Macau (10/2022-)
 
