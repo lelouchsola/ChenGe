@@ -80,12 +80,12 @@ author_profile: true
 
 ### **Academic Honors:**
 
-- Winning Prize, [the 1st China Postdoctoral Innovation & Entrepreneurship Competition](https://postdocinno.gdhrss.gov.cn/webpolicydetail?columnName=third&detailId=495) (第一届全国博士后创新创业大赛优胜奖), Jan. 2022.
-- Best Paper Award of the 3rd IEEE Conference on Sustainable Power and Energy, Dec. 2021. [[Certification](https://huihongxun.github.io/files/Awards/2021_iSPEC_BestPaper.pdf)]
+- Winning Prize, the 1st China Postdoctoral Innovation & Entrepreneurship Competition (第一届全国博士后创新创业大赛优胜奖), Jan. 2022.
+- Best Paper Award of the 3rd IEEE Conference on Sustainable Power and Energy, Dec. 2021.
 - The only Best Innovation Award, the national competition on artificial intelligence (AI) application in power dispatching (第三届电力调度AI应用大赛唯一创新奖), Oct. 2021.
-- The First Prize, the national competition on artificial intelligence (AI) application in power dispatching (第三届电力调度AI应用大赛一等奖(第一名)), Oct. 2021.
-- The only Best Innovation Award, the national competition on artificial intelligence (AI) application in power dispatching (第二届电力调度AI应用大赛唯一创新奖), Jan. 2021. [[Certification](https://huihongxun.github.io/files/Awards/2021_01_AI_Innovation.jpg)]
-- The Second Prize, the national competition on artificial intelligence (AI) application in power dispatching (第二届电力调度AI应用大赛二等奖), Jan. 2021. [[Certification](https://huihongxun.github.io/files/Awards/2021_01_AI_SecondPrize.jpg)]
+- The First Prize, the national competition on artificial intelligence (AI) application in power dispatching (第三届电力调度AI应用大赛一等奖), Oct. 2021.
+- The only Best Innovation Award, the national competition on artificial intelligence (AI) application in power dispatching (第二届电力调度AI应用大赛唯一创新奖), Jan. 2021.
+- The Second Prize, the national competition on artificial intelligence (AI) application in power dispatching (第二届电力调度AI应用大赛二等奖), Jan. 2021.
 - Wang Guo Song Scholarship, the highest honor at College of Electrical Engineering, Zhejiang University (Four winners among 180 Ph.D. students) (王国松奖学金), 2019.
 - First Batch of the Academic Rising Star Program (Three winners among 180 Ph.D. students in College of Electrical Engineering, Zhejiang University) (浙江大学博士研究生学术新星培养计划), 2018.
 - Fuyang Innovation & Entrepreneurship Competition (杭州市富春硅谷创新创业大赛), 2015.
@@ -125,4 +125,4 @@ author_profile: true
 # Community Contribution
 
 - A Volunteer in Affiliated Hospital of Zhejiang University School of Medicine (浙江大学医学院附属第二医院"广济之舟"志愿者)
-- Member of [Future Entrepreneur Club, Zhejiang University](https://baike.baidu.com/item/未来企业家俱乐部/22222219) (浙江大学未来企业家俱乐部)
+- Member of Future Entrepreneur Club, Zhejiang University (浙江大学[未来企业家俱乐部](https://baike.baidu.com/item/未来企业家俱乐部/22222219))
