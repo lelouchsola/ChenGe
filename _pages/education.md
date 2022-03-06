@@ -28,37 +28,37 @@ author_profile: true
 
 
 
-### [Zhuhai UM Science & Technology Research Institute](https://baike.baidu.com/item/%E7%8F%A0%E6%B5%B7%E6%BE%B3%E5%A4%A7%E7%A7%91%E6%8A%80%E7%A0%94%E7%A9%B6%E9%99%A2/20726124?fr=aladdin) (08/2020-10/2020)
+### Zhuhai UM Science & Technology Research Institute (08/2020-10/2020)
 
-- Researcher, Smart City Research Center
+- Researcher, [Smart City Research Center](http://www.zumri.cn/)
 
 
 
-### [Virginia Tech](https://vt.edu/) (10/2018-10/2019)
+### Virginia Tech (10/2018-10/2019)
 
 - Visiting Student Researcher, [Advanced Research Institute](https://ari.vt.edu/)
 - Academic Adviser: [Prof. Saifur Rahman](http://www.saifurrahman.org/)
 
 
 
-### [University of Tennessee](https://utk.edu) (06/2019-07/2019)
+### University of Tennessee (06/2019-07/2019)
 
 - Short-term Exchange, [CURENT Center](https://curent.utk.edu/)
 - Academic Adviser: [Prof. Fangxing (Fran) Li](http://web.eecs.utk.edu/~fli6/)
 
 
 
-### [Duke Kunshan University](https://dukekunshan.edu.cn/en) (08/2014-12/2014)
+### Duke Kunshan University (08/2014-12/2014)
 
 - [Global Learning Semester](https://dukekunshan.edu.cn/en/node/4017)
-- A one-semester long program divided into two seven-week sessions featuring courses taught in English by Duke faculty as well as DKU faculty and faculty from other universities as well.
+- A one-semester long program divided into two seven-week sessions featuring courses taught in English by Duke and DKU faculty.
 - Expertise: Academic Writing, American History, Cognitive Evolution.
 
 
 
-### [Harbin Institute of Technology](http://www.hit.edu.cn/) (07/2014-07/2014)
+### Harbin Institute of Technology (07/2014-07/2014)
 
-- [Exchange Student Program of C9 University Union](https://www.cdgdc.edu.cn/xwyyjsjyxx/xwsytjxx/yxmd/274942.shtml)
+- Exchange Student Program of [C9]((https://www.cdgdc.edu.cn/xwyyjsjyxx/xwsytjxx/yxmd/274942.shtml) University Union
 - Expertise: Flight Vehicle Design and Engineering.
 
 
