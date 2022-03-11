@@ -11,7 +11,7 @@ author_profile: true
 
 ## **Part-time Academic Members**
 
-- Guest Editor, Integrated Intelligent Energy, Power System Demand-Side Load Regulation Technologies based on IoTs, vol. 44, no. 2, 2022. [[special issue](https://huihongxun.github.io/files/Professional_Activities/综合智慧能源_2022年2期_电子版.pdf)]
+- Guest Editor, Integrated Intelligent Energy, Power System Demand-Side Load Regulation Technologies based on IoTs. [[special issue](https://huihongxun.github.io/files/Professional_Activities/综合智慧能源_2022年2期_电子版.pdf)]
 
 - International Technical Committee, *2022 7th Asia Conference on Power and Electrical Engineering*. [Link](https://www.acpee.net/index.html)
 
@@ -23,7 +23,9 @@ author_profile: true
 
 - Director, *IEEE PES Electric Vehicle Satellite Committee-China*, *Energy and Transportation Nexus Subcommittee* (2020-2023)  [[Certificate](https://huihongxun.github.io/files/Energy and Transportation Nexus Subcommittee_Hongxun Hui.pdf)]
 
-- Vice President, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University (2018-2020) <!-- Program Committee, *2021 International Conference on Power System and Energy Internet*. [Link](http://www.posei.net/) --> <!-- Scientific Committee, *2022 International Conference on Civil, Structural and Environmental Engineering*. [Link](https://www.albedomeetings.com/civilmeet/index.php#) -->
+- Vice President, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University (2018-2020) 
+
+  <!-- Program Committee, *2021 International Conference on Power System and Energy Internet*. [Link](http://www.posei.net/) --> <!-- Scientific Committee, *2022 International Conference on Civil, Structural and Environmental Engineering*. [Link](https://www.albedomeetings.com/civilmeet/index.php#) -->
 
 
 
