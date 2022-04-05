@@ -18,15 +18,17 @@ author_profile: true
 <p align="right"><font size="5">2022</font></p>
 - **Hongxun Hui**, Pierluigi Siano, Yi Ding, Peipei Yu, Yonghua Song, Hongcai Zhang and Ningyi Dai, "[A Transactive Energy Framework for Inverter-based HVAC Loads in a Real-time Local Electricity Market Considering Distributed Energy Resources](https://ieeexplore.ieee.org/document/9709098)," *IEEE Transactions on Industrial Informatics*, Early Access,  DOI: [10.1109/TII.2022.3149941](https://doi.org/10.1109/TII.2022.3149941). [[PDF](https://huihongxun.github.io/files/2022_TII_HongxunHui.pdf)]
 
-- **Hongxun Hui**, Peipei Yu, Hongcai Zhang, Ningyi Dai, Wei Jiang and Yonghua Song, "[Regulation Capacity Evaluation of Large-scale Heterogeneous Residential Air Conditioning Loads](https://ieeexplore.ieee.org/document/9735739)," *2021 IEEE Sustainable Power and Energy Conference* (iSPEC), 2021, pp. 2505-2510. [[PDF](https://huihongxun.github.io/files/2022_iSPEC_HongxunHui.pdf)]
+- **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Yonghua Song and Saifur Rahman, “Coupon-Based Demand Response for Consumers Facing Flat-Rate Retail Pricing,” *CSEE Journal of Power and Energy Systems*, 2022.
 
 - Jiatu Hong, **Hongxun Hui\***, Hongcai Zhang, Ningyi Dai and Yonghua Song, "[Distributed Control of Large-scale Inverter Air Conditioners for Providing Operating Reserve Based on Consensus With Nonlinear Protocol](https://ieeexplore.ieee.org/document/9714473)," *IEEE Internet of Things Journal*, Early Access,  DOI: [10.1109/JIOT.2022.3151817](https://doi.org/10.1109/JIOT.2022.3151817). [[PDF](https://huihongxun.github.io/files/2022_JIoT_JiatuHong.pdf)]
 
-- Kang Xie, **Hongxun Hui\***, Yi Ding, Yonghua Song, Chengjin Ye, Wandong Zheng and Shuiquan Ye, "Modeling and Control of Central Air Conditionings for Providing Regulation Services for Power Systems," *Applied Energy*, Accepted. 
+- Kang Xie, **Hongxun Hui\***, Yi Ding, Yonghua Song, Chengjin Ye, Wandong Zheng and Shuiquan Ye, "Modeling and Control of Central Air Conditionings for Providing Regulation Services for Power Systems," *Applied Energy*, 2022. 
 
 - Qingxin Shi, Wenxia Liu, Bo Zeng, **Hongxun Hui** and Fangxing Li, "[Enhancing distribution system resilience against extreme weather events: Concept review, algorithm summary, and future vision](https://www.sciencedirect.com/science/article/pii/S0142061521010759?dgcid=coauthor)," *International Journal of Electrical Power & Energy Systems*, vol. 138, p. 107860, Jun. 2022. [[PDF](https://huihongxun.github.io/files/2022_IJEPES_QinxinShi_ResilienceReview.pdf)]
 
 - Kaijie Zhang, Guofeng Ding, Ming Wen, **Hongxun Hui**, Yi Ding, Min He, Jiefeng Chu, Kang Xie, Chutian Yu and Lijun Zhang, "[Review of Optimal Dispatching Technology and Market Mechanism Design For Virtual Power Plants](http://www.hdpower.net/CN/10.3969/j.issn.2097-0706.2022.02.009)," *Integrated Intelligent Energy*, vol. 44, no. 2, pp. 60-72, Feb. 2022. [[PDF](https://huihongxun.github.io/files/2022_Integrated_Intelligent_Energy_KaijieZhang.pdf)]
+
+- **Hongxun Hui**, Peipei Yu, Hongcai Zhang, Ningyi Dai, Wei Jiang and Yonghua Song, "[Regulation Capacity Evaluation of Large-scale Heterogeneous Residential Air Conditioning Loads](https://ieeexplore.ieee.org/document/9735739)," *2021 IEEE Sustainable Power and Energy Conference* (iSPEC), 2021, pp. 2505-2510. (Best Paper) [[PDF](https://huihongxun.github.io/files/2022_iSPEC_HongxunHui.pdf)]
 
   <p align="right"><font size="5">2021</font></p>
 
