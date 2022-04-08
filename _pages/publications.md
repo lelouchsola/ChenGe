@@ -22,7 +22,7 @@ author_profile: true
 
 - Jiatu Hong, **Hongxun Hui\***, Hongcai Zhang, Ningyi Dai and Yonghua Song, "[Distributed Control of Large-scale Inverter Air Conditioners for Providing Operating Reserve Based on Consensus With Nonlinear Protocol](https://ieeexplore.ieee.org/document/9714473)," *IEEE Internet of Things Journal*, Early Access,  DOI: [10.1109/JIOT.2022.3151817](https://doi.org/10.1109/JIOT.2022.3151817). [[PDF](https://huihongxun.github.io/files/2022_JIoT_JiatuHong.pdf)]
 
-- Kang Xie, **Hongxun Hui\***, Yi Ding, Yonghua Song, Chengjin Ye, Wandong Zheng and Shuiquan Ye, "Modeling and Control of Central Air Conditionings for Providing Regulation Services for Power Systems," *Applied Energy*, 2022. 
+- Kang Xie, **Hongxun Hui\***, Yi Ding, Yonghua Song, Chengjin Ye, Wandong Zheng and Shuiquan Ye, "[Modeling and Control of Central Air Conditionings for Providing Regulation Services for Power Systems](https://www.sciencedirect.com/science/article/pii/S0306261922004391?dgcid=coauthor)," *Applied Energy*, vol. 315, p. 119035, Jun. 2022. [[PDF](https://huihongxun.github.io/files/2022_APEN_CentralAirConditionings.pdf)]
 
 - Qingxin Shi, Wenxia Liu, Bo Zeng, **Hongxun Hui** and Fangxing Li, "[Enhancing distribution system resilience against extreme weather events: Concept review, algorithm summary, and future vision](https://www.sciencedirect.com/science/article/pii/S0142061521010759?dgcid=coauthor)," *International Journal of Electrical Power & Energy Systems*, vol. 138, p. 107860, Jun. 2022. [[PDF](https://huihongxun.github.io/files/2022_IJEPES_QinxinShi_ResilienceReview.pdf)]
 
