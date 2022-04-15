@@ -30,6 +30,7 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 News
 ======
+- **[2022-04-15]**  New publication: H. Hui, P. Yu, H. Zhang, N. Dai, W. Jiang and Y. Song, "Regulation Capacity Evaluation of Large-scale Residential Air Conditioners for Improving Flexibility of Urban Power Systems," to appear in *International Journal of Electrical Power & Energy Systems*, 2022.
 - **[2022-04-01]**  New publication: H. Hui, Y. Ding, K. Luan, T. Chen, Y. Song and S. Rahman, “Coupon-Based Demand Response for Consumers Facing Flat-Rate Retail Pricing,” to appear in *CSEE Journal of Power and Energy Systems*, 2022.
 - **[2022-03-26]**  New publication: K. Xie, H. Hui, Y. Ding, Y. Song, C. Ye, W. Zheng and S. Ye, “Modeling and Control of Central Air Conditionings for Providing Regulation Services for Power Systems,” to appear in *Applied Energy*, 2022.
 - **[2022-02-15]**  New publication: J. Hong, H. Hui, H. Zhang, N. Dai, and Y. Song, "Distributed Control of Large-scale Inverter Air Conditioners for Providing Operating Reserve Based on Consensus With Nonlinear Protocol", to appear in *IEEE Internet of Things Journal*, 2022.
