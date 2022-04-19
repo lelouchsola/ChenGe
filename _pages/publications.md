@@ -18,7 +18,7 @@ author_profile: true
 <p align="right"><font size="5">2022</font></p>
 - **Hongxun Hui**, Pierluigi Siano, Yi Ding, Peipei Yu, Yonghua Song, Hongcai Zhang and Ningyi Dai, "[A Transactive Energy Framework for Inverter-based HVAC Loads in a Real-time Local Electricity Market Considering Distributed Energy Resources](https://ieeexplore.ieee.org/document/9709098)," *IEEE Transactions on Industrial Informatics*, Early Access,  DOI: [10.1109/TII.2022.3149941](https://doi.org/10.1109/TII.2022.3149941). [[PDF](https://huihongxun.github.io/files/2022_TII_HongxunHui.pdf)]
 
-- **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Yonghua Song and Saifur Rahman, “Coupon-Based Demand Response for Consumers Facing Flat-Rate Retail Pricing,” *CSEE Journal of Power and Energy Systems*, 2022. [[PDF](https://huihongxun.github.io/files/2022_CSEE_Coupon_Hongxun.pdf)]
+- **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Yonghua Song and Saifur Rahman, “Coupon-Based Demand Response for Consumers Facing Flat-Rate Retail Pricing,” *CSEE Journal of Power and Energy Systems*, 2022. [[PDF](https://huihongxun.github.io/files/2022_CSEE_HongxunHui.pdf)]
 
 - **Hongxun Hui**, Peipei Yu, Hongcai Zhang, Ningyi Dai, Wei Jiang and Yonghua Song, "Regulation Capacity Evaluation of Large-scale Residential Air Conditioners for Improving Flexibility of Urban Power Systems," *International Journal of Electrical Power & Energy Systems*, Apr. 2022. [[PDF](https://huihongxun.github.io/files/2022_IJEPES_Hongxun_RegulationCapacity.pdf)]
 
