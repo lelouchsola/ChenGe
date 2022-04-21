@@ -8,7 +8,13 @@ author_profile: true
 
 # <font color='cornflowerblue'>Open for Applications 2022</font> 
 
-I will be a Research Assistant Professor with the State Key Laboratory of Internet of Things for Smart City, University of Macau. Now Open for Applications 2022, including **<font color='cornflowerblue'>Post-Doctoral Fellow</font>** (25,000MOP/month), **<font color='cornflowerblue'>PhD</font>** (12,500~20,000MOP/month), **<font color='cornflowerblue'>Visiting Fellow</font>** (25,000-30,000MOP/month), **<font color='cornflowerblue'>Research Assistant</font>** (12,500MOP/month), and **<font color='cornflowerblue'>Short-team Visiting Scholar</font>** (around 25,000-30,000MOP/month). If you are interested in our research and want to join our group, please don’t hesitate to drop me an email with your CV, transcript, & representative publications.
+I will be a Research Assistant Professor with the State Key Laboratory of Internet of Things for Smart City, University of Macau. Now Open for Applications 2022, including **<font color='cornflowerblue'>Post-Doctoral Fellow</font>** (40,000~25,000MOP/month), **<font color='cornflowerblue'>PhD</font>** (12,500~20,000MOP/month), **<font color='cornflowerblue'>Visiting Fellow</font>** (25,000-30,000MOP/month), **<font color='cornflowerblue'>Short-team Visiting Scholar</font>** (around 25,000-30,000MOP/month), and **<font color='cornflowerblue'>Research Assistant</font>** (12,500MOP/month). If you are interested in our research and want to join our group, please don’t hesitate to drop me an email with your CV, transcript, & representative publications.
+
+
+
+**<font color='orange'> UM Macao Postdoctoral Fellowship (Class A and Class B) Application DDL: 6 May, 2022. [Link](http://muchong.com/t-15097760-1) </font>** **<font color='orange'>2022濠江博士后申请截止日期2022年5月6日，[详情链接](http://muchong.com/t-15097760-1) </font>**
+
+
 
 
 
