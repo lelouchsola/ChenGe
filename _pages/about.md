@@ -8,7 +8,7 @@ author_profile: true
 
 ------
 
-# <font color='blue'>About me</font>
+# About me
 
 Dr. Hongxun Hui is a Research Assistant Professor with the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). Previously, he received the B. Eng degree in 2015 and Ph.D degree in 2020 both from the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/), supervised by Prof. [Yi Ding](https://person.zju.edu.cn/en/110) and Prof. [Yonghua Song](https://rto.um.edu.mo/biography/). From 2018 to 2019, he was a visiting student at the [Advanced Research Institute](https://ari.vt.edu/ari_people/hongxun_hui.html) in [Virginia Tech](https://vt.edu/), supervised by Prof. [Saifur Rahman](http://www.saifurrahman.org/). From 2020 to 2022, he was a Post-doctoral Fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. 
 
@@ -22,14 +22,14 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 ------
 
-# <font color='blue'>Open for Applications 2022</font> 
+# Open for Applications 2022
 
-- **<font color='cornflowerblue'>UM Macao Postdoctoral Fellowship (Class A and Class B) 濠江博士后</font>** [Link](http://muchong.com/t-15097760-1) 
-- **<font color='cornflowerblue'>Post-Doctoral Fellow</font>** <font color='orange'>(40,000~25,000MOP/month)</font>
-- **<font color='cornflowerblue'>PhD</font>** <font color='orange'>(12,500~20,000MOP/month)</font>
-- **<font color='cornflowerblue'>Visiting Fellow</font>** <font color='orange'>(25,000-30,000MOP/month)</font>
-- **<font color='cornflowerblue'>Short-team Visiting Scholar</font>** <font color='orange'>(25,000-30,000MOP/month)</font>
-- **<font color='cornflowerblue'>Research Assistant</font>** <font color='orange'>(12,500MOP/month)</font>
+- **<font color='blue'>UM Macao Postdoctoral Fellowship (Class A and Class B) 濠江博士后</font>** [Link](http://muchong.com/t-15097760-1) 
+- **<font color='blue'>Post-Doctoral Fellow</font>** <font color='orange'>(40,000~25,000MOP/month)</font>
+- **<font color='blue'>PhD</font>** <font color='orange'>(12,500~20,000MOP/month)</font>
+- **<font color='blue'>Visiting Fellow</font>** <font color='orange'>(25,000-30,000MOP/month)</font>
+- **<font color='blue'>Short-team Visiting Scholar</font>** <font color='orange'>(25,000-30,000MOP/month)</font>
+- **<font color='blue'>Research Assistant</font>** <font color='orange'>(12,500MOP/month)</font>
 
 **<font color='orange'>If you are interested in our research and want to join our group, please don’t hesitate to drop me an email with your CV, transcript, & representative publications.</font>**
 
@@ -39,7 +39,7 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 ------
 
-<font color='blue'>News</font>
+News
 ======
 - **[2022-04-15]**  New publication: H. Hui, P. Yu, H. Zhang, N. Dai, W. Jiang and Y. Song, "Regulation Capacity Evaluation of Large-scale Residential Air Conditioners for Improving Flexibility of Urban Power Systems," to appear in *International Journal of Electrical Power & Energy Systems*, 2022.
 - **[2022-04-01]**  New publication: H. Hui, Y. Ding, K. Luan, T. Chen, Y. Song and S. Rahman, “Coupon-Based Demand Response for Consumers Facing Flat-Rate Retail Pricing,” to appear in *CSEE Journal of Power and Energy Systems*, 2022.
