@@ -6,14 +6,6 @@ excerpt: "About me"
 author_profile: true
 ---
 
-# <font color='cornflowerblue'>Open for Applications 2022</font> 
-
-Now Open for Applications 2022, including **<font color='cornflowerblue'>Post-Doctoral Fellow</font>** (40,000~25,000MOP/month), **<font color='cornflowerblue'>PhD</font>** (12,500~20,000MOP/month), **<font color='cornflowerblue'>Visiting Fellow</font>** (25,000-30,000MOP/month), **<font color='cornflowerblue'>Short-team Visiting Scholar</font>** (around 25,000-30,000MOP/month), and **<font color='cornflowerblue'>Research Assistant</font>** (12,500MOP/month). If you are interested in our research and want to join our group, please don’t hesitate to drop me an email with your CV, transcript, & representative publications.
-
-**<font color='orange'> UM Macao Postdoctoral Fellowship (Class A and Class B) Application DDL: 6 May, 2022. 濠江博士后申请截止日期2022年5月6日</font>** [Link](http://muchong.com/t-15097760-1)
-
-
-
 ------
 
 # About me
@@ -23,6 +15,23 @@ Dr. Hongxun Hui is a Research Assistant Professor with the [State Key Laboratory
 Dr. Hui has authored/coauthored 1 international book, 40 papers (including more than 20 SCI journal papers) and 15 issued patents. One of his paper was selected as the ESI Highly Cited Papers (Top 1%).  He was elected in the 1st batch of the Academic Rising Star Program for Ph.D. students in Zhejiang University in 2018. He got the *Best Paper Award* of IEEE iSPEC, the *First Prize* and the *Best Innovation Award* of the National AI Application Competition in Power Dispatching. Dr. Hui serves as reviewers for many international journals, including IEEE, IET, CSEE, Elsevier, Springer, and Wiley. He was the recipient of the Outstanding Reviewer Award from *Journal of Modern Power Systems and Clean Energy*. Besides, he was the Vice President of *IEEE Industry Applications Society Student Branch Chapter* from 2018 to 2020 in Zhejiang University, and the Director of *IEEE PES Electric Vehicle Satellite Committee-China*, *Energy and Transportation Nexus Subcommittee*. His research interests are about the optimal control and market mechanism design of flexible loads (especially the heating, ventilating, and air-conditioning loads) considering high penetration of renewable energies in smart grid, specifically including the modeling and control method of flexible loads, the electricity market considering demand response, and the reliability analysis considering multiple uncertainties brought by flexible loads and renewable energies.
 
 Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20220213.pdf). Biography
+
+
+
+------
+
+# <font color='cornflowerblue'>Open for Applications 2022</font> 
+
+- **<font color='cornflowerblue'>UM Macao Postdoctoral Fellowship (Class A and Class B) 濠江博士后</font>** [Link](http://muchong.com/t-15097760-1) 
+- **<font color='cornflowerblue'>Post-Doctoral Fellow</font>** <font color='orange'>(40,000~25,000MOP/month)</font>
+- **<font color='cornflowerblue'>PhD</font>** <font color='orange'>(12,500~20,000MOP/month)</font>
+- **<font color='cornflowerblue'>Visiting Fellow</font>** <font color='orange'>(25,000-30,000MOP/month)</font>
+- **<font color='cornflowerblue'>Short-team Visiting Scholar</font>** <font color='orange'>(25,000-30,000MOP/month)</font>
+- **<font color='cornflowerblue'>Research Assistant</font>** <font color='orange'>(12,500MOP/month)</font>
+
+**<font color='orange'>If you are interested in our research and want to join our group, please don’t hesitate to drop me an email with your CV, transcript, & representative publications.</font>**
+
+
 
 ------
 

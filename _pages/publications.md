@@ -20,9 +20,9 @@ author_profile: true
 
 - Jiatu Hong, **Hongxun Hui\***, Hongcai Zhang, Ningyi Dai and Yonghua Song, "[Distributed Control of Large-scale Inverter Air Conditioners for Providing Operating Reserve Based on Consensus With Nonlinear Protocol](https://ieeexplore.ieee.org/document/9714473)," *IEEE Internet of Things Journal*, Early Access,  DOI: [10.1109/JIOT.2022.3151817](https://doi.org/10.1109/JIOT.2022.3151817). [[PDF](https://huihongxun.github.io/files/2022_JIoT_JiatuHong.pdf)]
 
-- **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Yonghua Song and Saifur Rahman, “Coupon-Based Demand Response for Consumers Facing Flat-Rate Retail Pricing,” *CSEE Journal of Power and Energy Systems*, 2022. [[PDF](https://huihongxun.github.io/files/2022_CSEE_HongxunHui.pdf)]
-
 - Kang Xie, **Hongxun Hui\***, Yi Ding, Yonghua Song, Chengjin Ye, Wandong Zheng and Shuiquan Ye, "[Modeling and Control of Central Air Conditionings for Providing Regulation Services for Power Systems](https://www.sciencedirect.com/science/article/pii/S0306261922004391?dgcid=coauthor)," *Applied Energy*, vol. 315, p. 119035, Jun. 2022. [[PDF](https://huihongxun.github.io/files/2022_APEN_CentralAirConditionings.pdf)]
+
+- **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Yonghua Song and Saifur Rahman, “Coupon-Based Demand Response for Consumers Facing Flat-Rate Retail Pricing,” *CSEE Journal of Power and Energy Systems*, 2022. [[PDF](https://huihongxun.github.io/files/2022_CSEE_HongxunHui.pdf)]
 
 - **Hongxun Hui**, Peipei Yu, Hongcai Zhang, Ningyi Dai, Wei Jiang and Yonghua Song, "Regulation Capacity Evaluation of Large-scale Residential Air Conditioners for Improving Flexibility of Urban Power Systems," *International Journal of Electrical Power & Energy Systems*, Apr. 2022. [[PDF](https://huihongxun.github.io/files/2022_IJEPES_Hongxun_RegulationCapacity.pdf)]
 
