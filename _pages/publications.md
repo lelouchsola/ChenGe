@@ -30,6 +30,8 @@ author_profile: true
 
 - Kaijie Zhang, Guofeng Ding, Ming Wen, **Hongxun Hui**, Yi Ding, Min He, Jiefeng Chu, Kang Xie, Chutian Yu and Lijun Zhang, "[Review of Optimal Dispatching Technology and Market Mechanism Design For Virtual Power Plants](http://www.hdpower.net/CN/10.3969/j.issn.2097-0706.2022.02.009)," *Integrated Intelligent Energy*, vol. 44, no. 2, pp. 60-72, Feb. 2022. [[PDF](https://huihongxun.github.io/files/2022_Integrated_Intelligent_Energy_KaijieZhang.pdf)]
 
+- Han Wang, Xiaoyuan Xu, Zheng Yan, **Hongxun Hui** and Xiaotao Fang, "[Theoretical Methods and Application Prospects for Uncertainty Quantification in Distribution Network Operation Under the Influence of Stochastic Source-load](https://www.gei-journal.com/cn/journalsDetailsCn/20220525/1529442644177063936.html)," *Journal of Global Energy Interconnection*, vol. 5, no. 3, pp. 233-244, May. 2022. [[PDF](https://huihongxun.github.io/files/2022_随机源-荷影响下配电网运行不确定性量化理论方法与应用展望_王晗.pdf)]
+
 - Peipei Yu, **Hongxun Hui**, Hongcai Zhang, Ge Chen and Yonghua Song, "[District Cooling System Control for Providing Operating Reserve based on Safe Deep Reinforcement Learning](https://arxiv.org/abs/2112.10949)," arXiv preprint arXiv:2112.10949. [[PDF](https://huihongxun.github.io/files/2021_PeipeiYu_DistrictCoolingSystemControl.pdf)]
 
   <p align="right"><font size="5">2021</font></p>
