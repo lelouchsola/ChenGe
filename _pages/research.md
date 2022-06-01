@@ -7,6 +7,7 @@ author_profile: true
 
 
 
+- Key technologies and applications of network-load-storage interaction of virtual power station in smart city (2022-2024), Supported by Science and Technology Development Fund, Macao, China,  Hogncai Zhang (PI) and Hongxun Hui (Co-PI), MOP 1,100,000.
 - Regulation Technologies of Large-scale Demand-side Resources in Urban Power Systems Considering High-penetration Renewable Energies (Jan. 2022 - Dec. 2023),  Supported by Key Laboratory of Modern Power System Simulation and Control & Renewable Energy Technology, Ministry of Education (Northeast Electric Power University) , Principal Investigator.
 - Friendly Interactive Smart Grid Between Supply- and Demand-Sides (Jul. 2016 – Jun. 2020), *Supported by Ministry of Science and Technology of China* (No. 2016YFB0901100).
 - Cooperative Control of Flexible Loads in Power Systems with High Penetration of Renewable Energies (Sep. 2018 – Sep. 2019), *Supported by Zhejiang University, Academic Rising Star Program* (No. 2018025), Principal Investigator. 
