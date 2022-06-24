@@ -6,21 +6,9 @@ excerpt: "About me"
 author_profile: true
 ---
 
-------
-
-# About me
-
-Dr. Hongxun Hui is a Research Assistant Professor with the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). Previously, he received the B. Eng degree in 2015 and Ph.D degree in 2020 both from the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/), supervised by Prof. [Yi Ding](https://person.zju.edu.cn/en/110) and Prof. [Yonghua Song](https://rto.um.edu.mo/biography/). From 2018 to 2019, he was a visiting student at the [Advanced Research Institute](https://ari.vt.edu/ari_people/hongxun_hui.html) in [Virginia Tech](https://vt.edu/), supervised by Prof. [Saifur Rahman](http://www.saifurrahman.org/). From 2020 to 2022, he was a Post-doctoral Fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. 
-
-Dr. Hui has authored/coauthored 1 international book, 40 papers (including more than 20 SCI journal papers) and 15 issued patents. One of his paper was selected as the ESI Highly Cited Papers (Top 1%).  He was elected in the 1st batch of the Academic Rising Star Program for Ph.D. students in Zhejiang University in 2018. He got the *Best Paper Award* of IEEE iSPEC, the *First Prize* and the *Best Innovation Award* of the National AI Application Competition in Power Dispatching. Dr. Hui serves as reviewers for many international journals, including IEEE, IET, CSEE, Elsevier, Springer, and Wiley. He was the recipient of the Outstanding Reviewer Award from *Journal of Modern Power Systems and Clean Energy*. Besides, he was the Vice President of *IEEE Industry Applications Society Student Branch Chapter* from 2018 to 2020 in Zhejiang University, and the Director of *IEEE PES Electric Vehicle Satellite Committee-China*, *Energy and Transportation Nexus Subcommittee*. His research interests are about the optimal control and market mechanism design of flexible loads (especially the heating, ventilating, and air-conditioning loads) considering high penetration of renewable energies in smart grid, specifically including the modeling and control method of flexible loads, the electricity market considering demand response, and the reliability analysis considering multiple uncertainties brought by flexible loads and renewable energies.
-
-Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20220213.pdf). Biography
 
 
 
-
-
-------
 
 # Open for Applications 2022
 
@@ -39,6 +27,18 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 ------
 
+# About me
+
+Dr. Hongxun Hui is a Research Assistant Professor with the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). Previously, he received a B. Eng. degree in 2015 and Ph.D. degree in 2020 both from the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/), supervised by Prof. [Yi Ding](https://person.zju.edu.cn/en/110) and Prof. [Yonghua Song](https://rto.um.edu.mo/biography/). From 2018 to 2019, he was a visiting student at the [Advanced Research Institute](https://ari.vt.edu/ari_people/hongxun_hui.html) in [Virginia Tech](https://vt.edu/), supervised by Prof. [Saifur Rahman](http://www.saifurrahman.org/). From 2020 to 2022, he was a Post-doctoral Fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. 
+
+Dr. Hui‘s research interests are in the optimal control and market mechanism design of flexible loads. He has authored/co-authored 1 international book, 40 papers (including more than 20 SCI journal papers), and 15 issued patents. One of the papers was selected as the ESI Highly Cited Papers (Top 1%).  He was elected in the 1st batch of the Academic Rising Star Program for Ph.D. students at Zhejiang University in 2018. He got the *Best Paper Award* of IEEE iSPEC, the *First Prize* and the *Best Innovation Award* of the National AI Application Competition in Power Dispatching. Dr. Hui serves as reviewer for many international journals, including IEEE, IET, CSEE, Elsevier, Springer, and Wiley. He was the recipient of the Outstanding Reviewer Award from the *Journal of Modern Power Systems and Clean Energy*. Besides, he was the Vice President of *IEEE Industry Applications Society Student Branch Chapter* from 2018 to 2020 in Zhejiang University, and the Director of *IEEE PES Electric Vehicle Satellite Committee-China*, *Energy and Transportation Nexus Subcommittee*. 
+
+Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20220213.pdf).
+
+
+
+------
+
 News
 ======
 - **[2022-04-15]**  New publication: H. Hui, P. Yu, H. Zhang, N. Dai, W. Jiang and Y. Song, "Regulation Capacity Evaluation of Large-scale Residential Air Conditioners for Improving Flexibility of Urban Power Systems," to appear in *International Journal of Electrical Power & Energy Systems*, 2022.
@@ -52,17 +52,17 @@ News
 -  **[2021-04-25]** New publication “Fast Wasserstein-distance-based distributionally robust chance-constrained power dispatch for multi-zone HVAC systems,” to appear in *IEEE Transactions on Smart Grid*.
 - **[2021-02-21]**  New publication "Game-Theoretic Demand Side Management of Thermostatically Controlled Loads for Smoothing Tie-line Power of Microgrids" to appear in *IEEE Transactions on Power Systems*.
 - **[2020-09-17]**  Our paper "5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential" was selected as the Highly Cited Papers (Top 1%).
-- **[2020-08-02]**  New publication "Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages" to appear in *Applied Energy*!
-- **[2020-06-13]**  I completed my PhD thesis defense Deeply indebted to my supervisors, Prof. Yi Ding and Prof. Yonghua Song.
-- **[2020-05-12]**  Hongxun Hui was awarded the *Outstanding Graduates* (优秀毕业生) both in Zhejiang University and in Zhejiang Province (3 PhD students in the College of EE).
+- **[2020-08-02]**  New publication "Adaptive Time-Delay Control of Flexible Loads in Power Systems Facing Accidental Outages" to appear in *Applied Energy*.
+- **[2020-06-13]**  I completed my Ph.D. thesis defense Deeply indebted to my supervisors, Prof. Yi Ding and Prof. Yonghua Song.
+- **[2020-05-12]**  Hongxun Hui was awarded the *Outstanding Graduates* (优秀毕业生) both in Zhejiang University and in Zhejiang Province (3 Ph.D. students in the College of EE).
 - **[2020-04-28]**  I was awarded the Nomination of Top Ten Academic Achievements (学生十佳提名学术成果) in the College of EE.
 - **[2020-02-10]** New publication "Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners" to appear in *IEEE Transactions on Industrial Electronics*!
-- **[2020-01-15]** I was awarded as 2019 *Excellence in Reviewing* by *Journal of Modern Power Systems and Clean Energy* (MPCE).  
+- **[2020-01-15]** I was awarded as 2019 *Excellence in Reviewing* by the *Journal of Modern Power Systems and Clean Energy* (MPCE).  
 - **[2019-12-20]** New publication “Use of Demand Response for Voltage Regulation in Power Distribution Systems with Flexible Resources,” to appear in *IET Generation, Transmission & Distribution*! 
 - **[2019-12-13]** Hongxun Hui was awarded the twelfth *Top Ten Students* (十佳学子) at the College of Electrical Engineering, Zhejiang University! 10 students were selected from around 2300 students at College of EE.
 - **[2019-10-18]** Hongxun Hui got the *Wang Guo Song Scholarship* (王国松奖学金)  in the 2018-2019 academic year! It is the highest honor at the College of Electrical Engineering, Zhejiang University. This year, 4 Ph.D. students got this scholarship among about 180 Ph.D. students.
 - **[2019-10-18]** Hongxun Hui got the *National Scholarship* (国家奖学金) in the 2018-2019 academic year, for rewarding my high quality academic publications and the first ranking in my major (Power Systems)!
-- **[2019-10-09]** New publication “Review of Modeling and Control Strategy of Thermostatically Controlled Loads for Virtual Energy Storage System,” to appear in *Protection and Control of Modern Power Systems*! It is Kang Xie's first paper. Congratulations to Dr. Xie! 
+- **[2019-10-09]** New publication “Review of Modeling and Control Strategy of Thermostatically Controlled Loads for Virtual Energy Storage System,” to appear in *Protection and Control of Modern Power Systems*. 
 - **[2019-10-08]** New publication “5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential” to appear in by *Applied Energy*. This paper’s application survey of 5G on DR is carried out before 5G technology enters the large-scale commercial stage, so as to provide references and guidelines for developing future 5G networks in the smart grid paradigm. <!-- ![Editing a markdown file for a talk](/images/5G_Review_Paper.png)-->
 - **[2019-06-16]** New publication “Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems,” to appear in *IEEE Transactions on Power Systems*.
 - **[2019-04-29]** New publication "Modeling and Control of Flexible Loads for Frequency Regulation Services Considering Compensation of Communication Latency and Detection Error," to appear in *Applied Energy*. 
