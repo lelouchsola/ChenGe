@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching and Talks"
+title: "Teaching & Talks"
 permalink: /teaching/
 author_profile: true
 ---
@@ -20,7 +20,7 @@ author_profile: true
 
 ------
 
-## Presentations and Invited Talks
+## Presentations and Talks
 
 - Real-time Local Electricity Market Considering High-Penetration Distributed Energy Resources, [*the 13th International Conference on Applied Energy* (ICAE 2021)](https://applied-energy.org/icae2021/#hero1), Thailand, Nov. 29, 2021. ([Panel Speaker](https://huihongxun.github.io/files/Professional_Activities/ICAE2021-Program-Book.pdf))
 - Adaptive Control of Flexible Loads for Enhancing the Power System Resilience Facing Accidental Outages, [*the 5th IEEE Conference on Energy Internet and Energy System Integration* (EI2 2021)](https://attend.ieee.org/ei2-2021/) , Taiyuan, China, Oct. 24, 2021. ([Session Speaker](https://huihongxun.github.io/files/Presentation/20211023_IEEE_EI2_SessionSpeaker.pdf))

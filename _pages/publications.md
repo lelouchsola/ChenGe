@@ -13,7 +13,7 @@ author_profile: true
 
 ------
 
-## Publications
+## Journal and Conference Papers
 
 <p align="right"><font size="5">2022</font></p>
 - **Hongxun Hui**, Pierluigi Siano, Yi Ding, Peipei Yu, Yonghua Song, Hongcai Zhang and Ningyi Dai, "[A Transactive Energy Framework for Inverter-based HVAC Loads in a Real-time Local Electricity Market Considering Distributed Energy Resources](https://ieeexplore.ieee.org/document/9709098)," *IEEE Transactions on Industrial Informatics*, Early Access,  DOI: [10.1109/TII.2022.3149941](https://doi.org/10.1109/TII.2022.3149941). [[PDF](https://huihongxun.github.io/files/2022_TII_HongxunHui.pdf)]

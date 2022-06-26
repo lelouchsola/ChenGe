@@ -1,11 +1,24 @@
 ---
 layout: archive
-title: "Research and Projects"
+title: "Group & Research"
 permalink: /research/index.html
 author_profile: true
 ---
 
 
+
+## Group
+
+- Smart Energy Group, State Key Laboratory of Internet of Things for Smart City, University of Macau. The group includes Professors Yonghua Song, Man Chung WONG, Ningyi Dai, Hongcai Zhang, Keng Weng LAO, Hongxun Hui.
+- Welcome to join our group!
+
+
+
+
+
+------
+
+## Projects
 
 - Key technologies and applications of network-load-storage interaction of virtual power station in smart city (2022-2024), Supported by Science and Technology Development Fund, Macao, China,  Hogncai Zhang (PI) and Hongxun Hui (Co-PI), MOP 1,100,000.
 - Regulation Technologies of Large-scale Demand-side Resources in Urban Power Systems Considering High-penetration Renewable Energies (Jan. 2022 - Dec. 2023),  Supported by Key Laboratory of Modern Power System Simulation and Control & Renewable Energy Technology, Ministry of Education (Northeast Electric Power University) , Principal Investigator.

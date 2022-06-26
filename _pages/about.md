@@ -31,7 +31,7 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 - **<font color='blue'>Short-team Visiting Scholar</font>** <font color='orange'>(25,000-30,000MOP/month)</font>
 - **<font color='blue'>Research Assistant</font>** <font color='orange'>(12,500MOP/month)</font>
 
-**<font color='blue'>If you are interested in our research and want to join our group, please don’t hesitate to drop me an email with your CV, transcript, & representative publications.</font>**
+**<font color='blue'>If you are interested in our research and hope to join our group, please don’t hesitate to drop me an email with your CV, transcript, and representative publications.</font>**
 
 
 

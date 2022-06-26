@@ -81,7 +81,7 @@ author_profile: true
 ### **Academic Honors:**
 
 - Winning Prize, the 1st China Postdoctoral Innovation & Entrepreneurship Competition (第一届全国博士后创新创业大赛优胜奖), Jan. 2022.
-- Best Paper Award of the 3rd IEEE Conference on Sustainable Power and Energy, Dec. 2021.
+- Best Paper Award of the 3rd IEEE Conference on Sustainable Power and Energy (iSPEC), Dec. 2021.
 - The only Best Innovation Award, the national competition on artificial intelligence (AI) application in power dispatching (第三届电力调度AI应用大赛唯一创新奖), Oct. 2021.
 - The First Prize, the national competition on artificial intelligence (AI) application in power dispatching (第三届电力调度AI应用大赛一等奖), Oct. 2021.
 - The only Best Innovation Award, the national competition on artificial intelligence (AI) application in power dispatching (第二届电力调度AI应用大赛唯一创新奖), Jan. 2021.
