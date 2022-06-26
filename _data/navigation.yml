@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching and Talks"
+  - title: "Teaching&Talks"
     url: /teaching/    
 
   # - title: "Teaching" #此处两行改了，同时_config.yml文件的216行改了
