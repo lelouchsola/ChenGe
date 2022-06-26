@@ -10,6 +10,18 @@ author_profile: true
 
 
 
+# About me
+
+Dr. Hongxun Hui is a Research Assistant Professor with the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). Previously, he received a B. Eng. degree in 2015 and Ph.D. degree in 2020 both from the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/), supervised by Prof. [Yi Ding](https://person.zju.edu.cn/en/110) and Prof. [Yonghua Song](https://rto.um.edu.mo/biography/). From 2018 to 2019, he was a visiting student at the [Advanced Research Institute](https://ari.vt.edu/ari_people/hongxun_hui.html) in [Virginia Tech](https://vt.edu/), supervised by Prof. [Saifur Rahman](http://www.saifurrahman.org/). From 2020 to 2022, he was a Post-doctoral Fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. 
+
+Dr. Hui‘s research interests are in the optimal control and market mechanism design of flexible loads. He has authored/co-authored 1 international book, 40 papers (including more than 20 SCI journal papers), and 15 issued patents. One of the papers was selected as the ESI Highly Cited Papers (Top 1%).  He was elected in the 1st batch of the Academic Rising Star Program for Ph.D. students at Zhejiang University in 2018. He got the *Best Paper Award* of IEEE iSPEC, the *First Prize* and the *Best Innovation Award* of the National AI Application Competition in Power Dispatching. Dr. Hui serves as reviewer for many international journals, including IEEE, IET, CSEE, Elsevier, Springer, and Wiley. He was the recipient of the Outstanding Reviewer Award from the *Journal of Modern Power Systems and Clean Energy*. Besides, he was the Vice President of *IEEE Industry Applications Society Student Branch Chapter* from 2018 to 2020 in Zhejiang University, and the Director of *IEEE PES Electric Vehicle Satellite Committee-China*, *Energy and Transportation Nexus Subcommittee*. 
+
+Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20220213.pdf).
+
+
+
+------
+
 # <font color='blue'>Open for Applications 2022</font>
 
 - **<font color='blue'>UM Macao Postdoctoral Fellowship (Class A and Class B) 濠江博士后</font>** [Link](http://muchong.com/t-15097760-1) 
@@ -22,18 +34,6 @@ author_profile: true
 **<font color='blue'>If you are interested in our research and want to join our group, please don’t hesitate to drop me an email with your CV, transcript, & representative publications.</font>**
 
 
-
-
-
-------
-
-# About me
-
-Dr. Hongxun Hui is a Research Assistant Professor with the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). Previously, he received a B. Eng. degree in 2015 and Ph.D. degree in 2020 both from the [College of Electrical Engineering](http://ee.zju.edu.cn/index.php), [Zhejiang University](https://www.zju.edu.cn/), supervised by Prof. [Yi Ding](https://person.zju.edu.cn/en/110) and Prof. [Yonghua Song](https://rto.um.edu.mo/biography/). From 2018 to 2019, he was a visiting student at the [Advanced Research Institute](https://ari.vt.edu/ari_people/hongxun_hui.html) in [Virginia Tech](https://vt.edu/), supervised by Prof. [Saifur Rahman](http://www.saifurrahman.org/). From 2020 to 2022, he was a Post-doctoral Fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. 
-
-Dr. Hui‘s research interests are in the optimal control and market mechanism design of flexible loads. He has authored/co-authored 1 international book, 40 papers (including more than 20 SCI journal papers), and 15 issued patents. One of the papers was selected as the ESI Highly Cited Papers (Top 1%).  He was elected in the 1st batch of the Academic Rising Star Program for Ph.D. students at Zhejiang University in 2018. He got the *Best Paper Award* of IEEE iSPEC, the *First Prize* and the *Best Innovation Award* of the National AI Application Competition in Power Dispatching. Dr. Hui serves as reviewer for many international journals, including IEEE, IET, CSEE, Elsevier, Springer, and Wiley. He was the recipient of the Outstanding Reviewer Award from the *Journal of Modern Power Systems and Clean Energy*. Besides, he was the Vice President of *IEEE Industry Applications Society Student Branch Chapter* from 2018 to 2020 in Zhejiang University, and the Director of *IEEE PES Electric Vehicle Satellite Committee-China*, *Energy and Transportation Nexus Subcommittee*. 
-
-Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20220213.pdf).
 
 
 
