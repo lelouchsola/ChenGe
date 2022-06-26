@@ -8,21 +8,21 @@ author_profile: true
 ### Zhejiang University (09/2015-06/2020) 
 
 - Ph.D., College of Electrical Engineering
-- Academic Adviser: Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) and Prof. [Yi Ding](https://person.zju.edu.cn/en/110)
+- Academic Advisor: Prof. [Yonghua Song](https://rto.um.edu.mo/biography/) and Prof. [Yi Ding](https://person.zju.edu.cn/en/110)
 
 
 
 ### Virginia Tech (10/2018-10/2019)
 
 - Visiting Student Researcher, [Advanced Research Institute](https://ari.vt.edu/)
-- Academic Adviser: [Prof. Saifur Rahman](http://www.saifurrahman.org/)
+- Academic Advisor: [Prof. Saifur Rahman](http://www.saifurrahman.org/)
 
 
 
 ### University of Tennessee (06/2019-07/2019)
 
 - Short-term Exchange, [CURENT Center](https://curent.utk.edu/)
-- Academic Adviser: [Prof. Fangxing (Fran) Li](http://web.eecs.utk.edu/~fli6/)
+- Academic Advisor: [Prof. Fangxing (Fran) Li](http://web.eecs.utk.edu/~fli6/)
 
 
 
@@ -35,15 +35,15 @@ author_profile: true
 
 ### Duke Kunshan University (08/2014-12/2014)
 
-- [Global Learning Semester](https://dukekunshan.edu.cn/en/node/4017)
-- A one-semester long program divided into two seven-week sessions featuring courses taught in English by Duke and DKU faculty.
+- Global Learning Semester
+- A one-semester-long program divided into two seven-week sessions featuring courses taught in English by Duke and DKU faculty.
 - Expertise: Academic Writing, American History, Cognitive Evolution.
 
 
 
 ### Harbin Institute of Technology (07/2014-07/2014)
 
-- Exchange Student Program of [C9](https://www.cdgdc.edu.cn/xwyyjsjyxx/xwsytjxx/yxmd/274942.shtml) University Union
+- Exchange Student Program of C9 University Union
 - Expertise: Flight Vehicle Design and Engineering.
 
 
@@ -56,19 +56,19 @@ author_profile: true
 
 ### University of Macau (10/2022-)
 
-- Research Assistant Professor, [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/)
+- Research Assistant Professor, State Key Laboratory of Internet of Things for Smart City
 
 
 
 ### University of Macau (10/2020-10/2022)
 
-- Postdoctoral Fellow, [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/)
+- Postdoctoral Fellow, State Key Laboratory of Internet of Things for Smart City
 
 
 
 ### Zhuhai UM Science & Technology Research Institute (08/2020-10/2020)
 
-- Researcher, [Smart City Research Center](http://www.zumri.cn/)
+- Researcher, Smart City Research Center
 
 
 
@@ -124,5 +124,5 @@ author_profile: true
 
 # Community Contribution
 
-- A Volunteer in Affiliated Hospital of Zhejiang University School of Medicine (浙江大学医学院附属第二医院"广济之舟"志愿者)
-- Member of Future Entrepreneur Club, Zhejiang University (浙江大学[未来企业家俱乐部](https://baike.baidu.com/item/未来企业家俱乐部/22222219))
+- A Volunteer in the Affiliated Hospital of Zhejiang University School of Medicine (浙江大学医学院附属第二医院"广济之舟"志愿者)
+- Member of Future Entrepreneur Club, Zhejiang University ([浙江大学未来企业家俱乐部](https://baike.baidu.com/item/未来企业家俱乐部/22222219))
