@@ -11,6 +11,8 @@ author_profile: true
 
 ## **Part-time Academic Members**
 
+- Young Editorial Board Member, Engineering Reports. [Link](https://mp.weixin.qq.com/s/_w874Yys0uEbGtTd5kBrjg)
+
 - Guest Editor, Integrated Intelligent Energy, Power System Demand-Side Load Regulation Technologies based on IoTs. [[special issue](https://huihongxun.github.io/files/Professional_Activities/综合智慧能源_2022年2期_电子版.pdf)]
 
 - International Technical Committee, *2022 7th Asia Conference on Power and Electrical Engineering*. [Link](https://www.acpee.net/index.html)
@@ -26,7 +28,6 @@ author_profile: true
 - Vice President, IEEE Industry Applications Society Student Branch Chapter in Zhejiang University (2018-2020) 
 
   <!-- Program Committee, *2021 International Conference on Power System and Energy Internet*. [Link](http://www.posei.net/) --> <!-- Scientific Committee, *2022 International Conference on Civil, Structural and Environmental Engineering*. [Link](https://www.albedomeetings.com/civilmeet/index.php#) -->
-
 
 
 
