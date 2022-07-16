@@ -16,7 +16,7 @@ Dr. Hongxun Hui is a Research Assistant Professor with the [State Key Laboratory
 
 Dr. Hui‘s research interests are in the optimal control and market mechanism design of flexible loads. He has authored/co-authored 1 international book, 40 papers (including more than 20 SCI journal papers), and 15 issued patents. One of the papers was selected as the ESI Highly Cited Papers (Top 1%).  He was elected in the 1st batch of the Academic Rising Star Program for Ph.D. students at Zhejiang University in 2018. He got the *Best Paper Award* of IEEE iSPEC, the *First Prize* and the *Best Innovation Award* of the National AI Application Competition in Power Dispatching. Dr. Hui serves as reviewer for many international journals, including IEEE, IET, CSEE, Elsevier, Springer, and Wiley. He was the recipient of the Outstanding Reviewer Award from the *Journal of Modern Power Systems and Clean Energy*. Besides, he was the Vice President of *IEEE Industry Applications Society Student Branch Chapter* from 2018 to 2020 in Zhejiang University, and the Director of *IEEE PES Electric Vehicle Satellite Committee-China*, *Energy and Transportation Nexus Subcommittee*. 
 
-Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20220213.pdf).
+Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20220428.pdf).
 
 
 
