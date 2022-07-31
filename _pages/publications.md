@@ -38,7 +38,7 @@ author_profile: true
 
 - **Hongxun Hui**, Yi Ding, Tao Chen, Saifur Rahman and Yonghua Song, “[Dynamic and Stability Analysis of the Power System With the Control Loop of Inverter Air Conditioners](https://ieeexplore.ieee.org/document/9014526),” *IEEE Transactions on Industrial Electronics*, vol. 68, no. 3, pp. 2725-2736, Mar. 2021. [[PDF](https://huihongxun.github.io/files/TIE_9014526.pdf)]
 
-- **Hongxun Hui**, Peipei Yu, Hongcai Zhang, Ningyi Dai, Wei Jiang and Yonghua Song, "[Regulation Capacity Evaluation of Large-scale Heterogeneous Residential Air Conditioning Loads](https://ieeexplore.ieee.org/document/9735739)," *2021 IEEE Sustainable Power and Energy Conference* (iSPEC), 2021, pp. 2505-2510. [**Best Paper**] [[PDF](https://huihongxun.github.io/files/2022_iSPEC_HongxunHui.pdf)]
+- **Hongxun Hui**, Peipei Yu, Hongcai Zhang, Ningyi Dai, Wei Jiang and Yonghua Song, "[Regulation Capacity Evaluation of Large-scale Heterogeneous Residential Air Conditioning Loads](https://ieeexplore.ieee.org/document/9735739)," *2021 IEEE Sustainable Power and Energy Conference* (iSPEC), 2021, pp. 2505-2510. [**Best Paper Award**] [[PDF](https://huihongxun.github.io/files/2022_iSPEC_HongxunHui.pdf)]
 
 - **Hongxun Hui**, Qifan Yang, Ningyi Dai, Hongcai Zhang, Yi Ding and Yonghua Song, "[Anticipatory Control of Flexible Loads for System Resilience Enhancement Facing Accidental Outages](https://ieeexplore.ieee.org/document/9697825)," *2021 International Conference on Power System Technology* (POWERCON), 2021, pp. 844-849. [[PDF](https://huihongxun.github.io/files/2021_IEEE_Conf_PowerCon_Hainan.pdf)]
 
