@@ -11,23 +11,23 @@ author_profile: true
 
 ## **Part-time Academic Members**
 
-- Special Session Chair, *2022 4th International Conference on Smart Power & Internet Energy Systems* (SPIES 2022), Theme: Coordinated Operation, Control and Cyber-physical Security of Smart Energy System. [SPIES Link](http://www.icspies.org/index.html), [SS](https://mp.weixin.qq.com/s/i4-b8Mj30ufvDKmqNfPyiQ)
+- Special Session Chair, *[2022 4th International Conference on Smart Power & Internet Energy Systems (SPIES 2022)](http://www.icspies.org/index.html)*, Theme: [Coordinated Operation, Control and Cyber-physical Security of Smart Energy System](https://mp.weixin.qq.com/s/i4-b8Mj30ufvDKmqNfPyiQ).
 
 - Young Editorial Board Member, *Engineering Reports* (ESCI, EI). [Link](https://mp.weixin.qq.com/s/_w874Yys0uEbGtTd5kBrjg)
 
-- Guest Editor, *Integrated Intelligent Energy*, Power System Demand-Side Load Regulation Technologies based on IoTs. [SS](https://huihongxun.github.io/files/Professional_Activities/综合智慧能源_2022年2期_电子版.pdf)
+- Guest Editor, *Integrated Intelligent Energy*, [Power System Demand-Side Load Regulation Technologies based on IoTs](https://huihongxun.github.io/files/Professional_Activities/综合智慧能源_2022年2期_电子版.pdf).
 
-- International Technical Committee, *2022 7th Asia Conference on Power and Electrical Engineering*. [Link](https://www.acpee.net/index.html)
+- International Technical Committee, [*2022 7th Asia Conference on Power and Electrical Engineering*](https://www.acpee.net/index.html).
 
-- Panel Chair, *2021 13th International Conference on Applied Energy* (ICAE 2021). [Link](https://applied-energy.org/icae2021/#hero1), [Programe](https://huihongxun.github.io/files/Professional_Activities/ICAE2021-Program-Book.pdf)
+- Panel Chair, *[2021 13th International Conference on Applied Energy (ICAE 2021)](https://applied-energy.org/icae2021/#hero1)*. [Program](https://huihongxun.github.io/files/Professional_Activities/ICAE2021-Program-Book.pdf)
 
-- Technical Committee, *2021 13th International Conference on Power System Technology* (PowerCon2021). [Link](http://powercon2021.csee.org.cn/index.html), [Program](https://huihongxun.github.io/files/Professional_Activities/PowerCon2021-Advanced-Program.pdf)
+- Technical Committee, *[2021 13th International Conference on Power System Technology (PowerCon2021)](http://powercon2021.csee.org.cn/index.html)*. [Program](https://huihongxun.github.io/files/Professional_Activities/PowerCon2021-Advanced-Program.pdf)
 
-- Scientific Committee, *2021 International Conference on Renewable Energy*. [Link](https://premc.org/conferences/icren-renewable-energy/Committee/#menu)
+- Scientific Committee, *[2021 International Conference on Renewable Energy](https://premc.org/conferences/icren-renewable-energy/Committee/#menu)*.
 
-- Director, *IEEE PES Electric Vehicle Satellite Committee-China*, *Energy and Transportation Nexus Subcommittee* (2020-2023)  [[Certificate](https://huihongxun.github.io/files/Energy and Transportation Nexus Subcommittee_Hongxun Hui.pdf)]
+- Director, *IEEE PES Electric Vehicle Satellite Committee-China*, *Energy and Transportation Nexus Subcommittee* (2020-2023)
 
-- Vice President, *IEEE Industry Applications Society Student Branch Chapter in Zhejiang University* (2018-2020) 
+- Vice President, *IEEE Industry Applications Society Student Branch Chapter in Zhejiang University* (2018-2020)
 
   <!-- Program Committee, *2021 International Conference on Power System and Energy Internet*. [Link](http://www.posei.net/) --> <!-- Scientific Committee, *2022 International Conference on Civil, Structural and Environmental Engineering*. [Link](https://www.albedomeetings.com/civilmeet/index.php#) -->
 
@@ -48,7 +48,7 @@ author_profile: true
 - *IEEE Transactions on Automation Science and Engineering*
 - *IEEE Transactions on Industry Applications*
 - *CSEE Journal of Power & Energy Systems*
-- *Journal of Modern Power Systems and Clean Energy* [[Excellence in Reviewing](https://huihongxun.github.io/files/Awards/2019_MPCE_Excellence_in_Reviewing.jpg)]
+- *Journal of Modern Power Systems and Clean Energy* (Excellence in Reviewing Award)
 - *Applied Energy*
 - *International Journal of Electrical Power & Energy Systems*
 - *Journal of Electrical Engineering & Technology*

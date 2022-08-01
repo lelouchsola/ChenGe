@@ -36,7 +36,7 @@ author_profile: true
 ### Duke Kunshan University (08/2014-12/2014)
 
 - Global Learning Semester
-- A one-semester-long program divided into two seven-week sessions featuring courses taught in English by Duke and DKU faculty.
+- A one-semester-long program divided into two seven-week sessions featuring courses by Duke and DKU.
 - Expertise: Academic Writing, American History, Cognitive Evolution.
 
 
@@ -80,6 +80,7 @@ author_profile: true
 
 ### **Academic Honors:**
 
+- Excellent Paper Award of the Integrated Smart Energy Conference (2022综合智慧能源大会优秀论文), Jul. 2022.
 - Winning Prize, the 1st China Postdoctoral Innovation & Entrepreneurship Competition (第一届全国博士后创新创业大赛优胜奖), Jan. 2022.
 - Best Paper Award of the 3rd IEEE Conference on Sustainable Power and Energy (iSPEC), Dec. 2021.
 - The only Best Innovation Award, the national competition on artificial intelligence (AI) application in power dispatching (第三届电力调度AI应用大赛唯一创新奖), Oct. 2021.
