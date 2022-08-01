@@ -28,11 +28,11 @@ author_profile: true
 
 - Qingxin Shi, Wenxia Liu, Bo Zeng, **Hongxun Hui** and Fangxing Li, "[Enhancing distribution system resilience against extreme weather events: Concept review, algorithm summary, and future vision](https://www.sciencedirect.com/science/article/pii/S0142061521010759?dgcid=coauthor)," *International Journal of Electrical Power & Energy Systems*, vol. 138, p. 107860, Jun. 2022. [[PDF](https://huihongxun.github.io/files/2022_IJEPES_QinxinShi_ResilienceReview.pdf)]
 
-- Sheng Wang, Jian Tan, Wenbo Shi, Fenghua Zou, Guang Chen, Linyu Wang, **Hongxun Hui** and Lei Guo, "Practices of the new power system in the UK and inspiration for the development of provincial power systems in China," *Integrated Intelligent Energy*, vol. 44, no. 7, pp. 19-32, Jul. 2022.（获2022综合智慧能源大会优秀论文）[PDF]
+- Sheng Wang, Jian Tan, Wenbo Shi, Fenghua Zou, Guang Chen, Linyu Wang, **Hongxun Hui** and Lei Guo, "Practices of the new power system in the UK and inspiration for the development of provincial power systems in China," *Integrated Intelligent Energy*, vol. 44, no. 7, pp. 19-32, Jul. 2022. (in Chinese) (获2022综合智慧能源大会优秀论文) [PDF]
 
-- Han Wang, Xiaoyuan Xu, Zheng Yan, **Hongxun Hui** and Xiaotao Fang, "[Theoretical Methods and Application Prospects for Uncertainty Quantification in Distribution Network Operation Under the Influence of Stochastic Source-load](https://www.gei-journal.com/cn/journalsDetailsCn/20220525/1529442644177063936.html)," *Journal of Global Energy Interconnection*, vol. 5, no. 3, pp. 233-244, May. 2022. [[PDF](https://huihongxun.github.io/files/2022_随机源-荷影响下配电网运行不确定性量化理论方法与应用展望_王晗.pdf)]
+- Han Wang, Xiaoyuan Xu, Zheng Yan, **Hongxun Hui** and Xiaotao Fang, "[Theoretical Methods and Application Prospects for Uncertainty Quantification in Distribution Network Operation Under the Influence of Stochastic Source-load](https://www.gei-journal.com/cn/journalsDetailsCn/20220525/1529442644177063936.html)," *Journal of Global Energy Interconnection*, vol. 5, no. 3, pp. 233-244, May. 2022. (in Chinese) [[PDF](https://huihongxun.github.io/files/2022_随机源-荷影响下配电网运行不确定性量化理论方法与应用展望_王晗.pdf)]
 
-- Kaijie Zhang, Guofeng Ding, Ming Wen, **Hongxun Hui**, Yi Ding, Min He, Jiefeng Chu, Kang Xie, Chutian Yu and Lijun Zhang, "[Review of Optimal Dispatching Technology and Market Mechanism Design For Virtual Power Plants](http://www.hdpower.net/CN/10.3969/j.issn.2097-0706.2022.02.009)," *Integrated Intelligent Energy*, vol. 44, no. 2, pp. 60-72, Feb. 2022. [[PDF](https://huihongxun.github.io/files/2022_Integrated_Intelligent_Energy_KaijieZhang.pdf)]
+- Kaijie Zhang, Guofeng Ding, Ming Wen, **Hongxun Hui**, Yi Ding, Min He, Jiefeng Chu, Kang Xie, Chutian Yu and Lijun Zhang, "[Review of Optimal Dispatching Technology and Market Mechanism Design For Virtual Power Plants](http://www.hdpower.net/CN/10.3969/j.issn.2097-0706.2022.02.009)," *Integrated Intelligent Energy*, vol. 44, no. 2, pp. 60-72, Feb. 2022. (in Chinese) [[PDF](https://huihongxun.github.io/files/2022_Integrated_Intelligent_Energy_KaijieZhang.pdf)]
 
   <p align="right"><font size="5">2021</font></p>
 
@@ -106,7 +106,7 @@ author_profile: true
 
 ------
 
-# Issued Patents
+# Issued Patents (发明专利授权)
 
 - 一种空调聚合提供电力系统运行备用响应量的计算方法. 惠红勋, 丁一, 刘卫东, 张利军, 孙轶恺, 徐晨博. CN201610821647.X
 - 一种变频空调聚合参与电力系统调频的混合控制方法. 丁一, 惠红勋, 宋永华. CN201910511062.1
@@ -126,7 +126,7 @@ author_profile: true
 
 ------
 
-# Software Copyrights
+# Software Copyrights (计算机软件著作权)
 
 - 城区用户与电网供需友好互动系统示范工程积分政策计算与用户积分值结算软件. 惠红勋, 丁一, 崔文琪. 2018SR449433
 - 一种实现温控负荷最优协同的需求响应博弈仿真软件. 谢敦见, 丁一, 惠红勋. 2019SR0450852
