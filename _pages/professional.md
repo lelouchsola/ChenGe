@@ -25,7 +25,7 @@ author_profile: true
 
 - Scientific Committee, *[2021 International Conference on Renewable Energy](https://premc.org/conferences/icren-renewable-energy/Committee/#menu)*.
 
-- Director, *IEEE PES Electric Vehicle Satellite Committee-China*, *Energy and Transportation Nexus Subcommittee* (2020-2023)
+- Director, *IEEE PES Electric Vehicle Satellite Committee-China*, *Energy and Transportation Nexus Subcommittee*
 
 - Vice President, *IEEE Industry Applications Society Student Branch Chapter in Zhejiang University* (2018-2020)
 

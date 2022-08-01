@@ -9,8 +9,7 @@ author_profile: true
 
 ## Group
 
-- Smart Energy Group, State Key Laboratory of Internet of Things for Smart City, University of Macau. The group includes Professors Yonghua Song, Man Chung WONG, Ningyi Dai, Hongcai Zhang, Keng Weng LAO, Hongxun Hui.
-- Welcome to join our group!
+- Smart Energy Group, State Key Laboratory of Internet of Things for Smart City, University of Macau. The group includes Professors Yonghua Song, Man Chung Wong, Ningyi Dai, Hongcai Zhang, Keng Weng Lao, Hongxun Hui. Welcome to join our group!
 
 
 
@@ -55,9 +54,9 @@ author_profile: true
 
 
 
-------
 
-## Issued Patents (发明专利授权)
+
+## Issued Patents
 
 - 一种空调聚合提供电力系统运行备用响应量的计算方法. 惠红勋, 丁一, 刘卫东, 张利军, 孙轶恺, 徐晨博. CN201610821647.X
 - 一种变频空调聚合参与电力系统调频的混合控制方法. 丁一, 惠红勋, 宋永华. CN201910511062.1
@@ -77,7 +76,7 @@ author_profile: true
 
 ------
 
-## Software Copyrights (计算机软件著作权)
+## Software Copyrights
 
 - 城区用户与电网供需友好互动系统示范工程积分政策计算与用户积分值结算软件. 惠红勋, 丁一, 崔文琪. 2018SR449433
 - 一种实现温控负荷最优协同的需求响应博弈仿真软件. 谢敦见, 丁一, 惠红勋. 2019SR0450852
