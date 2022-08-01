@@ -42,23 +42,36 @@ author_profile: true
 - *IEEE Transactions on Power Systems*
 - *IEEE Transactions on Smart Grid*
 - *IEEE Transactions on Sustainable Energy*
+- *IEEE Power Engineering Letters*
 - *IEEE Transactions on Industrial Electronics*
 - *IEEE Transactions on Industrial Informatics*
 - *IEEE Transactions on Circuits and Systems I: Regular Papers*
 - *IEEE Transactions on Automation Science and Engineering*
 - *IEEE Transactions on Industry Applications*
-- *CSEE Journal of Power & Energy Systems*
-- *Journal of Modern Power Systems and Clean Energy* (Excellence in Reviewing Award)
-- *Applied Energy*
-- *International Journal of Electrical Power & Energy Systems*
-- *Journal of Electrical Engineering & Technology*
-- *International Transactions on Electrical Energy Systems*
-- *Renewable & Sustainable Energy Reviews*
-- *Economic Alternatives*
+- *IEEE Systems Journal*
+- *IEEE Access*
 - *IET Energy Systems Integration*
 - *IET Generation, Transmission & Distribution*
+- IET Renewable Power Generation
+- *CSEE Journal of Power & Energy Systems*
+- *Journal of Modern Power Systems and Clean Energy* (Excellence in Reviewing Award)
+- *Protection and Control of Modern Power Systems*
+- *Renewable and Sustainable Energy Reviews*
+- *Applied Energy*
+- *Electric Power Systems Research*
+- *International Journal of Electrical Power & Energy Systems*
+- *International Transactions on Electrical Energy Systems*
+- *Journal of Electrical Engineering & Technology*
+- *Case Studies in Thermal Engineering*
+- *Transactions on Sensor Networks*
+- *Frontiers in Energy*
+- *Frontiers In Smart Grids*
 - *Technology in Society*
+- *Expert Systems with Applications*
 - *Energy Reports*
+- *Engineering Reports*
+- *Economic Alternatives*
+- *Energy Economics*
 
 
 
@@ -69,9 +82,12 @@ author_profile: true
 ## **Conference Reviewer** 
 
 - *IEEE PES General Meeting*
-- *International Conference on Applied Energy*
-- *IEEE Sustainable Power & Energy Conference*
+- *International Conference on Applied Energy (ICAE)*
+- *IEEE Sustainable Power & Energy Conference (iSPEC)*
+- *IEEE Conference on Energy Internet and Energy System Integration (EI2)* 
 - *International Conference on Smart Energy Systems and Technologies*
 - *IEEE International Conference on Environment and Electrical Engineering and IEEE Industrial and Commercial Power Systems Europe*
 - *International Conference on Renewable Energy*
+- *International Conference on Smart Power & Internet Energy Systems*
+- *International Conference on Power System Technology*
 
