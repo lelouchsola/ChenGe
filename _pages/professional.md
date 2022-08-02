@@ -29,7 +29,8 @@ author_profile: true
 
 - Vice President, *IEEE Industry Applications Society Student Branch Chapter in Zhejiang University* (2018-2020)
 
-  <!-- Program Committee, *2021 International Conference on Power System and Energy Internet*. [Link](http://www.posei.net/) --> <!-- Scientific Committee, *2022 International Conference on Civil, Structural and Environmental Engineering*. [Link](https://www.albedomeetings.com/civilmeet/index.php#) -->
+
+<!-- Program Committee, *2021 International Conference on Power System and Energy Internet*. [Link](http://www.posei.net/) --> <!-- Scientific Committee, *2022 International Conference on Civil, Structural and Environmental Engineering*. [Link](https://www.albedomeetings.com/civilmeet/index.php#) -->
 
 
 
