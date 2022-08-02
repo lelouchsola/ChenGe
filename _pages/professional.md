@@ -11,9 +11,9 @@ author_profile: true
 
 ## **Part-time Academic Members**
 
-- Special Session Chair, *[2022 4th International Conference on Smart Power & Internet Energy Systems (SPIES 2022)](http://www.icspies.org/index.html)*, Theme: [Coordinated Operation, Control and Cyber-physical Security of Smart Energy System](https://mp.weixin.qq.com/s/i4-b8Mj30ufvDKmqNfPyiQ).
+- Special Session Chair, *[2022 4th International Conference on Smart Power & Internet Energy Systems](http://www.icspies.org/index.html)*. [News](https://mp.weixin.qq.com/s/i4-b8Mj30ufvDKmqNfPyiQ)
 
-- Young Editorial Board Member, *Engineering Reports* (ESCI, EI). [Link](https://mp.weixin.qq.com/s/_w874Yys0uEbGtTd5kBrjg)
+- Young Editorial Board Member, *[Engineering Reports](https://onlinelibrary.wiley.com/journal/25778196)*. [News](https://mp.weixin.qq.com/s/_w874Yys0uEbGtTd5kBrjg)
 
 - Guest Editor, *Integrated Intelligent Energy*, [Power System Demand-Side Load Regulation Technologies based on IoTs](https://huihongxun.github.io/files/Professional_Activities/综合智慧能源_2022年2期_电子版.pdf).
 

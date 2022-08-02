@@ -125,5 +125,5 @@ author_profile: true
 
 # Community Contribution
 
-- A Volunteer in the Affiliated Hospital of Zhejiang University School of Medicine (浙江大学医学院附属第二医院"广济之舟"志愿者)
-- Member of Future Entrepreneur Club, Zhejiang University ([浙江大学未来企业家俱乐部](https://baike.baidu.com/item/未来企业家俱乐部/22222219))
+- A Volunteer in the Affiliated Hospital of Zhejiang University School of Medicine ("广济之舟"志愿者)
+- Member of Future Entrepreneur Club, Zhejiang University (浙江大学未来企业家俱乐部)
