@@ -24,12 +24,12 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 # <font color='blue'>Open for Applications 2022</font>
 
-- **<font color='blue'>UM Macao Postdoctoral Fellowship (Class A and Class B) 濠江博士后</font>** [Link](http://muchong.com/t-15097760-1) 
-- **<font color='blue'>Post-Doctoral Fellow</font>** <font color='orange'>(40,000~25,000MOP/month)</font>
-- **<font color='blue'>PhD</font>** <font color='orange'>(12,500~20,000MOP/month)</font>
-- **<font color='blue'>Visiting Fellow</font>** <font color='orange'>(25,000-30,000MOP/month)</font>
-- **<font color='blue'>Short-team Visiting Scholar</font>** <font color='orange'>(25,000-30,000MOP/month)</font>
-- **<font color='blue'>Research Assistant</font>** <font color='orange'>(12,500MOP/month)</font>
+- **<font color='blue'>UM Macao Postdoctoral Fellowship (Class A and Class B) </font>** <font color='orange'>(28,000 ~ 40,000 MOP/month)</font> [Link](http://muchong.com/t-15097760-1) 
+- **<font color='blue'>Post-Doctoral Fellow</font>** <font color='orange'>(25,000 MOP/month)</font>
+- **<font color='blue'>PhD</font>** <font color='orange'>(12,500 ~ 20,000 MOP/month)</font>
+- **<font color='blue'>Visiting Fellow</font>** <font color='orange'>(25,000 ~ 30,000 MOP/month)</font>
+- **<font color='blue'>Short-team Visiting Scholar</font>** <font color='orange'>(25,000 ~ 30,000 MOP/month)</font>
+- **<font color='blue'>Research Assistant</font>** <font color='orange'>(12,500 MOP/month)</font>
 
 **<font color='blue'>If you are interested in our research and hope to join our group, please don’t hesitate to drop me an email with your CV, transcript, and representative publications.</font>**
 
