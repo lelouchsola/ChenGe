@@ -97,7 +97,6 @@ author_profile: true
 - Wang Guo Song Scholarship, the highest honor at College of Electrical Engineering, Zhejiang University (Four winners among 180 Ph.D. students) (王国松奖学金), 2019.
 - First Batch of the Academic Rising Star Program (Three winners among 180 Ph.D. students in College of Electrical Engineering, Zhejiang University) (浙江大学博士研究生学术新星培养计划), 2018.
 - Fuyang Innovation & Entrepreneurship Competition (杭州市富春硅谷创新创业大赛), 2015.
-- Excellent Honor in Edison Class (浙江大学电气工程学院"爱迪生班"特优荣誉), Zhejiang University, 2015.
 - Scholarship for Excellence in Research and Innovation (研究创新一等奖学金), 2015.
 - Meritorious Winner, Interdisciplinary Contest in Modeling (ICM), Consortium for Mathematics and Its Application (美国大学生数学建模竞赛), 2014.
 - Third Price, 7th University Student Science Contest on Energy Saving & Emission Reduction (“金川”杯第七届全国大学生节能减排社会实践与科技竞赛), 2014.
@@ -108,23 +107,21 @@ author_profile: true
 ### **Study Achievements:**
 
 - Excellent Postgraduate Student Award in Zhejiang Province (浙江省优秀毕业生), 2020.
-- Excellent Postgraduate Student Award (优秀毕业研究生), 2020.
+- Excellent Postgraduate Student Award (浙江大学优秀毕业研究生), 2020.
 - Postgraduate Student Scholarship (毕业研究生奖学金), 2020.
 - National Scholarship for rewarding the first ranking in my major (国家奖学金), 2019. 
+- Top Ten Students at College of Electrical Engineering (Ten students were selected from around 2300 students at College of EE), Zhejiang University (浙江大学电气工程学院第十二届"十佳学子"), 2019.
 - Tang Lixin Scholarship (唐立新奖学金), 2020, 2019, 2018, 2017.
 - Award of Honor for Graduate (优秀研究生), 2019, 2018, 2017, 2016.
-- Huayi Scholarship (华仪奖学金), 2016.
-- Outstanding Graduates of Zhejiang University (浙江大学优秀毕业生), 2015.
-- Bosch Scholarship (博世奖学金), 2015.
-- First-Class Scholarship for Outstanding Merits (学业优秀一等奖学金), 2012.
-- First-Class Scholarship for Outstanding Students (优秀学生一等奖学金), 2012.
-
-### **Leadership, Cooperation and Morality:**
-
-- Top Ten Students at College of Electrical Engineering (Ten students were selected from around 2300 students at College of EE), Zhejiang University (浙江大学电气工程学院第十二届"十佳学子"), 2019.
 - Graduate of Merit/Triple A graduate (三好研究生), 2019, 2016.
+- Huayi Scholarship (华仪奖学金), 2016.
+- Bosch Scholarship (博世奖学金), 2015.
+- Outstanding Graduates of Zhejiang University (浙江大学优秀毕业生), 2015.
+- Excellent Honor in Edison Class (浙江大学电气工程学院"爱迪生班"特优荣誉), Zhejiang University, 2015.
 - Outstanding Student Leader Awards (优秀学生干部), 2014, 2012.
 - Excellent Student Awards (三好学生), 2014, 2013, 2012.
+- First-Class Scholarship for Outstanding Merits (学业优秀一等奖学金), 2012.
+- First-Class Scholarship for Outstanding Students (优秀学生一等奖学金), 2012.
 
 
 
