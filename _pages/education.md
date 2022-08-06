@@ -12,6 +12,19 @@ author_profile: true
 
 
 
+### Zhejiang University (09/2011-06/2015)
+
+- B.Eng., [College of Electrical Engineering](http://ee.zju.edu.cn/)
+- Outstanding Graduates, Overall GPA: 3.88/4.0 (top 3%)
+
+
+
+
+
+------
+
+# Visiting Experiences
+
 ### Virginia Tech (10/2018-10/2019)
 
 - Visiting Student, [Advanced Research Institute](https://ari.vt.edu/)
@@ -23,13 +36,6 @@ author_profile: true
 
 - Short-term Exchange, [CURENT Center](https://curent.utk.edu/)
 - Academic Advisor: [Prof. Fangxing (Fran) Li](http://web.eecs.utk.edu/~fli6/)
-
-
-
-### Zhejiang University (09/2011-06/2015)
-
-- B.Eng., [College of Electrical Engineering](http://ee.zju.edu.cn/)
-- Outstanding Graduates, Overall GPA: 3.88/4.0 (top 3%)
 
  
 
@@ -80,6 +86,7 @@ author_profile: true
 
 ### **Academic Honors:**
 
+- Highly Cited Review Paper Award, by the Journal *Applied Energy*, Aug. 2022.
 - Excellent Paper Award of the Integrated Smart Energy Conference (2022综合智慧能源大会优秀论文), Jul. 2022.
 - Winning Prize, the 1st China Postdoctoral Innovation & Entrepreneurship Competition (第一届全国博士后创新创业大赛优胜奖), Jan. 2022.
 - Best Paper Award of the 3rd IEEE Conference on Sustainable Power and Energy (iSPEC), Dec. 2021.
