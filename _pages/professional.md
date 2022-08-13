@@ -25,12 +25,9 @@ author_profile: true
 
 - Scientific Committee, *[2021 International Conference on Renewable Energy](https://premc.org/conferences/icren-renewable-energy/Committee/#menu)*.
 
-- Director, *IEEE PES Electric Vehicle Satellite Committee-China*, *Energy and Transportation Nexus Subcommittee*
-
 - Vice President, *IEEE Industry Applications Society Student Branch Chapter in Zhejiang University* (2018-2020)
 
-
-<!-- Program Committee, *2021 International Conference on Power System and Energy Internet*. [Link](http://www.posei.net/) --> <!-- Scientific Committee, *2022 International Conference on Civil, Structural and Environmental Engineering*. [Link](https://www.albedomeetings.com/civilmeet/index.php#) -->
+<!--Director, *IEEE PES Electric Vehicle Satellite Committee-China*, *Energy and Transportation Nexus Subcommittee* --> <!-- Program Committee, *2021 International Conference on Power System and Energy Internet*. [Link](http://www.posei.net/) --> <!-- Scientific Committee, *2022 International Conference on Civil, Structural and Environmental Engineering*. [Link](https://www.albedomeetings.com/civilmeet/index.php#) -->
 
 
 
