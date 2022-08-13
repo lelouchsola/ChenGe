@@ -60,21 +60,21 @@ author_profile: true
 
 # Working Experiences
 
-### University of Macau (10/2022-)
+### University of Macau (10/2022-Present)
 
-- Research Assistant Professor, State Key Laboratory of Internet of Things for Smart City
+- Research Assistant Professor, [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/)
 
 
 
 ### University of Macau (10/2020-10/2022)
 
-- Postdoctoral Fellow, State Key Laboratory of Internet of Things for Smart City
+- Postdoctoral Fellow, [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/)
 
 
 
 ### Zhuhai UM Science & Technology Research Institute (08/2020-10/2020)
 
-- Researcher, Smart City Research Center
+- Researcher, [Smart City Research Center](http://www.zumri.cn/)
 
 
 
