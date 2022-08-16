@@ -22,10 +22,12 @@ author_profile: true
 
 ## Presentations and Talks
 
+- Distributed Control of Large-scale Thermostatically Controlled Loads for Improving Flexibility in Urban Power Systems, *Southeast University*, Nanjing, China, Aug. 15, 2022.
 - Regulation Capacity Evaluation of Large-scale Heterogeneous Residential Air Conditioning Loads, *IEEE Sustainable Power and Energy Conference (iSPEC)*, Nanjing, China, Dec. 23, 2021.
 - Anticipatory Control of Flexible Loads for System Resilience Enhancement Facing Accidental Outages, *International Conference on Power System Technology (POWERCON)*, Haikou, China, Dec. 8, 2021.
 - Real-time Local Electricity Market Considering High-Penetration Distributed Energy Resources, *the 13th International Conference on Applied Energy (ICAE 2021)*, Thailand, Nov. 29, 2021. (Panel Speaker)
 - Adaptive Control of Flexible Loads for Enhancing the Power System Resilience Facing Accidental Outages, *the 5th IEEE Conference on Energy Internet and Energy System Integration (EI2 2021)*, Taiyuan, China, Oct. 24, 2021. (Outstanding Speaker)
+- How to Write an Academic Paper, *Southeast University*, Nanjing, China, Jul. 28, 2021.
 - Control of Thermostatically Controlled Loads for Providing Regulation Services in Power Systems, *International Conference on Renewable Energy*, Rome, Italy, Nov. 2020. (Plenary Speaker)
 - Equivalent Modeling and Control of Inverter Air Conditioners for Providing Frequency Regulation Service, *the 4th IEEE Conference on Energy Internet and Energy System Integration (EI2 2020)*, Wuhan, China, Oct. 2020. (Outstanding Speaker)
 - Modeling and Dynamic Performance Analysis of the Power System Under Unit Contingency Shutdown Accidents Considering Demand Response, *International Conference on Applied Energy*, Västerås, Sweden, Aug. 2019.
