@@ -16,7 +16,7 @@ author_profile: true
 ## Papers
 
 <p align="right"><font size="5">2022</font></p>
-- Jiatu Hong, **Hongxun Hui**, Hongcai Zhang, Ningyi Dai and Yonghua Song, "Event-triggered Consensus Control of Large-scale Inverter Air Conditioners for Demand Response," *IEEE Transactions on Power Systems*, Early Access, 2022.
+- Jiatu Hong, **Hongxun Hui**, Hongcai Zhang, Ningyi Dai and Yonghua Song, "Event-triggered Consensus Control of Large-scale Inverter Air Conditioners for Demand Response," *IEEE Transactions on Power Systems*, Early Access, 2022. [[PDF](https://huihongxun.github.io/files/2022_TPWRS_Event_triggered_Consensus_Control.pdf)]
 
 - **Hongxun Hui**, Pierluigi Siano, Yi Ding, Peipei Yu, Yonghua Song, Hongcai Zhang and Ningyi Dai, "[A Transactive Energy Framework for Inverter-based HVAC Loads in a Real-time Local Electricity Market Considering Distributed Energy Resources](https://ieeexplore.ieee.org/document/9709098)," *IEEE Transactions on Industrial Informatics*, Early Access,  DOI: [10.1109/TII.2022.3149941](https://doi.org/10.1109/TII.2022.3149941). [[PDF](https://huihongxun.github.io/files/2022_TII_HongxunHui.pdf)]
 
