@@ -19,14 +19,14 @@ author_profile: true
 
 ## Projects
 
-- Key technologies and applications of network-load-storage interaction of virtual power station in smart city (2022-2024), *Supported by Science and Technology Development Fund, Macao, China*, Hogncai Zhang (PI) and Hongxun Hui (Co-PI).
-- Regulation Technologies of Large-scale Demand-side Resources in Urban Power Systems Considering High-penetration Renewable Energies (Jan. 2022 - Dec. 2023),  *Supported by Key Laboratory of Modern Power System Simulation and Control & Renewable Energy Technology, Ministry of Education (Northeast Electric Power University)* (No. MPSS2022-10), Principal Investigator.
-- Friendly Interactive Smart Grid Between Supply- and Demand-Sides (Jul. 2016 – Jun. 2020), *Supported by Ministry of Science and Technology of China* (No. 2016YFB0901100).
-- Cooperative Control of Flexible Loads in Power Systems with High Penetration of Renewable Energies (Sep. 2018 – Sep. 2019), *Supported by Zhejiang University, Academic Rising Star Program* (No. 2018025), Principal Investigator. 
-- Reliability Analysis and Optimization of Smart Grid Considering the Coordinated Operation of Flexible Resources and Wind Power (Jan. 2016 – Dec. 2019), *Supported by National Natural Science Foundation of China* (No. 51577167). 
-- Control Method and Peak-shaving Capacity Evaluation of Flexible Loads (Jan. 2016 – Dec. 2017), *Supported by State Grid Zhejiang Electric Power Company* (No. 5211JY15001S). 
-- Research and Application of Demand Response (Mar. 2016 – Nov. 2016), *Supported by State Grid Jiangsu Electric Power Company* (No. KH20161699). 
-- Modeling and Regulation Potential Evaluation of Air Conditioners, EVs, and Batteries (Sep. 2015 – Jun. 2016), *Supported by China Electric Power Research Institute* (No. DZ71-15-004). 
+- Key technologies and applications of network-load-storage interaction of virtual power station in smart city (2022-2024), *Supported by Science and Technology Development Fund, Macao, China*, Co-Principal Investigator.
+- Regulation Technologies of Large-scale Demand-side Resources in Urban Power Systems Considering High-penetration Renewable Energies (2022-2023),  *Supported by Key Laboratory of Modern Power System Simulation and Control & Renewable Energy Technology, Ministry of Education (Northeast Electric Power University)* (No. MPSS2022-10), Principal Investigator.
+- Cooperative Control of Flexible Loads in Power Systems with High Penetration of Renewable Energies (2018–2019), *Supported by Zhejiang University, Academic Rising Star Program* (No. 2018025), Principal Investigator. 
+- Friendly Interactive Smart Grid Between Supply-Side and Demand-Side (2016–2020), *Supported by Ministry of Science and Technology of China* (No. 2016YFB0901100).
+- Reliability Analysis and Optimization of Smart Grid Considering the Coordinated Operation of Flexible Resources and Wind Power (2016–2019), *Supported by National Natural Science Foundation of China* (No. 51577167). 
+- Control Method and Peak-shaving Capacity Evaluation of Flexible Loads (2016–2017), *Supported by State Grid Zhejiang Electric Power Company* (No. 5211JY15001S). 
+- Research and Application of Demand Response (2016–2017), *Supported by State Grid Jiangsu Electric Power Company* (No. KH20161699). 
+- Modeling and Regulation Potential Evaluation of Air Conditioners, EVs, and Batteries (2015–2016), *Supported by China Electric Power Research Institute* (No. DZ71-15-004). 
 
 
 
@@ -56,7 +56,7 @@ author_profile: true
 
 
 
-## Issued Patents
+## Issued Patents (发明专利授权)
 
 - 一种空调聚合提供电力系统运行备用响应量的计算方法. 惠红勋, 丁一, 刘卫东, 张利军, 孙轶恺, 徐晨博. CN201610821647.X
 - 一种变频空调聚合参与电力系统调频的混合控制方法. 丁一, 惠红勋, 宋永华. CN201910511062.1
@@ -76,7 +76,7 @@ author_profile: true
 
 ------
 
-## Software Copyrights
+## Software Copyrights (软件著作权)
 
 - 城区用户与电网供需友好互动系统示范工程积分政策计算与用户积分值结算软件. 惠红勋, 丁一, 崔文琪. 2018SR449433
 - 一种实现温控负荷最优协同的需求响应博弈仿真软件. 谢敦见, 丁一, 惠红勋. 2019SR0450852

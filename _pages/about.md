@@ -14,7 +14,7 @@ Dr. Hongxun Hui is a Research Assistant Professor with the State Key Laboratory 
 
 Dr. Hui‘s research interests are in the optimization of integrated energy systems, control methods of flexible resources, and energy economics. He has authored/co-authored 1 international book, 40 papers (including more than 20 SCI journal papers), and 15 issued patents. One of the papers was selected as the ESI Highly Cited Papers (Top 1%). Dr. Hui serves as reviewer for many international journals, including IEEE, IET, CSEE, Elsevier, Springer, and Wiley. He was the recipient of the Outstanding Reviewer Award from the *Journal of Modern Power Systems and Clean Energy*. He was elected in the 1st batch of the *Academic Rising Star Program* for Ph.D. students at Zhejiang University in 2018. Besides, he was the Vice President of *IEEE Industry Applications Society Student Branch Chapter* from 2018 to 2020 in Zhejiang University. He got the *Best Paper Award* of IEEE iSPEC 2021, the *First Prize* and the *Best Innovation Award* of the 2021 National AI Application Competition in Power Dispatching.
 
-Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20220428.pdf).
+Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20220910.pdf).
 
 
 
