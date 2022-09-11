@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Home Page - Hongxun Hui 惠紅勛"
+title: "<font color='DodgerBlue'> Home Page - Hongxun Hui 惠紅勛</font>"
 excerpt: "About me"
 author_profile: true
 ---
@@ -38,7 +38,7 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 ------
 
-News
+<font color='DodgerBlue'>News</font>
 ======
 - **[2022-09-08]**  UM, China Southern Power Grid build joint laboratory to promote research and development of carbon-neutral power and energy systems. [News](https://www.um.edu.mo/news-and-press-releases/press-release/detail/54110/)
 - **[2022-08-23]**  New publication: J. Hong, H. Hui, H. Zhang, N. Dai and Y. Song, "Event-triggered Consensus Control of Large-scale Inverter Air Conditioners for Demand Response," to appear in *IEEE Transactions on Power Systems*, 2022.
