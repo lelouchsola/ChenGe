@@ -23,7 +23,6 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 # <font color='DodgerBlue'>Open for Applications 2022</font>
 
 - **<font color='DodgerBlue'>Post-Doctoral Fellow</font>** <font color='DodgerBlue'>(28,000 ~ 40,000 MOP/month)</font>
-
 - **<font color='DodgerBlue'>PhD</font>** <font color='DodgerBlue'>(12,500 ~ 20,000 MOP/month)</font> 
 - **<font color='DodgerBlue'>Master</font>** <font color='DodgerBlue'>(4,000 ~ 8,000 MOP/month)</font>
 - **<font color='DodgerBlue'>Visiting Scholar</font>** <font color='DodgerBlue'>(25,000 ~ 30,000 MOP/month)</font>
