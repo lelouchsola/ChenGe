@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "<font color='DodgerBlue'> Home Page - Hongxun Hui 惠紅勛</font>"
+title: "Home Page - Hongxun Hui 惠紅勛"
 excerpt: "About me"
 author_profile: true
 ---
@@ -20,7 +20,7 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 ------
 
-# <font color='DodgerBlue'>Open for Applications 2022</font>
+# Open for Applications 2022
 
 - **<font color='DodgerBlue'>Post-Doctoral Fellow</font>** <font color='DodgerBlue'>(28,000 ~ 40,000 MOP/month)</font>
 - **<font color='DodgerBlue'>PhD</font>** <font color='DodgerBlue'>(12,500 ~ 20,000 MOP/month)</font> 
@@ -28,7 +28,7 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 - **<font color='DodgerBlue'>Visiting Scholar</font>** <font color='DodgerBlue'>(25,000 ~ 30,000 MOP/month)</font>
 - **<font color='DodgerBlue'>Research Assistant</font>** <font color='DodgerBlue'>(12,500 MOP/month)</font>
 
-**<font color='DodgerBlue'>Notice 1: Recommended Direct PhD Admission</font>** for undergraduate students from Mainland China for 2023/2024 academic year (2023/2024學年招收中國內地推薦免試攻讀博士研究生) is now open for application (DDL: October 17, 2022), check the notice in [Chinese](https://grs.um.edu.mo/index.php/prospective-student/recommended-direct-admission/?lang=zh-hant). All successful applicants will be funded by the UM Phd [Scholarship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/um-macao-phd-scholarship/) or [Assistantship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/phd-assistantship/). Some may also have the opportunity to be admitted by the “[UM-UK 3+1 program](https://www.um.edu.mo/news-centre/news-and-events/news-and-press-releases/detail/48008/)” (earn master at Imperial College London and PhD at UM). 
+**<font color='DodgerBlue'>Notice 1: Recommended Direct PhD Admission</font>** <font color='DodgerBlue'>for undergraduate students from Mainland China for 2023/2024 academic year (2023/2024學年招收中國內地推薦免試攻讀博士研究生) is now open for application (DDL: October 17, 2022), check the notice in [Chinese](https://grs.um.edu.mo/index.php/prospective-student/recommended-direct-admission/?lang=zh-hant). All successful applicants will be funded by the UM Phd [Scholarship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/um-macao-phd-scholarship/) or [Assistantship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/phd-assistantship/). Some may also have the opportunity to be admitted by the “[UM-UK 3+1 program](https://www.um.edu.mo/news-centre/news-and-events/news-and-press-releases/detail/48008/)” (earn master at Imperial College London and PhD at UM). </font>
 
 **<font color='DodgerBlue'>Notice 2: Regular PhD Admission</font>** for undergraduate or master students for 2022/2023 academic year (2022/2023學年招收博士研究生，包括直博、普博) is now open for application (DDL of 1st batch: October 31, 2022; DDL of 2nd batch: February 28, 2022), check the notice [here](https://grs.um.edu.mo/index.php/prospective-students/doctoral-degrees-programmes/). All successful applicants will be funded by the UM Phd [Scholarship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/um-macao-phd-scholarship/) or [Assistantship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/phd-assistantship/). 
 
@@ -38,7 +38,7 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 ------
 
-<font color='DodgerBlue'>News</font>
+News
 ======
 - **[2022-09-08]**  UM, China Southern Power Grid build joint laboratory to promote research and development of carbon-neutral power and energy systems. [News](https://www.um.edu.mo/news-and-press-releases/press-release/detail/54110/)
 - **[2022-08-23]**  New publication: J. Hong, H. Hui, H. Zhang, N. Dai and Y. Song, "Event-triggered Consensus Control of Large-scale Inverter Air Conditioners for Demand Response," to appear in *IEEE Transactions on Power Systems*, 2022.
