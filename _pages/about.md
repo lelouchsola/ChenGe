@@ -22,18 +22,18 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 # <font color='DodgerBlue'>Open for Applications 2022</font>
 
-- <font color='DodgerBlue'>**Post-Doctoral Fellow** (28,000 ~ 40,000 MOP/month)</font>
-- <font color='DodgerBlue'>**PhD** (12,500 ~ 20,000 MOP/month) and **Master** (4,000 ~ 8,000 MOP/month)</font>
-- <font color='DodgerBlue'>**Visiting Scholar**(25,000 ~ 30,000 MOP/month)</font>
-- <font color='DodgerBlue'>**Research Assistant** (12,500 MOP/month)</font>
+- **<font color='DodgerBlue'>Post-Doctoral Fellow</font>** <font color='DodgerBlue'>(28,000 ~ 40,000 MOP/month)</font>
 
-<font color='DodgerBlue'>**Notice 1: Recommended Direct PhD Admission** for undergraduate students from Mainland China for 2023/2024 academic year (2023/2024學年招收中國內地推薦免試攻讀博士研究生) is now open for application (DDL: October 17, 2022), check the notice in [Chinese](https://grs.um.edu.mo/index.php/prospective-student/recommended-direct-admission/?lang=zh-hant). All successful applicants will be funded by the UM Phd [Scholarship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/um-macao-phd-scholarship/) or [Assistantship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/phd-assistantship/). Some may also have the opportunity to be admitted by the “[UM-UK 3+1 program](https://www.um.edu.mo/news-centre/news-and-events/news-and-press-releases/detail/48008/)” (earn master at Imperial College London and PhD at UM).</font>
+- **<font color='DodgerBlue'>PhD</font>** <font color='DodgerBlue'>(12,500 ~ 20,000 MOP/month)</font> 
+- **<font color='DodgerBlue'>Master</font>** <font color='DodgerBlue'>(4,000 ~ 8,000 MOP/month)</font>
+- **<font color='DodgerBlue'>Visiting Scholar</font>** <font color='DodgerBlue'>(25,000 ~ 30,000 MOP/month)</font>
+- **<font color='DodgerBlue'>Research Assistant</font>** <font color='DodgerBlue'>(12,500 MOP/month)</font>
 
-<font color='DodgerBlue'>**Notice 2: Regular PhD Admission** for undergraduate or master students for 2022/2023 academic year (2022/2023學年招收博士研究生，包括直博、普博) is now open for application (DDL of 1st batch: October 31, 2022; DDL of 2nd batch: February 28, 2022), check the notice [here](https://grs.um.edu.mo/index.php/prospective-students/doctoral-degrees-programmes/). All successful applicants will be funded by the UM Phd [Scholarship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/um-macao-phd-scholarship/) or [Assistantship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/phd-assistantship/).</font>
+**<font color='DodgerBlue'>Notice 1: Recommended Direct PhD Admission</font>** for undergraduate students from Mainland China for 2023/2024 academic year (2023/2024學年招收中國內地推薦免試攻讀博士研究生) is now open for application (DDL: October 17, 2022), check the notice in [Chinese](https://grs.um.edu.mo/index.php/prospective-student/recommended-direct-admission/?lang=zh-hant). All successful applicants will be funded by the UM Phd [Scholarship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/um-macao-phd-scholarship/) or [Assistantship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/phd-assistantship/). Some may also have the opportunity to be admitted by the “[UM-UK 3+1 program](https://www.um.edu.mo/news-centre/news-and-events/news-and-press-releases/detail/48008/)” (earn master at Imperial College London and PhD at UM). 
 
-<font color='DodgerBlue'>**Notice 3: ZUMRI** We are recruiting full-time Research Scientist, Postdoctoral Scholar and Engineers to join our R&D group at [Zhuhai UM Science & Technology Research Institute](http://www.zumri.cn/). 我們在[珠海澳大科技研究院](http://www.zumri.cn/)智慧城市研發中心設立產學研團隊，正招收全職研究員、博士後、工程師等，提供极具竞争力的薪酬和良好的科研与工作条件，歡迎發送簡歷等至 hongxunhui@um.edu.mo 咨詢或直接網上[申請](http://www.zumri.cn/recruitData/12_13_32.html) </font>
+**<font color='DodgerBlue'>Notice 2: Regular PhD Admission</font>** for undergraduate or master students for 2022/2023 academic year (2022/2023學年招收博士研究生，包括直博、普博) is now open for application (DDL of 1st batch: October 31, 2022; DDL of 2nd batch: February 28, 2022), check the notice [here](https://grs.um.edu.mo/index.php/prospective-students/doctoral-degrees-programmes/). All successful applicants will be funded by the UM Phd [Scholarship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/um-macao-phd-scholarship/) or [Assistantship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/phd-assistantship/). 
 
-
+**<font color='DodgerBlue'>Notice 3: ZUMRI</font>** We are recruiting full-time Research Scientist, Postdoctoral Scholar and Engineers to join our R&D group at [Zhuhai UM Science & Technology Research Institute](http://www.zumri.cn/). 我們在[珠海澳大科技研究院](http://www.zumri.cn/)智慧城市研發中心設立產學研團隊，正招收全職研究員、博士後、工程師等，提供极具竞争力的薪酬和良好的科研与工作条件，歡迎發送簡歷等至 hongxunhui@um.edu.mo 咨詢或直接網上[申請](http://www.zumri.cn/recruitData/12_13_32.html)！
 
 
 
