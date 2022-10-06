@@ -40,6 +40,7 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 News
 ======
+- **[2022-10-06]**  New publication: H. Hui, Y. Chen, S. Yang, H. Zhang and T. Jiang, "Coordination Control of Distributed Generators and Load Resources for Frequency Restoration in Isolated Urban Microgrids," to appear in *Applied Energy*, 2022.
 - **[2022-09-08]**  UM, China Southern Power Grid build joint laboratory to promote research and development of carbon-neutral power and energy systems. [News](https://www.um.edu.mo/news-and-press-releases/press-release/detail/54110/)
 - **[2022-08-23]**  New publication: J. Hong, H. Hui, H. Zhang, N. Dai and Y. Song, "Event-triggered Consensus Control of Large-scale Inverter Air Conditioners for Demand Response," to appear in *IEEE Transactions on Power Systems*, 2022.
 - **[2022-04-15]**  New publication: H. Hui, P. Yu, H. Zhang, N. Dai, W. Jiang and Y. Song, "Regulation Capacity Evaluation of Large-scale Residential Air Conditioners for Improving Flexibility of Urban Power Systems," to appear in *International Journal of Electrical Power & Energy Systems*, 2022.
