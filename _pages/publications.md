@@ -16,6 +16,8 @@ author_profile: true
 ## Papers
 
 <p align="right"><font size="5">2022</font></p>
+- **Hongxun Hui**, Yulin Chen, Shaohua Yang, Hongcai Zhang and Tao Jiang, "Coordination Control of Distributed Generators and Load Resources for Frequency Restoration in Isolated Urban Microgrids," *Applied Energy*, 2022.
+
 - Jiatu Hong, **Hongxun Hui**\*, Hongcai Zhang, Ningyi Dai and Yonghua Song, "[Event-triggered Consensus Control of Large-scale Inverter Air Conditioners for Demand Response](https://ieeexplore.ieee.org/document/9881911)," *IEEE Transactions on Power Systems*, Early Access, Sep. 2022,  DOI: [10.1109/TPWRS.2022.3204215](https://doi.org/10.1109/TPWRS.2022.3204215). [[PDF](https://huihongxun.github.io/files/2022_TPWRS_Event_triggered_Consensus_Control.pdf)]
 
 - **Hongxun Hui**, Pierluigi Siano, Yi Ding, Peipei Yu, Yonghua Song, Hongcai Zhang and Ningyi Dai, "[A Transactive Energy Framework for Inverter-based HVAC Loads in a Real-time Local Electricity Market Considering Distributed Energy Resources](https://ieeexplore.ieee.org/document/9709098)," *IEEE Transactions on Industrial Informatics*, vol. 18, no. 12, pp. 8409-21, Dec. 2022. [[PDF](https://huihongxun.github.io/files/2022_TII_HongxunHui.pdf)]
