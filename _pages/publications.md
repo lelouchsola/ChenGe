@@ -18,7 +18,7 @@ author_profile: true
 <p align="right"><font size="5">2022</font></p>
 - **Hongxun Hui**, Pierluigi Siano, Yi Ding, Peipei Yu, Yonghua Song, Hongcai Zhang and Ningyi Dai, "[A Transactive Energy Framework for Inverter-based HVAC Loads in a Real-time Local Electricity Market Considering Distributed Energy Resources](https://ieeexplore.ieee.org/document/9709098)," *IEEE Transactions on Industrial Informatics*, vol. 18, no. 12, pp. 8409-21, Dec. 2022. [[PDF](https://huihongxun.github.io/files/2022_TII_HongxunHui.pdf)]
 
-- **Hongxun Hui**, Yulin Chen, Shaohua Yang, Hongcai Zhang and Tao Jiang, "Coordination Control of Distributed Generators and Load Resources for Frequency Restoration in Isolated Urban Microgrids," *Applied Energy*, 2022. [[PDF](https://huihongxun.github.io/files/2022_APEN_HongxunHui.pdf)]
+- **Hongxun Hui**, Yulin Chen, Shaohua Yang, Hongcai Zhang and Tao Jiang, "[Coordination Control of Distributed Generators and Load Resources for Frequency Restoration in Isolated Urban Microgrids](https://authors.elsevier.com/c/1fyGG15eif4U8b)," *Applied Energy*, vol. 327, p. 120116, Dec. 2022. [[PDF](https://huihongxun.github.io/files/2022_APEN_HongxunHui.pdf)]
 
 - **Hongxun Hui**, Peipei Yu, Hongcai Zhang, Ningyi Dai, Wei Jiang and Yonghua Song, "[Regulation Capacity Evaluation of Large-scale Residential Air Conditioners for Improving Flexibility of Urban Power Systems](https://www.sciencedirect.com/science/article/pii/S0142061522002927)," *International Journal of Electrical Power & Energy Systems*, vol. 142, part A, p. 108269, Nov. 2022. [[PDF](https://huihongxun.github.io/files/2022_IJEPES_Hongxun_RegulationCapacity.pdf)]
 
