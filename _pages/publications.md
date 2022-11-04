@@ -16,6 +16,8 @@ author_profile: true
 ## Papers
 
 <p align="right"><font size="5">2022</font></p>
+- Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Jiadong Cui and Lihuan Shao, “ [Use of Inverter-Based Air Conditioners to Provide Voltage Regulation Services in Unbalanced Distribution Networks](https://ieeexplore.ieee.org/document/),” *IEEE Transactions on Power Delivery*, Early Access, 2022.
+
 - **Hongxun Hui**, Pierluigi Siano, Yi Ding, Peipei Yu, Yonghua Song, Hongcai Zhang and Ningyi Dai, "[A Transactive Energy Framework for Inverter-based HVAC Loads in a Real-time Local Electricity Market Considering Distributed Energy Resources](https://ieeexplore.ieee.org/document/9709098)," *IEEE Transactions on Industrial Informatics*, vol. 18, no. 12, pp. 8409-21, Dec. 2022. [[PDF](https://huihongxun.github.io/files/2022_TII_HongxunHui.pdf)]
 
 - **Hongxun Hui**, Yulin Chen, Shaohua Yang, Hongcai Zhang and Tao Jiang, "[Coordination Control of Distributed Generators and Load Resources for Frequency Restoration in Isolated Urban Microgrids](https://authors.elsevier.com/c/1fyGG15eif4U8b)," *Applied Energy*, vol. 327, p. 120116, Dec. 2022. [[PDF](https://huihongxun.github.io/files/2022_APEN_HongxunHui.pdf)]
