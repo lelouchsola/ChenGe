@@ -24,7 +24,7 @@ author_profile: true
 
 - **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Yonghua Song and Saifur Rahman, “Coupon-Based Demand Response for Consumers Facing Flat-Rate Retail Pricing,” *CSEE Journal of Power and Energy Systems*, 2022. [[PDF](https://huihongxun.github.io/files/2022_CSEE_HongxunHui.pdf)]
 
-- Jiatu Hong, **Hongxun Hui**\*, Hongcai Zhang, Ningyi Dai and Yonghua Song, "[Event-triggered Consensus Control of Large-scale Inverter Air Conditioners for Demand Response](https://ieeexplore.ieee.org/document/9881911)," *IEEE Transactions on Power Systems*, vol. 37, no. 6, pp. 4954-4957, Nov. 2022. [[PDF](https://huihongxun.github.io/files/2022_TPWRS_Event_triggered_Consensus_Control_JiatuHong.pdf)]
+- Jiatu Hong, **Hongxun Hui**\*, Hongcai Zhang, Ningyi Dai and Yonghua Song, "[Event-triggered Consensus Control of Large-scale Inverter Air Conditioners for Demand Response](https://ieeexplore.ieee.org/document/9881911)," *IEEE Transactions on Power Systems*, vol. 37, no. 6, pp. 4954-4957, Nov. 2022. [[PDF](https://huihongxun.github.io/files/2022_TPWRS_JiatuHong.pdf)]
 
 - Jiatu Hong, **Hongxun Hui**\*, Hongcai Zhang, Ningyi Dai and Yonghua Song, "[Distributed Control of Large-scale Inverter Air Conditioners for Providing Operating Reserve Based on Consensus With Nonlinear Protocol](https://ieeexplore.ieee.org/document/9714473)," *IEEE Internet of Things Journal*, vol. 9, no. 17, pp. 15847-57, Sep. 2022. [[PDF](https://huihongxun.github.io/files/2022_JIoT_JiatuHong.pdf)]
 
