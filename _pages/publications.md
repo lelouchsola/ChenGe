@@ -16,7 +16,7 @@ author_profile: true
 ## Papers
 
 <p align="right"><font size="5">2022</font></p>
-- Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Jiadong Cui and Lihuan Shao, “ [Use of Inverter-Based Air Conditioners to Provide Voltage Regulation Services in Unbalanced Distribution Networks](https://ieeexplore.ieee.org/document/),” *IEEE Transactions on Power Delivery*, Early Access, 2022.
+- Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Jiadong Cui and Lihuan Shao, “ [Use of Inverter-Based Air Conditioners to Provide Voltage Regulation Services in Unbalanced Distribution Networks](https://ieeexplore.ieee.org/document/9940191),” *IEEE Transactions on Power Delivery*, Early Access, 2022. [[PDF](https://huihongxun.github.io/files/2022_Use_of_IACs_to_Provide_Voltage_Regulation_Services_in_Unbalanced_Distribution_Networks.pdf)]
 
 - **Hongxun Hui**, Pierluigi Siano, Yi Ding, Peipei Yu, Yonghua Song, Hongcai Zhang and Ningyi Dai, "[A Transactive Energy Framework for Inverter-based HVAC Loads in a Real-time Local Electricity Market Considering Distributed Energy Resources](https://ieeexplore.ieee.org/document/9709098)," *IEEE Transactions on Industrial Informatics*, vol. 18, no. 12, pp. 8409-21, Dec. 2022. [[PDF](https://huihongxun.github.io/files/2022_TII_HongxunHui.pdf)]
 
