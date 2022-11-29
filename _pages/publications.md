@@ -110,7 +110,6 @@ author_profile: true
 
 <p align="right"><font size="5">2016</font></p>
 - **Hongxun Hui**, Weidong Liu and Yi Ding, “[Quantitative Analysis of Air Conditioner Aggregation for Providing Operating Reserve](https://www.sciencedirect.com/science/article/pii/S187661021631565X),” *Energy Procedia*, vol. 104, pp. 50-55, Dec. 2016. [[PDF](https://huihongxun.github.io/files/APEN_CUE_Jinan_2016.pdf)]
-- Weidong Liu, **Hongxun Hui**, Lijun Zhang, Chenbo Xu, Yikai Sun and Yi Ding, “[Analysis on Peak Load  Regulation Potential and Evaluation Model of Residential Loads](http://nfdwjszz.goooc.net/),” *Southern Power System Technology*, vol. 10, suppl. 1, pp. 256-263, Dec. 2016. (in Chinese) [[PDF](https://huihongxun.github.io/files/居民负荷调峰潜力分析方法与评估模型.pdf)]
 - Zuofeng Li, Wenqi Cui, Zhenyu Chen, **Hongxun Hui**, Kaining Luan, Bin Yang and Yi Ding, “[Research and Practice of Interruptible Load in the Market Environment (I)](http://www.cnki.com.cn/Article/CJFDTotal-DLXQ201606003.htm),” *Power Demand Side Management*, vol. 18, no. 6, pp. 4-7, 21, Nov. 2016. (in Chinese) [[PDF](https://huihongxun.github.io/files/市场环境下可中断负荷的研究与实践评述I.pdf)]
 - Yi Ding, Huahua Wu, **Hongxun Hui**, and Jun Zhang, “[Analysis and Related Suggestions on Power Market Mechanism of Demand Side Response in China](http://www.cnki.com.cn/Article/CJFDTotal-NFDW201603004.htm),” *Southern Power System Technology*, vol. 10, no. 3, pp. 24-31, Mar. 2016. (in Chinese) [[PDF](https://huihongxun.github.io/files/适合需求侧主动响应的中国电力市场机制的思考与建议.pdf)]
 
