@@ -19,18 +19,21 @@ author_profile: true
 - **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Yonghua Song and Saifur Rahman, “Coupon-Based Demand Response for Consumers Facing Flat-Rate Retail Pricing,” *CSEE Journal of Power and Energy Systems*, 2022. [[PDF](https://huihongxun.github.io/files/2022_CSEE_HongxunHui.pdf)]
 - Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Jiadong Cui and Lihuan Shao, “[Use of Inverter-Based Air Conditioners to Provide Voltage Regulation Services in Unbalanced Distribution Networks](https://ieeexplore.ieee.org/document/9940191),” *IEEE Transactions on Power Delivery*, Early Access, 2022. [[PDF](https://huihongxun.github.io/files/2022_Use_of_IACs_to_Provide_Voltage_Regulation_Services_in_Unbalanced_Distribution_Networks.pdf)]
 - Peipei Yu, Hongcai Zhang, Yonghua Song, **Hongxun Hui** and Chao Huang, "[Frequency Regulation Capacity Offering of District Cooling System: An Intrinsic-motivated Reinforcement Learning Method](https://ieeexplore.ieee.org/document/9944023)," *IEEE Transactions on Smart Grid*, Early Access, 2022. [[PDF](https://huihongxun.github.io/files/2022_Frequency_Regulation_Capacity_Offering_of_District_Cooling_System.pdf)]
-- Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, "[Deep-Quantile-Regression-Based Surrogate Model for Joint Chance-Constrained Optimal Power Flow With Renewable Generation](https://ieeexplore.ieee.org/document/9956906)," *IEEE Transactions on Sustainable Energy*, 2022, doi: 10.1109/TSTE.2022.3223764. [[PDF](https://huihongxun.github.io/files/2022_Deep-quantile-regression-based_surrogate_model_OPF_ChenGe.pdf)]
+
+<p align="right"><font size="5">2023</font></p>
+
+- Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, "[Deep-Quantile-Regression-Based Surrogate Model for Joint Chance-Constrained Optimal Power Flow With Renewable Generation](https://ieeexplore.ieee.org/document/9956906)," *IEEE Transactions on Sustainable Energy*, vol. 14, no. 1, pp. 657-672, Jan. 2023.  [[PDF](https://huihongxun.github.io/files/2022_Deep-quantile-regression-based_surrogate_model_OPF_ChenGe.pdf)]
 
 <p align="right"><font size="5">2022</font></p>
 - **Hongxun Hui**, Pierluigi Siano, Yi Ding, Peipei Yu, Yonghua Song, Hongcai Zhang and Ningyi Dai, "[A Transactive Energy Framework for Inverter-based HVAC Loads in a Real-time Local Electricity Market Considering Distributed Energy Resources](https://ieeexplore.ieee.org/document/9709098)," *IEEE Transactions on Industrial Informatics*, vol. 18, no. 12, pp. 8409-21, Dec. 2022. [[PDF](https://huihongxun.github.io/files/2022_TII_HongxunHui.pdf)]
 
 - **Hongxun Hui**, Yulin Chen, Shaohua Yang, Hongcai Zhang and Tao Jiang, "[Coordination Control of Distributed Generators and Load Resources for Frequency Restoration in Isolated Urban Microgrids](https://authors.elsevier.com/c/1fyGG15eif4U8b)," *Applied Energy*, vol. 327, p. 120116, Dec. 2022. [[PDF](https://huihongxun.github.io/files/2022_APEN_HongxunHui.pdf)]
 
-- **Hongxun Hui**, Peipei Yu, Hongcai Zhang, Ningyi Dai, Wei Jiang and Yonghua Song, "[Regulation Capacity Evaluation of Large-scale Residential Air Conditioners for Improving Flexibility of Urban Power Systems](https://www.sciencedirect.com/science/article/pii/S0142061522002927)," *International Journal of Electrical Power & Energy Systems*, vol. 142, part A, p. 108269, Nov. 2022. [[PDF](https://huihongxun.github.io/files/2022_IJEPES_Hongxun_RegulationCapacity.pdf)]
-
 - Jiatu Hong, **Hongxun Hui**\*, Hongcai Zhang, Ningyi Dai and Yonghua Song, "[Event-triggered Consensus Control of Large-scale Inverter Air Conditioners for Demand Response](https://ieeexplore.ieee.org/document/9881911)," *IEEE Transactions on Power Systems*, vol. 37, no. 6, pp. 4954-4957, Nov. 2022. [[PDF](https://huihongxun.github.io/files/2022_TPWRS_JiatuHong.pdf)]
 
 - Jiatu Hong, **Hongxun Hui**\*, Hongcai Zhang, Ningyi Dai and Yonghua Song, "[Distributed Control of Large-scale Inverter Air Conditioners for Providing Operating Reserve Based on Consensus With Nonlinear Protocol](https://ieeexplore.ieee.org/document/9714473)," *IEEE Internet of Things Journal*, vol. 9, no. 17, pp. 15847-57, Sep. 2022. [[PDF](https://huihongxun.github.io/files/2022_JIoT_JiatuHong.pdf)]
+
+- **Hongxun Hui**, Peipei Yu, Hongcai Zhang, Ningyi Dai, Wei Jiang and Yonghua Song, "[Regulation Capacity Evaluation of Large-scale Residential Air Conditioners for Improving Flexibility of Urban Power Systems](https://www.sciencedirect.com/science/article/pii/S0142061522002927)," *International Journal of Electrical Power & Energy Systems*, vol. 142, part A, p. 108269, Nov. 2022. [[PDF](https://huihongxun.github.io/files/2022_IJEPES_Hongxun_RegulationCapacity.pdf)]
 
 - Kang Xie, **Hongxun Hui**\*, Yi Ding, Yonghua Song, Chengjin Ye, Wandong Zheng and Shuiquan Ye, "[Modeling and Control of Central Air Conditionings for Providing Regulation Services for Power Systems](https://www.sciencedirect.com/science/article/pii/S0306261922004391?dgcid=coauthor)," *Applied Energy*, vol. 315, p. 119035, Jun. 2022. [[PDF](https://huihongxun.github.io/files/2022_APEN_CentralAirConditionings.pdf)]
 
@@ -38,15 +41,15 @@ author_profile: true
 
 - Qingxin Shi, Wenxia Liu, Bo Zeng, **Hongxun Hui** and Fangxing Li, "[Enhancing distribution system resilience against extreme weather events: Concept review, algorithm summary, and future vision](https://www.sciencedirect.com/science/article/pii/S0142061521010759?dgcid=coauthor)," *International Journal of Electrical Power & Energy Systems*, vol. 138, p. 107860, Jun. 2022. [[PDF](https://huihongxun.github.io/files/2022_IJEPES_QinxinShi_ResilienceReview.pdf)]
 
+- Yanqi Liu, **Hongxun Hui**, Hongcai Zhang and Liang Gao, "[Risk Assessment of Offshore Wind Farm Outages Under Typhoon Conditions](https://ieeexplore.ieee.org/document/9916685)," *2022 IEEE Power & Energy Society General Meeting (PESGM)*, 2022, pp. 1-5. [[PDF](https://huihongxun.github.io/files/2022_Risk_Assessment_of_Offshore_Wind_Farm_Outages_Under_Typhoon_Conditions.pdf)]
+
+- Peipei Yu, **Hongxun Hui**, Hongcai Zhang, Chao Huang and Yonghua Song, "[Frequency Regulation Capacity Offering of District Cooling System Based on Reinforcement Learning](https://ieeexplore.ieee.org/document/9916851)," *2022 IEEE Power & Energy Society General Meeting (PESGM)*, 2022, pp. 1-5. [[PDF](https://huihongxun.github.io/files/2022_Frequency_Regulation_Capacity_Offering_of_District_Cooling_System_Based_on_Reinforcement_Learning.pdf)]
+
 - Sheng Wang, Jian Tan, Wenbo Shi, Fenghua Zou, Guang Chen, Linyu Wang, **Hongxun Hui** and Lei Guo, "[Practices of the new power system in the UK and inspiration for the development of provincial power systems in China](http://www.hdpower.net/CN/10.3969/j.issn.2097-0706.2022.07.003)," *Integrated Intelligent Energy*, vol. 44, no. 7, pp. 19-32, Jul. 2022. (in Chinese) [**<font color='Red'>2022综合智慧能源大会优秀论文</font>**] [[PDF](https://huihongxun.github.io/files/2022_英国新型电力系统建设经验以及对我国省级电网发展启示_王盛.pdf)]
 
 - Han Wang, Xiaoyuan Xu, Zheng Yan, **Hongxun Hui** and Xiaotao Fang, "[Theoretical Methods and Application Prospects for Uncertainty Quantification in Distribution Network Operation Under the Influence of Stochastic Source-load](https://www.gei-journal.com/cn/journalsDetailsCn/20220525/1529442644177063936.html)," *Journal of Global Energy Interconnection*, vol. 5, no. 3, pp. 233-244, May. 2022. (in Chinese) [[PDF](https://huihongxun.github.io/files/2022_随机源-荷影响下配电网运行不确定性量化理论方法与应用展望_王晗.pdf)]
 
 - Kaijie Zhang, Guofeng Ding, Ming Wen, **Hongxun Hui**, Yi Ding, Min He, Jiefeng Chu, Kang Xie, Chutian Yu and Lijun Zhang, "[Review of Optimal Dispatching Technology and Market Mechanism Design For Virtual Power Plants](http://www.hdpower.net/CN/10.3969/j.issn.2097-0706.2022.02.009)," *Integrated Intelligent Energy*, vol. 44, no. 2, pp. 60-72, Feb. 2022. (in Chinese) [[PDF](https://huihongxun.github.io/files/2022_Integrated_Intelligent_Energy_KaijieZhang.pdf)]
-
-- Yanqi Liu, **Hongxun Hui**, Hongcai Zhang and Liang Gao, "[Risk Assessment of Offshore Wind Farm Outages Under Typhoon Conditions](https://ieeexplore.ieee.org/document/9916685)," *2022 IEEE Power & Energy Society General Meeting (PESGM)*, 2022, pp. 1-5. [[PDF](https://huihongxun.github.io/files/2022_Risk_Assessment_of_Offshore_Wind_Farm_Outages_Under_Typhoon_Conditions.pdf)]
-
-- Peipei Yu, **Hongxun Hui**, Hongcai Zhang, Chao Huang and Yonghua Song, "[Frequency Regulation Capacity Offering of District Cooling System Based on Reinforcement Learning](https://ieeexplore.ieee.org/document/9916851)," *2022 IEEE Power & Energy Society General Meeting (PESGM)*, 2022, pp. 1-5. [[PDF](https://huihongxun.github.io/files/2022_Frequency_Regulation_Capacity_Offering_of_District_Cooling_System_Based_on_Reinforcement_Learning.pdf)]
 
   <p align="right"><font size="5">2021</font></p>
 
