@@ -17,6 +17,8 @@ author_profile: true
 
 <p align="right"><font size="5">Early Access</font></p>
 
+- Sheng Wang, Junyi Zhai, **Hongxun Hui**\*, "[Optimal Energy Flow in Integrated Electricity and Gas Systems With Injection of Alternative Gas](https://ieeexplore.ieee.org/document/10018277),"*IEEE Transactions on Sustainable Energy*, 2023. [[PDF](https://huihongxun.github.io/files/2023_Optimal_Energy_Flow_in_Integrated_Electricity_and_Gas_Systems_With_Injection_of_Alternative_Gas.pdf)]
+
 - Sheng Wang, **Hongxun Hui**\*, Yi Ding, Chengjin Ye and Menglian Zheng, "[Operational Reliability Evaluation of Urban Multi-Energy Systems With Equivalent Energy Storage](https://ieeexplore.ieee.org/document/9999342),"*IEEE Transactions on Industry Applications*, 2022. [[PDF](https://huihongxun.github.io/files/2022_Operational_Reliability_Evaluation_of_Urban_Multi-Energy_Systems_With_Equivalent_Energy_Storage.pdf)]
 
 - **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Yonghua Song and Saifur Rahman, “Coupon-Based Demand Response for Consumers Facing Flat-Rate Retail Pricing,” *CSEE Journal of Power and Energy Systems*, 2022. [[PDF](https://huihongxun.github.io/files/2022_CSEE_HongxunHui.pdf)]
