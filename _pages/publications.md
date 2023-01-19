@@ -25,6 +25,8 @@ author_profile: true
 
 - Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Jiadong Cui and Lihuan Shao, “[Use of Inverter-Based Air Conditioners to Provide Voltage Regulation Services in Unbalanced Distribution Networks](https://ieeexplore.ieee.org/document/9940191),” *IEEE Transactions on Power Delivery*, Early Access, 2022. [[PDF](https://huihongxun.github.io/files/2022_Use_of_IACs_to_Provide_Voltage_Regulation_Services_in_Unbalanced_Distribution_Networks.pdf)]
 
+- Peipei Yu, Hongcai Zhang, Yonghua Song, **Hongxun Hui** and Ge Chen, "[District Cooling System Control for Providing Operating Reserve Based on Safe Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10019581)," *IEEE Transactions on Power Systems*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_District_Cooling_System_Control_for_Providing_Operating_Reserve_Based_on_Safe_Deep_Reinforcement_Learn.pdf)]
+
 - Peipei Yu, Hongcai Zhang, Yonghua Song, **Hongxun Hui** and Chao Huang, "[Frequency Regulation Capacity Offering of District Cooling System: An Intrinsic-motivated Reinforcement Learning Method](https://ieeexplore.ieee.org/document/9944023)," *IEEE Transactions on Smart Grid*, Early Access, 2022. [[PDF](https://huihongxun.github.io/files/2022_Frequency_Regulation_Capacity_Offering_of_District_Cooling_System.pdf)]
 
 <p align="right"><font size="5">2023</font></p>
