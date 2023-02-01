@@ -16,25 +16,18 @@ author_profile: true
 ## Papers
 
 <p align="right"><font size="5">Early Access</font></p>
-
 - Sheng Wang, Junyi Zhai, **Hongxun Hui**\*, "[Optimal Energy Flow in Integrated Electricity and Gas Systems With Injection of Alternative Gas](https://ieeexplore.ieee.org/document/10018277),"*IEEE Transactions on Sustainable Energy*, 2023. [[PDF](https://huihongxun.github.io/files/2023_Optimal_Energy_Flow_in_Integrated_Electricity_and_Gas_Systems_With_Injection_of_Alternative_Gas.pdf)]
-
 - Sheng Wang, **Hongxun Hui**\*, Yi Ding, Chengjin Ye and Menglian Zheng, "[Operational Reliability Evaluation of Urban Multi-Energy Systems With Equivalent Energy Storage](https://ieeexplore.ieee.org/document/9999342),"*IEEE Transactions on Industry Applications*, 2022. [[PDF](https://huihongxun.github.io/files/2022_Operational_Reliability_Evaluation_of_Urban_Multi-Energy_Systems_With_Equivalent_Energy_Storage.pdf)]
-
 - **Hongxun Hui**, Yi Ding, Kaining Luan, Tao Chen, Yonghua Song and Saifur Rahman, “Coupon-Based Demand Response for Consumers Facing Flat-Rate Retail Pricing,” *CSEE Journal of Power and Energy Systems*, 2022. [[PDF](https://huihongxun.github.io/files/2022_CSEE_HongxunHui.pdf)]
-
 - Yongzhu Hua, Qiangqiang Xie, **Hongxun Hui**, Yi Ding, Jiadong Cui and Lihuan Shao, “[Use of Inverter-Based Air Conditioners to Provide Voltage Regulation Services in Unbalanced Distribution Networks](https://ieeexplore.ieee.org/document/9940191),” *IEEE Transactions on Power Delivery*, Early Access, 2022. [[PDF](https://huihongxun.github.io/files/2022_Use_of_IACs_to_Provide_Voltage_Regulation_Services_in_Unbalanced_Distribution_Networks.pdf)]
-
+- Yulin Chen, Keng-Weng Lao, Donglian Qi, **Hongxun Hui**, Shaohua Yang, Yunfeng Yan and Yi Zheng, "[Distributed Self-triggered Control for Frequency Restoration and Active Power Sharing in Islanded Microgrids](https://ieeexplore.ieee.org/document/10033102)," *IEEE Transactions on Industrial Informatics*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_Distributed_Self-triggered_Control_for_Frequency_Restoration_and_Active_Power_Sharing_in_Islanded_Microgrids.pdf)]
 - Peipei Yu, Hongcai Zhang, Yonghua Song, **Hongxun Hui** and Ge Chen, "[District Cooling System Control for Providing Operating Reserve Based on Safe Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10019581)," *IEEE Transactions on Power Systems*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_District_Cooling_System_Control_for_Providing_Operating_Reserve_Based_on_Safe_Deep_Reinforcement_Learn.pdf)]
-
 - Peipei Yu, Hongcai Zhang, Yonghua Song, **Hongxun Hui** and Chao Huang, "[Frequency Regulation Capacity Offering of District Cooling System: An Intrinsic-motivated Reinforcement Learning Method](https://ieeexplore.ieee.org/document/9944023)," *IEEE Transactions on Smart Grid*, Early Access, 2022. [[PDF](https://huihongxun.github.io/files/2022_Frequency_Regulation_Capacity_Offering_of_District_Cooling_System.pdf)]
 
 <p align="right"><font size="5">2023</font></p>
-
 - Ge Chen, Hongcai Zhang, **Hongxun Hui** and Yonghua Song, "[Deep-Quantile-Regression-Based Surrogate Model for Joint Chance-Constrained Optimal Power Flow With Renewable Generation](https://ieeexplore.ieee.org/document/9956906)," *IEEE Transactions on Sustainable Energy*, vol. 14, no. 1, pp. 657-672, Jan. 2023.  [[PDF](https://huihongxun.github.io/files/2022_Deep-quantile-regression-based_surrogate_model_OPF_ChenGe.pdf)]
 
 <p align="right"><font size="5">2022</font></p>
-
 - **Hongxun Hui**, Pierluigi Siano, Yi Ding, Peipei Yu, Yonghua Song, Hongcai Zhang and Ningyi Dai, "[A Transactive Energy Framework for Inverter-based HVAC Loads in a Real-time Local Electricity Market Considering Distributed Energy Resources](https://ieeexplore.ieee.org/document/9709098)," *IEEE Transactions on Industrial Informatics*, vol. 18, no. 12, pp. 8409-21, Dec. 2022. [[PDF](https://huihongxun.github.io/files/2022_TII_HongxunHui.pdf)]
 
 - **Hongxun Hui**, Yulin Chen, Shaohua Yang, Hongcai Zhang and Tao Jiang, "[Coordination Control of Distributed Generators and Load Resources for Frequency Restoration in Isolated Urban Microgrids](https://authors.elsevier.com/c/1fyGG15eif4U8b)," *Applied Energy*, vol. 327, p. 120116, Dec. 2022. [[PDF](https://huihongxun.github.io/files/2022_APEN_HongxunHui.pdf)]
@@ -89,7 +82,6 @@ author_profile: true
 
 
 <p align="right"><font size="5">2020</font></p>
-
 - **Hongxun Hui**, Yi Ding, Zhenzhi Lin, Pierluigi Siano and Yonghua Song, “[Capacity Allocation and Optimal Control of Inverter Air Conditioners Considering Area Control Error in Multi-area Power Systems](https://ieeexplore.ieee.org/document/8743401),” *IEEE Transactions on Power Systems*, vol. 35, no. 1, pp. 332-345, Jan. 2020. [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_08743401.pdf)]
 
 - **Hongxun Hui**, Yi Ding, Qingxin Shi, Fangxing Li, Yonghua Song and Jinyue Yan, “[5G Network-based Internet of Things for Demand Response in Smart Grid: A Survey on Application Potential](https://www.sciencedirect.com/science/article/pii/S0306261919316599?dgcid=coauthor),” *Applied Energy*, vol. 257, p. 113972, Jan. 2020. [[PDF](https://huihongxun.github.io/files/Applied_Energy_Review_Paper_5G_and_DR.pdf)] [**<font color='Red'>ESI Highly Cited Paper</font>**]
@@ -103,7 +95,6 @@ author_profile: true
 - Haiyue Yu, Kang Xie, **Hongxun Hui** and Yi Ding, "[Review and Prospect of Flexible Loads for Participating in Frequency Regulation](https://ieeexplore.ieee.org/document/9347253)," *2020 IEEE 4th Conference on Energy Internet and Energy System Integration (EI2)*, 2020, pp. 2605-2608. [[PDF](https://huihongxun.github.io/files/IEEE_Conf_EI2_Wuhan_2020.pdf)]
 
 <p align="right"><font size="5">2019</font></p>
-
 - **Hongxun Hui**, Yi Ding and Menglian Zheng, “[Equivalent Modeling of Inverter Air Conditioners for Providing Frequency Regulation Service](https://ieeexplore.ieee.org/abstract/document/8351974/),” *IEEE Transactions on Industrial Electronics*, vol. 66, no. 2, pp. 1413-1423, Feb. 2019. [[PDF](https://huihongxun.github.io/files/TIE_8351974.pdf)]
 
 - **Hongxun Hui**, Yi Ding, Yonghua Song and Saifur Rahman, “[Modeling and Control of Flexible Loads for Frequency Regulation Services Considering Compensation of Communication Latency and Detection Error](https://www.sciencedirect.com/science/article/pii/S0306261919308335),” *Applied Energy*, vol. 250, pp. 161-174, Sep. 2019. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261919308335.pdf)]
@@ -125,7 +116,6 @@ author_profile: true
 - Kaijie Zhang, Yi Ding, **Hongxun Hui**, Xiaolun Fang and Kang Xie, “[Dispatching Potential Evaluation of Thermostatically Controlled Loads Based on Realistic Customer Electricity Data in China](https://ieeexplore.ieee.org/abstract/document/9062202),” *2019 IEEE 3rd Conference on Energy Internet and Energy System Integration (EI2)*, Changsha, China, Nov. 2019, pp. 1-5. [[PDF](https://huihongxun.github.io/files/IEEE EI2-Kaijie Zhang.pdf)]
 
 <p align="right"><font size="5">2018</font></p>
-
 - **Hongxun Hui**, Yi Ding, Kaining Luan and Daoqiang Xu, “[Analysis of 815 Blackout in Taiwan and the Improvement Method of Contingency Reserve Capacity Through Direct Load Control](https://ieeexplore.ieee.org/abstract/document/8586352),” *In IEEE PES General Meeting*, Portland, USA, Aug. 2018, pp. 1-5. [[PDF](https://huihongxun.github.io/files/IEEE_Conf_PES_2018_08586352.pdf)]
 
 - Wenqi Cui, Yi Ding, **Hongxun Hui**, Zhenzhi Lin, Pengwei Du, Yonghua Song and Changzheng Shao, “[Evaluation and Sequential Dispatch of Operating Reserve Provided by Air Conditioners Considering Lead–Lag Rebound Effect](https://ieeexplore.ieee.org/abstract/document/8379434),” *IEEE Transactions on Power Systems*, vol. 33,no. 6, pp. 6935-6950, Nov. 2018. [[PDF](https://huihongxun.github.io/files/IEEE_Power_Systems_8379434_Wenqi.pdf)]
@@ -135,7 +125,6 @@ author_profile: true
 - Xinyao Qu, **Hongxun Hui**, Yi Ding and Kaining Luan, “[Optimal Control of Intelligent Electricity Consumption for Residential Customers Considering Demand Response](https://www.sciencedirect.com/science/article/pii/S1876610218300821),” *Energy Procedia*, vol. 145, pp. 510-515, Jul. 2018. [[PDF](https://huihongxun.github.io/files/APEN_REM_Tianjin_2017.pdf)]
 
 <p align="right"><font size="5">2017</font></p>
-
 - **Hongxun Hui**, Yi Ding, Weidong Liu, You Lin and Yonghua Song, “[Operating Reserve Evaluation of Aggregated Air Conditioners](https://www.sciencedirect.com/science/article/pii/S0306261916317676),” *Applied Energy*, vol. 196, pp. 218-228, Jun. 2017. [[PDF](https://huihongxun.github.io/files/Applied_Energy_S0306261916317676.pdf)]
 
 - Yi Ding, **Hongxun Hui**, Zhenzhi Lin, Menglian Zheng, Xinyao Qu and Wenqi Cui, “[Design of Business Model and Market Framework Oriented to Active Demand Response of Power Demand Side](http://www.aeps-info.com/aeps/ch/reader/view_abstract.aspx?file_no=20170218001&flag=1),” *Automation of Electric Power Systems*, vol. 41, no. 14, pp. 2-9, Jul. 2017. (in Chinese) [[PDF](https://huihongxun.github.io/files/面向电力需求侧主动响应的商业模式及市场框架设计.pdf)]
@@ -151,7 +140,6 @@ author_profile: true
 - Wenqi Cui, Yi Ding, **Hongxun Hui** and Maozhen Li, “[Two-stage Payback Model for the Assessment of Curtailment Services Provided by Air Conditioners](https://www.sciencedirect.com/science/article/pii/S1876610217361593),” *Energy Procedia*, vol. 142, pp. 2050-2056, Dec. 2017. [[PDF](https://huihongxun.github.io/files/APEN_ICAE_Cardiff_2017_S1876610217361593.pdf)]
 
 <p align="right"><font size="5">2016</font></p>
-
 - **Hongxun Hui**, Weidong Liu and Yi Ding, “[Quantitative Analysis of Air Conditioner Aggregation for Providing Operating Reserve](https://www.sciencedirect.com/science/article/pii/S187661021631565X),” *Energy Procedia*, vol. 104, pp. 50-55, Dec. 2016. [[PDF](https://huihongxun.github.io/files/APEN_CUE_Jinan_2016.pdf)]
 
 - Zuofeng Li, Wenqi Cui, Zhenyu Chen, **Hongxun Hui**, Kaining Luan, Bin Yang and Yi Ding, “[Research and Practice of Interruptible Load in the Market Environment (I)](http://www.cnki.com.cn/Article/CJFDTotal-DLXQ201606003.htm),” *Power Demand Side Management*, vol. 18, no. 6, pp. 4-7, 21, Nov. 2016. (in Chinese) [[PDF](https://huihongxun.github.io/files/市场环境下可中断负荷的研究与实践评述I.pdf)]
