@@ -34,6 +34,7 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 News
 ======
+- **[2023-03-15]**  New publication: H. Li, H. Hui and H. Zhang, "Decentralized Energy Management of Microgrid Based on Blockchain-Empowered Consensus Algorithm with Collusion Prevention," to appear in *IEEE Transactions on Sustainable Energy*, 2023.
 - **[2023-02-23]**  New publication: Y. Chen, D. Qi, H. Hui, S. Yang, Y. Gu, Y. Yan, Y. Zheng and J. Zhang, "Self-triggered Coordination of Distributed Renewable Generators for Frequency Restoration in Islanded Microgrids: a Low Communication and Computation Strategy," to appear in *Advances in Applied Energy*, 2023.
 - **[2023-02-02]**  New publication: H. Li, H. Hui and H. Zhang, "Consensus-based Energy Management of Microgrid with Random Packet Drops," to appear in *IEEE Transactions on Smart Grid*, 2023.
 - **[2023-01-16]**  New publication: S. Wang, J. Zhai and H. Hui, "Operational Reliability Evaluation of Urban Multi-Energy Systems With Equivalent Energy Storage," to appear in *IEEE Transactions on Sustainable Energy*, 2023.
