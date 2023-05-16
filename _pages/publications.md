@@ -16,7 +16,7 @@ author_profile: true
 ## Papers
 
 <p align="right"><font size="5">Early Access</font></p>
-
+- Sheng Wang, **Hongxun Hui**\* and Pierluigi Siano, “Resilience of Gas Interchangeability in Hydrogen-Blended Integrated Electricity and Gas Systems: A Transient Approach With Dynamic Gas Composition Tracking,” *iEnergy*, Early Access, 2023.
 - Sheng Wang, Junyi Zhai, **Hongxun Hui**\*, Yi Ding and Yonghua Song, "[Operational Reliability of Integrated Energy Systems Considering Gas Flow Dynamics and Demand-Side Flexibilities](https://ieeexplore.ieee.org/document/10123959)," *IEEE Transactions on Industrial Informatics*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_Operational_Reliability_of_Integrated_Energy_Systems_Considering_Gas_Flow_Dynamics_and_Demand-Side_Flexibilities.pdf)]
 - Hongyi Li, **Hongxun Hui** and Hongcai Zhang, "[Decentralized Energy Management of Microgrid Based on Blockchain-Empowered Consensus Algorithm with Collusion Prevention](https://ieeexplore.ieee.org/document/10075483)," *IEEE Transactions on Sustainable Energy*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_Decentralized Energy Management of Microgrid Based on Blockchain-Empowered Consensus.pdf)]
 - Hongyi Li, **Hongxun Hui** and Hongcai Zhang, "[Consensus-based Energy Management of Microgrid with Random Packet Drops](https://ieeexplore.ieee.org/document/10035520)," *IEEE Transactions on Smart Grid*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_Consensus-based_Energy_Management_of_Microgrid_with_Random_Packet_Drops.pdf)]
