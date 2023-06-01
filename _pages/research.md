@@ -19,7 +19,7 @@ author_profile: true
 
 ## Projects
 
-- Regulation Technologies of Flexible Resources in Power-Communication Deep Coupling Network (2023-2026), *Supported by Science and Technology Development Fund, Macao, China*, Budget 1,294,500.00, Principal Investigator.
+- Regulation Technologies of Flexible Resources in Power-Communication Deep Coupling Network (2023-2026), *Supported by Science and Technology Development Fund, Macao, China*, Project No. 0117/2022/A3, Budget 1,294,500.00, Principal Investigator.
 - Key technologies and applications of network-load-storage interaction of virtual power station in smart city (2022-2024), *Supported by Science and Technology Development Fund, Macao, China*, Co-Principal Investigator.
 - Regulation Technologies of Large-scale Demand-side Resources in Urban Power Systems Considering High-penetration Renewable Energies (2022-2023),  *Supported by Key Laboratory of Modern Power System Simulation and Control & Renewable Energy Technology, Ministry of Education (Northeast Electric Power University)* (No. MPSS2022-10), Principal Investigator.
 - Cooperative Control of Flexible Loads in Power Systems with High Penetration of Renewable Energies (2018–2019), *Supported by Zhejiang University, Academic Rising Star Program* (No. 2018025), Principal Investigator. 
