@@ -36,6 +36,7 @@ News
 ======
 - **[2023-05-20]**  New publication: S. Wang, H. Hui and P. Siano, "Resilience of Gas Interchangeability in Hydrogen-Blended Integrated Electricity and Gas Systems: A Transient Approach With Dynamic Gas Composition Tracking," to appear in *iEnergy*, 2023.
 - **[2023-05-13]**  New publication: S. Wang, J. Zhai, H. Hui, Y. Ding and Y. Song, "Operational Reliability of Integrated Energy Systems Considering Gas Flow Dynamics and Demand-Side Flexibilities," to appear in *IEEE Transactions on Industrial Informatics*, 2023.
+- **[2023-05-02]**  Our Project "Regulation Technologies of Flexible Resources in Power-Communication Deep Coupling Network" get supported by *Science and Technology Development Fund* (FDCT), Macao, China.
 - **[2023-03-15]**  New publication: H. Li, H. Hui and H. Zhang, "Decentralized Energy Management of Microgrid Based on Blockchain-Empowered Consensus Algorithm with Collusion Prevention," to appear in *IEEE Transactions on Sustainable Energy*, 2023.
 - **[2023-02-23]**  New publication: Y. Chen, D. Qi, H. Hui, S. Yang, Y. Gu, Y. Yan, Y. Zheng and J. Zhang, "Self-triggered Coordination of Distributed Renewable Generators for Frequency Restoration in Islanded Microgrids: a Low Communication and Computation Strategy," to appear in *Advances in Applied Energy*, 2023.
 - **[2023-02-02]**  New publication: H. Li, H. Hui and H. Zhang, "Consensus-based Energy Management of Microgrid with Random Packet Drops," to appear in *IEEE Transactions on Smart Grid*, 2023.
