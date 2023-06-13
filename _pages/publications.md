@@ -16,7 +16,7 @@ author_profile: true
 ## Papers
 
 <p align="right"><font size="5">Early Access</font></p>
-
+- Hongyi Li, **Hongxun Hui**, Hongcai Zhang, “Blockchain-Assisted Virtual Power Plant Framework for Providing Operating Reserve with Various Distributed Energy Resources,” *iEnergy*, Accepted, 2023.
 - Sheng Wang, **Hongxun Hui**\* and Junyi Zhai, “Short-Term Reliability Assessment of Integrated Power-Gas Systems With Hydrogen Injections Using Universal Generating Function,” *IEEE Transactions on Industry Applications*, Accepted, 2023.
 - Shaohua Yang, Keng-Weng Lao, Yulin Chen and **Hongxun Hui**, “Resilient Distributed Control against False Data Injection Attacks for Demand Response,” *IEEE Transactions on Power Systems*, Accepted, 2023.
 - Shiquan Shan, Siqi Jia, Haojin Wu, Qi Zhang, **Hongxun Hui** and Zhijun Zhou, “[New Solar-biomass Assisted Thermophotovoltaic System and Parametrical Analysis](https://www.sciencedirect.com/science/article/pii/S2949720523000164),” *Green Energy and Resources*, Early Access, 2023.
