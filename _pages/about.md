@@ -8,11 +8,11 @@ author_profile: true
 
 
 
-Dr. Hongxun Hui is a Research Assistant Professor with the State Key Laboratory of Internet of Things for Smart City, University of Macau. Previously, he received a B. Eng. degree in 2015 and Ph.D. degree in 2020, respectively, both from the College of Electrical Engineering in Zhejiang University. From 2018 to 2019, he was a visiting scholar at the Advanced Research Institute in Virginia Tech. He was elected in the 1st batch of the *Academic Rising Star Program* for Ph.D. at Zhejiang University in 2018. From 2020 to 2022, he was a Post-doctoral Fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. His research interests are in the Internet of Things technologies for smart energy, optimization of integrated energy systems, control of flexible resources, and energy economics. He has authored/co-authored 1 international book, more than 70 papers (including more than 40 SCI journal papers), and 16 issued patents. One of the papers was selected as the ESI Highly Cited Papers (Top 1%).
+Dr. Hongxun Hui is a Research Assistant Professor with the State Key Laboratory of Internet of Things for Smart City, University of Macau. Previously, he received a B. Eng. degree in 2015 and Ph.D. degree in 2020, respectively, both from the College of Electrical Engineering in Zhejiang University. From 2018 to 2019, he was a visiting scholar at the Advanced Research Institute in Virginia Tech. He was elected in the 1st batch of the *Academic Rising Star Program* for Ph.D. at Zhejiang University in 2018. From 2020 to 2022, he was a Post-doctoral Fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. His research interests are in the Internet of Things technologies for smart energy, optimization of integrated energy systems, control of flexible resources, and energy economics. He has authored/co-authored 1 international book, more than 80 papers (including more than 40 SCI journal papers), and 16 issued patents. One of the papers was selected as the ESI Highly Cited Papers (Top 1%).
 
 Dr. Hui is Young Editorial Board Member and Guest Editor of high level journals, including *Applied Energy*, *Engineering Reports*, *Integrated Intelligent Energy*, etc. He also serves as reviewer for many international journals, including *IEEE Transactions on Power Systems*, *IEEE Transactions on Smart Grid*, *IEEE Transactions on Sustainable Energy*, *IEEE Transactions on Industrial Informatics*, *Applied Energy*, etc. He was the recipient of the Outstanding Reviewer Award from the *Journal of Modern Power Systems and Clean Energy*. Besides, he got the *Best Paper Award* of IEEE iSPEC 2021, the *First Prize* and the *Best Innovation Award* of the 2021 National AI Application Competition in Power Dispatching, and *Excellent Paper Award* of the Integrated Smart Energy Conference 2022.
 
-Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20230516.pdf).
+Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20230613.pdf).
 
 
 
@@ -34,6 +34,8 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 News
 ======
+- **[2023-06-12]**  New publication: H. Li, H. Hui and H. Zhang, "Blockchain-Assisted Virtual Power Plant Framework for Providing Operating Reserve with Various Distributed Energy Resources," to appear in *iEnergy*, 2023.
+- **[2023-06-02]**  New publication: S. Wang, H. Hui and J. Zhai, "Short-Term Reliability Assessment of Integrated Power-Gas Systems With Hydrogen Injections Using Universal Generating Function," to appear in *IEEE Transactions on Industry Applications*, 2023.
 - **[2023-05-20]**  New publication: S. Wang, H. Hui and P. Siano, "Resilience of Gas Interchangeability in Hydrogen-Blended Integrated Electricity and Gas Systems: A Transient Approach With Dynamic Gas Composition Tracking," to appear in *iEnergy*, 2023.
 - **[2023-05-13]**  New publication: S. Wang, J. Zhai, H. Hui, Y. Ding and Y. Song, "Operational Reliability of Integrated Energy Systems Considering Gas Flow Dynamics and Demand-Side Flexibilities," to appear in *IEEE Transactions on Industrial Informatics*, 2023.
 - **[2023-05-02]**  Our Project "Regulation Technologies of Flexible Resources in Power-Communication Deep Coupling Network" get supported by *Science and Technology Development Fund* (FDCT), Macao, China.
