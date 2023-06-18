@@ -17,7 +17,7 @@ author_profile: true
 
 <p align="right"><font size="5">Early Access</font></p>
 - Hongyi Li, **Hongxun Hui**, Hongcai Zhang, “Blockchain-Assisted Virtual Power Plant Framework for Providing Operating Reserve with Various Distributed Energy Resources,” *iEnergy*, Accepted, 2023.
-- Sheng Wang, **Hongxun Hui**\* and Junyi Zhai, “Short-Term Reliability Assessment of Integrated Power-Gas Systems With Hydrogen Injections Using Universal Generating Function,” *IEEE Transactions on Industry Applications*, Accepted, 2023.
+- Sheng Wang, **Hongxun Hui**\* and Junyi Zhai, “[Short-Term Reliability Assessment of Integrated Power-Gas Systems With Hydrogen Injections Using Universal Generating Function](https://ieeexplore.ieee.org/document/10154141),” *IEEE Transactions on Industry Applications*, Accepted, 2023.
 - Shaohua Yang, Keng-Weng Lao, Yulin Chen and **Hongxun Hui**, “Resilient Distributed Control against False Data Injection Attacks for Demand Response,” *IEEE Transactions on Power Systems*, Accepted, 2023.
 - Sheng Wang, **Hongxun Hui**\* and Pierluigi Siano, “Resilience of Gas Interchangeability in Hydrogen-Blended Integrated Electricity and Gas Systems: A Transient Approach With Dynamic Gas Composition Tracking,” *iEnergy*, Accepted, 2023.
 - Sheng Wang, Junyi Zhai, **Hongxun Hui**\*, Yi Ding and Yonghua Song, "[Operational Reliability of Integrated Energy Systems Considering Gas Flow Dynamics and Demand-Side Flexibilities](https://ieeexplore.ieee.org/document/10123959)," *IEEE Transactions on Industrial Informatics*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_Operational_Reliability_of_Integrated_Energy_Systems_Considering_Gas_Flow_Dynamics_and_Demand-Side_Flexibilities.pdf)]
