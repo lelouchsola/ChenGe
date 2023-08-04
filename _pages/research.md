@@ -13,28 +13,29 @@ author_profile: true
 
 The following table shows the PhDs, Masters and Postdoctoral Fellows supervised/co-supervised by Hui.
 
-| PhD students                                                 | Name           | Brief introduction |
-| ------------------------------------------------------------ | -------------- | :----------------- |
-| ![Editing a markdown file for a talk](/images/photo/photo-MaLiya.jpg) | Liya MA        | Liya [CV]          |
-| ![Editing a markdown file for a talk](/images/photo/photo-ZhangZhenwei.jpg) | Zhenwei  ZHANG |                    |
-|                                                              | Ruiwen LIU     |                    |
-|                                                              | Taoyi QI       |                    |
-|                                                              | Siyu JIANG     |                    |
+| PhD students                                                 | Name           | Brief introduction                                           |
+| ------------------------------------------------------------ | -------------- | :----------------------------------------------------------- |
+| ![Editing a markdown file for a talk](/images/photo/photo-MaLiya.jpg) | Liya MA        | Dr. Sheng Wang is a post-doctoral fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. He received his Ph.D. degree from Zhejiang University in 2021, and worked as a research fellow at State Grid (Suzhou) City & Energy Research Institute for one year. His research interests include the operation and evaluation of integrated energy systems and low-carbon strategies for urban development. He has (co)authored more than 20 papers and book chapters, and more than ten patents. [CV] |
+| ![Editing a markdown file for a talk](/images/photo/photo-ZhangZhenwei.jpg) | Zhenwei  ZHANG | Dr. Sheng Wang is a post-doctoral fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. He received his Ph.D. degree from Zhejiang University in 2021, and worked as a research fellow at State Grid (Suzhou) City & Energy Research Institute for one year. His research interests include the operation and evaluation of integrated energy systems and low-carbon strategies for urban development. He has (co)authored more than 20 papers and book chapters, and more than ten patents. [CV] |
+|                                                              | Ruiwen LIU     |                                                              |
+|                                                              | Taoyi QI       |                                                              |
+|                                                              | Siyu JIANG     |                                                              |
 
 
 
-| Master students                         | Name        | Brief introduction |
-| --------------------------------------- | ----------- | :----------------- |
-| ![Editing a markdown file for a talk]() | Tong WU     |                    |
-| ![Editing a markdown file for a talk]() | Zifei WANG  |                    |
-|                                         | Lunshu CHEN |                    |
-|                                         | Kexin WANG  |                    |
+| Master students                         | Name        | Brief introduction                                           |
+| --------------------------------------- | ----------- | :----------------------------------------------------------- |
+| ![Editing a markdown file for a talk]() | Tong WU     | Dr. Sheng Wang is a post-doctoral fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. He received his Ph.D. degree from Zhejiang University in 2021, and worked as a research fellow at State Grid (Suzhou) City & Energy Research Institute for one year. His research interests include the operation and evaluation of integrated energy systems and low-carbon strategies for urban development. He has (co)authored more than 20 papers and book chapters, and more than ten patents. [CV] |
+| ![Editing a markdown file for a talk]() | Zifei WANG  | Dr. Sheng Wang is a post-doctoral fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. He received his Ph.D. degree from Zhejiang University in 2021, and worked as a research fellow at State Grid (Suzhou) City & Energy Research Institute for one year. His research interests include the operation and evaluation of integrated energy systems and low-carbon strategies for urban development. He has (co)authored more than 20 papers and book chapters, and more than ten patents. [CV] |
+|                                         | Lunshu CHEN |                                                              |
+|                                         | Kexin WANG  |                                                              |
 
 
 
 | Postdoctoral Fellow | Name       | Brief introduction                                           |
 | ------------------- | ---------- | :----------------------------------------------------------- |
 |                     | Sheng WANG | Dr. Sheng Wang is a post-doctoral fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. He received his Ph.D. degree from Zhejiang University in 2021, and worked as a research fellow at State Grid (Suzhou) City & Energy Research Institute for one year. His research interests include the operation and evaluation of integrated energy systems and low-carbon strategies for urban development. He has (co)authored more than 20 papers and book chapters, and more than ten patents. [CV] |
+|                     | Yuting QI  |                                                              |
 
 - 
 
