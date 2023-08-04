@@ -37,7 +37,7 @@ The following table shows the PhDs, Masters and Postdoctoral Fellows supervised/
 |                     | Sheng WANG | Dr. Sheng Wang is a post-doctoral fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. He received his Ph.D. degree from Zhejiang University in 2021, and worked as a research fellow at State Grid (Suzhou) City & Energy Research Institute for one year. His research interests include the operation and evaluation of integrated energy systems and low-carbon strategies for urban development. He has (co)authored more than 20 papers and book chapters, and more than ten patents. [CV] |
 |                     | Yuting QI  |                                                              |
 
-- 
+
 
 
 
