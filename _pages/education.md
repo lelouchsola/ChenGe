@@ -5,16 +5,14 @@ permalink: /education/index.html
 author_profile: true
 ---
 
-### Zhejiang University (09/2015-06/2020) 
+#### Zhejiang University (09/2015-06/2020) 
 
-- Ph.D., [College of Electrical Engineering](http://ee.zju.edu.cn/)
-- Academic Advisor: [Prof. Yonghua Song](https://rto.um.edu.mo/biography/) and [Prof. Yi Ding](https://person.zju.edu.cn/en/110)
+- Ph.D., College of Electrical Engineering [[link](http://ee.zju.edu.cn/)]
+- Academic Advisor: Prof. Yonghua Song and Prof. Yi Ding
 
+#### Zhejiang University (09/2011-06/2015)
 
-
-### Zhejiang University (09/2011-06/2015)
-
-- B.Eng., [College of Electrical Engineering](http://ee.zju.edu.cn/)
+- B.Eng., College of Electrical Engineering [[link](http://ee.zju.edu.cn/)]
 - Outstanding Graduates, Overall GPA: 3.88/4.0 (top 3%)
 
 
@@ -25,29 +23,23 @@ author_profile: true
 
 # Visiting Experiences
 
-### Virginia Tech (10/2018-10/2019)
+#### Virginia Tech (10/2018-10/2019)
 
-- Visiting Student, [Advanced Research Institute](https://ari.vt.edu/)
-- Academic Advisor: [Prof. Saifur Rahman](http://www.saifurrahman.org/)
+- Visiting Student, Advanced Research Institute [[link](https://ari.vt.edu/)]
+- Academic Advisor: Prof. Saifur Rahman [[link](http://www.saifurrahman.org/)]
 
+#### University of Tennessee (06/2019-07/2019)
 
+- Short-term Exchange, CURENT Center [[link](https://curent.utk.edu/)]
+- Academic Advisor: Prof. Fangxing (Fran) Li [[link](http://web.eecs.utk.edu/~fli6/)]
 
-### University of Tennessee (06/2019-07/2019)
-
-- Short-term Exchange, [CURENT Center](https://curent.utk.edu/)
-- Academic Advisor: [Prof. Fangxing (Fran) Li](http://web.eecs.utk.edu/~fli6/)
-
- 
-
-### Duke Kunshan University (08/2014-12/2014)
+#### Duke Kunshan University (08/2014-12/2014)
 
 - Global Learning Semester
-- A one-semester-long program divided into two seven-week sessions featuring courses by Duke and DKU.
+- One-semester-long program featuring courses by Duke.
 - Expertise: Academic Writing, American History, Cognitive Evolution.
 
-
-
-### Harbin Institute of Technology (07/2014-07/2014)
+#### Harbin Institute of Technology (07/2014-07/2014)
 
 - Exchange Student Program of C9 University Union
 - Expertise: Flight Vehicle Design and Engineering.
@@ -60,21 +52,17 @@ author_profile: true
 
 # Working Experiences
 
-### University of Macau (10/2022-Present)
+#### University of Macau (10/2022-Present)
 
-- Research Assistant Professor, [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/)
+- Research Assistant Professor, State Key Laboratory of Internet of Things for Smart City [[link](https://skliotsc.um.edu.mo/)]
 
+#### University of Macau (10/2020-10/2022)
 
+- Postdoctoral Fellow, State Key Laboratory of Internet of Things for Smart City [[link](https://skliotsc.um.edu.mo/)]
 
-### University of Macau (10/2020-10/2022)
+#### Zhuhai UM Science & Technology Research Institute (08/2020-10/2020)
 
-- Postdoctoral Fellow, [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/)
-
-
-
-### Zhuhai UM Science & Technology Research Institute (08/2020-10/2020)
-
-- Researcher, [Smart City Research Center](http://www.zumri.cn/)
+- Researcher, Smart City Research Center [[link](http://www.zumri.cn/)]
 
 
 
@@ -84,7 +72,7 @@ author_profile: true
 
 # Honors and Rewards
 
-### **Academic Honors:**
+#### **Academic Honors:**
 
 - Highly Cited Review Paper Award, by the Journal *Applied Energy*, Aug. 2022.
 - Excellent Paper Award of the Integrated Smart Energy Conference (2022综合智慧能源大会优秀论文), Jul. 2022.
@@ -104,7 +92,7 @@ author_profile: true
 - Best Design Award, 9th University Student Robot Contest (My Super Personal Shopper) (浙江大学"中控杯"第九届大学生机器人竞赛), 2014.
 - Third Price, 7th Intelligent Car Competition of Zhejiang University  (浙江大学第七届大学生智能汽车竞赛), 2014.
 
-### **Study Achievements:**
+#### **Study Achievements:**
 
 - Excellent Postgraduate Student Award in Zhejiang Province (浙江省优秀毕业生), 2020.
 - Excellent Postgraduate Student Award (浙江大学优秀毕业研究生), 2020.
@@ -129,5 +117,6 @@ author_profile: true
 
 # Community Contribution
 
+- Macao International Environmental Co-operation Forum & Exhibition (MIECF), hosted by the Government of the Macao Special Administrative Region of the People's Republic of China (澳門國際環保合作發展論壇及展覽)
 - A Volunteer in the Affiliated Hospital of Zhejiang University School of Medicine ("广济之舟"志愿者)
 - Member of Future Entrepreneur Club, Zhejiang University (浙江大学未来企业家俱乐部)
