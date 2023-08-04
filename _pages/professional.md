@@ -42,10 +42,9 @@ author_profile: true
 - *IEEE Transactions on Automation Science and Engineering*
 - *IEEE Transactions on Industry Applications*
 - *IEEE Systems Journal*
-- *IEEE Access*
 - *IET Energy Systems Integration*
 - *IET Generation, Transmission & Distribution*
-- IET Renewable Power Generation
+- *IET Renewable Power Generation*
 - *CSEE Journal of Power & Energy Systems*
 - *Journal of Modern Power Systems and Clean Energy* (Excellence in Reviewing Award)
 - *Protection and Control of Modern Power Systems*
@@ -57,6 +56,7 @@ author_profile: true
 - *Journal of Electrical Engineering & Technology*
 - *Case Studies in Thermal Engineering*
 - *Transactions on Sensor Networks*
+- *IEEE Access*
 - *Frontiers in Energy*
 - *Frontiers In Smart Grids*
 - *Technology in Society*
@@ -65,6 +65,7 @@ author_profile: true
 - *Engineering Reports*
 - *Economic Alternatives*
 - *Energy Economics*
+- *Electrical Engineering*
 
 
 
