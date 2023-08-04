@@ -9,9 +9,23 @@ author_profile: true
 
 ## Group
 
-- Smart Energy Group, State Key Laboratory of Internet of Things for Smart City, University of Macau. The group includes Professors Yonghua Song, Man Chung Wong, Ningyi Dai, Hongcai Zhang, Keng Weng Lao, Hongxun Hui. Welcome to join our group!
+- Smart Energy Group, State Key Laboratory of Internet of Things for Smart City, University of Macau. The group includes Professors Yonghua Song, Man Chung Wong, Ningyi Dai, Hongcai Zhang, Keng Weng Lao, Minghao Wang, Hongxun Hui. Welcome to join our group!
+- Supervised or Co-supervised PhD students: 
+  - Liya Ma
+  - Zhenwei Zhang
+  - Ruiwen Liu
+  - Taoyi Qi
+  - Siyu Jiang
 
+- Supervised or Co-supervised master students: 
+  - Tong Wu
+  - Zifei Wang
+  - Lunshu Chen
+  - Kexin Wang
+- Supervised or Co-supervised Postdoctoral Fellow: 
+  - Dr. Sheng Wang
 
+<img src="C:\Users\admin\Pictures\Camera Roll\bg-wallpaper.png" style="zoom:25%;" />test test test test test test test test 
 
 
 
