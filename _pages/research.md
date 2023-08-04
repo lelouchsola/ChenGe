@@ -11,35 +11,32 @@ author_profile: true
 
 **Smart Energy Group, State Key Laboratory of Internet of Things for Smart City, University of Macau. The group includes Professors Yonghua Song, Man Chung Wong, Ningyi Dai, Hongcai Zhang, Keng Weng Lao, Minghao Wang, Hongxun Hui. Welcome to join our group!**
 
+The following table shows the PhDs, Masters and Postdoctoral Fellows supervised/co-supervised by Hui.
+
+| PhD students                                                 | Name           | Brief introduction |
+| ------------------------------------------------------------ | -------------- | :----------------- |
+| ![Editing a markdown file for a talk](/images/photo/photo-MaLiya.jpg) | Liya MA        | Liya               |
+| ![Editing a markdown file for a talk](/images/photo/photo-ZhangZhenwei.jpg) | Zhenwei  ZHANG |                    |
+|                                                              | Ruiwen LIU     |                    |
+|                                                              | Taoyi QI       |                    |
+|                                                              | Siyu JIANG     |                    |
 
 
-|                                                              |         |                                                              |
-| ------------------------------------------------------------ | ------- | ------------------------------------------------------------ |
-| ![](C:\Users\admin\Documents\GitHub\huihongxun.github.io\images\photo\photo-MaLiya.jpg) | liya Ma | ZXXXXXfdfdsfdsfsdfsdfsdfsdfds fdfdsfdfsd fsfsdfsd fsfsdfsdfsd fsdfsdfsdfsd fsdfsdfsd fsdfsdfsd fsdfsdfsdfsd fsdfsdfsdfsd fsdfsdfsdfsd fsdfsdfsdfsd fsdfsdfsd fsdfsdfsd **Smart Energy Group, State Key Laboratory of Internet of Things for Smart City, University of Macau. The group includes Professors Yonghua Song, Man Chung Wong, Ningyi Dai, Hongcai Zhang, Keng Weng Lao, Minghao Wang, Hongxun Hui. Welcome to join our group!** |
-| ![Editing a markdown file for a talk](/images/photo/photo-MaLiya.jpg) |         |                                                              |
-|                                                              |         |                                                              |
-|                                                              |         |                                                              |
-|                                                              |         |                                                              |
+
+| Master students                         | Name        | Brief introduction |
+| --------------------------------------- | ----------- | :----------------- |
+| ![Editing a markdown file for a talk]() | Tong WU     |                    |
+| ![Editing a markdown file for a talk]() | Zifei WANG  |                    |
+|                                         | Lunshu CHEN |                    |
+|                                         | Kexin WANG  |                    |
 
 
 
-- Supervised or Co-supervised PhD students: 
-  
-  Liya Ma
-  
-  - Zhenwei Zhang
-  - Ruiwen Liu
-- Taoyi Qi
-  - Siyu Jiang
-  
-- Supervised or Co-supervised master students: 
-  - Tong Wu
-  - Zifei Wang
-  - Lunshu Chen
-  - Kexin Wang
-- Supervised or Co-supervised Postdoctoral Fellow: 
-  
-  - Dr. Sheng Wang
+| Postdoctoral Fellow | Name       | Brief introduction                                           |
+| ------------------- | ---------- | :----------------------------------------------------------- |
+|                     | Sheng WANG | Dr. Sheng Wang is a post-doctoral fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. He received his Ph.D. degree from Zhejiang University in 2021, and worked as a research fellow at State Grid (Suzhou) City & Energy Research Institute for one year. His research interests include the operation and evaluation of integrated energy systems and low-carbon strategies for urban development. He has (co)authored more than 20 papers and book chapters, and more than ten patents. |
+
+- 
 
 
 
