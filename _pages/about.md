@@ -34,15 +34,18 @@ Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_
 
 News
 ======
+- **[2023-07-14]**  Wu Tong successfully defended his thesis. He will join our group at the Zhuhai UM Research & Technology Research Institute as assistant researcher. Cheers! 
 - **[2023-06-12]**  New publication: H. Li, H. Hui and H. Zhang, "Blockchain-Assisted Virtual Power Plant Framework for Providing Operating Reserve with Various Distributed Energy Resources," to appear in *iEnergy*, 2023.
 - **[2023-06-02]**  New publication: S. Wang, H. Hui and J. Zhai, "Short-Term Reliability Assessment of Integrated Power-Gas Systems With Hydrogen Injections Using Universal Generating Function," to appear in *IEEE Transactions on Industry Applications*, 2023.
 - **[2023-05-20]**  New publication: S. Wang, H. Hui and P. Siano, "Resilience of Gas Interchangeability in Hydrogen-Blended Integrated Electricity and Gas Systems: A Transient Approach With Dynamic Gas Composition Tracking," to appear in *iEnergy*, 2023.
+- **[2023-05-15]**  Hong Jiatu and Chen Ge successfully defended their PhD dissertation. Cheers! 
 - **[2023-05-13]**  New publication: S. Wang, J. Zhai, H. Hui, Y. Ding and Y. Song, "Operational Reliability of Integrated Energy Systems Considering Gas Flow Dynamics and Demand-Side Flexibilities," to appear in *IEEE Transactions on Industrial Informatics*, 2023.
 - **[2023-05-02]**  Our Project "Regulation Technologies of Flexible Resources in Power-Communication Deep Coupling Network" get supported by *Science and Technology Development Fund* (FDCT), Macao, China.
 - **[2023-03-15]**  New publication: H. Li, H. Hui and H. Zhang, "Decentralized Energy Management of Microgrid Based on Blockchain-Empowered Consensus Algorithm with Collusion Prevention," to appear in *IEEE Transactions on Sustainable Energy*, 2023.
 - **[2023-02-23]**  New publication: Y. Chen, D. Qi, H. Hui, S. Yang, Y. Gu, Y. Yan, Y. Zheng and J. Zhang, "Self-triggered Coordination of Distributed Renewable Generators for Frequency Restoration in Islanded Microgrids: a Low Communication and Computation Strategy," to appear in *Advances in Applied Energy*, 2023.
 - **[2023-02-02]**  New publication: H. Li, H. Hui and H. Zhang, "Consensus-based Energy Management of Microgrid with Random Packet Drops," to appear in *IEEE Transactions on Smart Grid*, 2023.
 - **[2023-01-16]**  New publication: S. Wang, J. Zhai and H. Hui, "Operational Reliability Evaluation of Urban Multi-Energy Systems With Equivalent Energy Storage," to appear in *IEEE Transactions on Sustainable Energy*, 2023.
+- **[2022-12-19]**  Wu Tong (master student) won the **Best Oral Presentation Award** at the 2022 International Conference on Frontiers of Energy and Environment Engineering (CFEEE 2022). Cheers!
 - **[2022-11-29]**  New publication: S. Wang, H. Hui, Y. Ding, C. Ye and M. Zheng, "Operational Reliability Evaluation of Urban Multi-Energy Systems With Equivalent Energy Storage," to appear in *IEEE Transactions on Industry Applications*, 2022.
 - **[2022-10-06]**  New publication: H. Hui, Y. Chen, S. Yang, H. Zhang and T. Jiang, "Coordination Control of Distributed Generators and Load Resources for Frequency Restoration in Isolated Urban Microgrids," to appear in *Applied Energy*, 2022.
 - **[2022-09-08]**  UM, China Southern Power Grid build joint laboratory to promote research and development of carbon-neutral power and energy systems. [News](https://www.um.edu.mo/news-and-press-releases/press-release/detail/54110/)
