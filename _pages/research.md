@@ -1,7 +1,9 @@
+---
 layout: archive
 title: "Group & Research"
 permalink: /research/index.html
 author_profile: true
+---
 
 
 
