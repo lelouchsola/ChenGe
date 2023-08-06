@@ -17,32 +17,32 @@ The following table shows my supervised/co-supervised PhDs, Masters and Postdoct
 | ------------------------------------------------------------ | ------------------------ | :----------------------------------------------------------- |
 | ![Editing a markdown file for a talk](/group/photo-MaLiya.jpg) | Liya MA (2022.08)        | Liya Ma got both the Master degree and Bachelor degree in Electrical Engineering at North China Electric Power University in 2019 and 2022, respectively. Now, she is a PhD in Electrical and Computer Engineering at University of Macau. Her research focuses on the coordinated optimization of power-communication coupling networks for dispatching large-scale flexible resources. |
 | ![Editing a markdown file for a talk](/group/photo-ZhangZhenwei.jpg) | Zhenwei  ZHANG (2023.01) | Zhenwei Zhang got the Master degree in Shandong University, in Electrical Engineering in 2022. Now, he is a PhD in Electrical and Computer Engineering at University of Macau. His research focuses on the optimization technologies of urban integrated energy systems considering multiple factors, including distributed resources, flexible loads, and micro-climate. |
-|                                                              | Ruiwen LIU (2023.01)     | Ruiwen Liu got the Bachelor degree in Electrical Engineering at Huazhong University of Science and Technology in 2022. Now, he is a PhD in Electrical and Computer Engineering at University of Macau. His research focuses on the data valuation and distributed control of  massive flexible loads considering complex communication conditions. |
-|                                                              | Taoyi QI (2023.08)       | Taoyi Qi got both the Master degree and Bachelor degree in Electrical Engineering at Zhejiang University in 2020 and 2023, respectively. Now, he is a PhD in Electrical and Computer Engineering at University of Macau. His research focuses on the digital twin modeling, optimization and control technologies of distributed networks, commercial buildings, and flexible loads. |
+| ![Editing a markdown file for a talk](/group/photo-LiuRuiwen.jpg) | Ruiwen LIU (2023.01)     | Ruiwen Liu got the Bachelor degree in Electrical Engineering at Huazhong University of Science and Technology in 2022. Now, he is a PhD in Electrical and Computer Engineering at University of Macau. His research focuses on the data valuation and distributed control of  massive flexible loads considering complex communication conditions. |
+| ![Editing a markdown file for a talk](/group/photo-QiTaoyi.jpg) | Taoyi QI (2023.08)       | Taoyi Qi got both the Master degree and Bachelor degree in Electrical Engineering at Zhejiang University in 2020 and 2023, respectively. Now, he is a PhD in Electrical and Computer Engineering at University of Macau. His research focuses on the digital twin modeling, optimization and control technologies of distributed networks, commercial buildings, and flexible loads. |
 | ![Editing a markdown file for a talk](/group/photo-JiangSiyu.png) | Siyu JIANG (2023.08)     | Siyu Jiang got both the Master degree and Bachelor degree in School of New Energy at North China Electric Power University, in 2020 and 2023, respectively. Now, she is a PhD in Electrical and Computer Engineering at University of Macau. Her research focuses on the sensing-communication-computing-control integrated technologies for dispatching large-scale flexible resources. |
 
 
 
-| Master students | Name                  | Brief introduction |
-| --------------- | --------------------- | :----------------- |
-|                 | Tong WU (2021.08)     |                    |
-|                 | Zifei WANG (2021.08)  |                    |
-|                 | Lunshu CHEN (2022.08) |                    |
-|                 | Kexin WANG (2022.08)  |                    |
-|                 | Jiabao Li (2022.08)   |                    |
+| Master students                                              | Name                  | Brief introduction |
+| ------------------------------------------------------------ | --------------------- | :----------------- |
+|                                                              | Tong WU (2021.08)     |                    |
+|                                                              | Zifei WANG (2021.08)  |                    |
+|                                                              | Lunshu CHEN (2022.08) |                    |
+| ![Editing a markdown file for a talk](/group/photo-WangKexin.png) | Kexin WANG (2022.08)  |                    |
+|                                                              | Jiabao Li (2022.08)   |                    |
 
 
 
 | Postdoctoral Fellow                                          | Name                     | Brief introduction                                           |
 | ------------------------------------------------------------ | ------------------------ | :----------------------------------------------------------- |
 | ![Editing a markdown file for a talk](/group/photo-WangSheng.jpg) | Sheng WANG <br>(2022.06) | Dr. Sheng Wang is a post-doctoral fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. He received his Ph.D. degree from Zhejiang University in 2021, and worked as a research fellow at State Grid (Suzhou) City & Energy Research Institute for one year. His research interests include the operation and evaluation of integrated energy systems and low-carbon strategies for urban development. |
-|                                                              | Yuting QI (2023.05)      | Dr. Yuting Qi is a post-doctoral fellow with the Zhuhai UM Research & Technology Research Institute. |
+| ![Editing a markdown file for a talk](/group/photo-QiYuting.png) | Yuting QI (2023.05)      | Dr. Yuting Qi is a post-doctoral fellow with the Zhuhai UM Research & Technology Research Institute, University of Macau. She received her Ph.D. degree from Delft University of Technology in 2021, and received her Master degree and Bachelor degree in Management Science and Engineering at Chongqing Jiaotong University. Her research interest is the low-carbon buildings considering Internet of Things. |
 
 
 
 | Visiting Scholar / Research Assistant                        | Name                                | Brief introduction                                           |
 | ------------------------------------------------------------ | ----------------------------------- | :----------------------------------------------------------- |
-| ![Editing a markdown file for a talk](/group/photo-XieDunjian.png) | Dunjian XIE <br>(2023.02 - 2023.05) | Dunjian Xie is a visiting scholar with the State Key Laboratory of Internet of Things for Smart City, University of Macau. He is also pursuing the PhD in Electrical and Electronic Engineering at Nanyang Technological University (NTU), Singapore. Previously, he got the Master degree and Bachelor degree in Electrical Engineering at Zhejiang University in 2016 and 2019, respectively. |
+| ![Editing a markdown file for a talk](/group/photo-XieDunjian.jpg) | Dunjian XIE <br>(2023.02 - 2023.05) | Dunjian Xie is a visiting scholar with the State Key Laboratory of Internet of Things for Smart City, University of Macau. He is also pursuing the PhD in Electrical and Electronic Engineering at Nanyang Technological University (NTU), Singapore. Previously, he got the Master degree and Bachelor degree in Electrical Engineering at Zhejiang University in 2016 and 2019, respectively. |
 | ![Editing a markdown file for a talk](/group/photo-LinYujun.png) | Yujun LIN <br>(2023.08 - 2023.11)   | Yujun Lin is a visiting scholar with the State Key Laboratory of Internet of Things for Smart City, University of Macau. He is also pursuing the PhD in the School of Electrical and Electronic Engineering at Huazhong University of Science and Technology, Wuhan, China. Previously, he got the Bachelor degree in Electrical Engineering at Chongqing University in 2020. |
 
 
