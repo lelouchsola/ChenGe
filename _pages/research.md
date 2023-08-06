@@ -40,10 +40,10 @@ The following table shows my supervised/co-supervised PhDs, Masters and Postdoct
 
 
 
-| Visiting Scholar / Research Assistant | Name      | Brief introduction |
-| ------------------------------------- | --------- | :----------------- |
-| Dunjian XIE                           | (2022.06) |                    |
-| Yujun LIN                             | (2023.05) |                    |
+| Visiting Scholar / Research Assistant                        | Name                                | Brief introduction                                           |
+| ------------------------------------------------------------ | ----------------------------------- | :----------------------------------------------------------- |
+| ![Editing a markdown file for a talk](/group/photo-XieDunjian.png) | Dunjian XIE <br>(2023.02 - 2023.05) | Dunjian Xie is a visiting scholar with the State Key Laboratory of Internet of Things for Smart City, University of Macau. He is also pursuing the PhD in Electrical and Electronic Engineering at Nanyang Technological University (NTU), Singapore. Previously, he got the Master degree and Bachelor degree in Electrical Engineering at Zhejiang University in 2016 and 2019, respectively. |
+| ![Editing a markdown file for a talk](/group/photo-LinYujun.png) | Yujun LIN <br>(2023.08 - 2023.11)   | Yujun Lin is a visiting scholar with the State Key Laboratory of Internet of Things for Smart City, University of Macau. He is also pursuing the PhD in the School of Electrical and Electronic Engineering at Huazhong University of Science and Technology, Wuhan, China. Previously, he got the Bachelor degree in Electrical Engineering at Chongqing University in 2020. |
 
 
 
