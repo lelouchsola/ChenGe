@@ -1,20 +1,19 @@
 ---
 layout: archive
-title: "Group & Research"
+title: "Smart Energy Group"
 permalink: /research/index.html
 author_profile: true
 ---
 
 
 
-# Group
+**Smart Energy Group in SKL-IoTSC is consist of Prof. Yonghua Song, Man Chung Wong, Ningyi Dai, Hongcai Zhang, Keng Weng Lao, Minghao Wang, and Hongxun Hui. The following table shows my supervised/co-supervised Postdoctoral Fellows, PhDs, Masters and Research Assistants.**
 
-**Smart Energy Group, State Key Laboratory of Internet of Things for Smart City, University of Macau. The group includes Professors Yonghua Song, Man Chung Wong, Ningyi Dai, Hongcai Zhang, Keng Weng Lao, Minghao Wang, Hongxun Hui. Welcome to join our group!**
-
-The following table shows my supervised/co-supervised PhDs, Masters and Postdoctoral Fellows.
-
-| PhD students                                                 | Name                                | Brief introduction                                           |
+|                                                              |                                     |                                                              |
 | ------------------------------------------------------------ | ----------------------------------- | :----------------------------------------------------------- |
+|                                                              |                                     |                                                              |
+|                                                              |                                     |                                                              |
+| <td bgcolor=#8FBC8F> **PhD students**                        | **Name**                            | **Brief introduction**                                       |
 | ![Editing a markdown file for a talk](/group/photo-MaLiya.jpg){:height="100px" width="400px"} | Liya MA (2022.08)                   | Liya Ma got both the Master degree and Bachelor degree in Electrical Engineering at North China Electric Power University in 2019 and 2022, respectively. Now, she is a PhD in Electrical and Computer Engineering at University of Macau. Her research focuses on the coordinated optimization of power-communication coupling networks for dispatching large-scale flexible resources. |
 | ![Editing a markdown file for a talk](/group/photo-ZhangZhenwei.jpg) | Zhenwei  ZHANG (2023.01)            | Zhenwei Zhang got the Master degree in Electrical Engineering at Shandong University in 2022. Now, he is a PhD in Electrical and Computer Engineering at University of Macau. His research focuses on the optimization technologies of urban integrated energy systems considering multiple factors, including distributed resources, flexible loads, and micro-climate. |
 | ![Editing a markdown file for a talk](/group/photo-LiuRuiwen.png) | Ruiwen LIU (2023.01)                | Ruiwen Liu got the Bachelor degree in Electrical Engineering at Huazhong University of Science and Technology in 2022. Now, he is a PhD in Electrical and Computer Engineering at University of Macau. His research focuses on the data valuation and distributed control of  massive flexible loads considering complex communication conditions. |
@@ -39,7 +38,7 @@ The following table shows my supervised/co-supervised PhDs, Masters and Postdoct
 
 ------
 
-## Projects
+## Research Projects
 
 - Regulation Technologies of Flexible Resources in Power-Communication Deep Coupling Network (2023-2026), *Supported by Science and Technology Development Fund, Macao, China*, Project No. 0117/2022/A3, Budget 1,294,500.00, Principal Investigator.
 - Key technologies and applications of network-load-storage interaction of virtual power station in smart city (2022-2024), *Supported by Science and Technology Development Fund, Macao, China*, Co-Principal Investigator.
