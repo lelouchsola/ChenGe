@@ -11,7 +11,7 @@ author_profile: true
 
 
 | **Postdoctoral Fellow**                                     | **Name**                            | **Brief introduction**                                       |
-| ------------------------------------------------------------ | ----------------------------------- | :----------------------------------------------------------- |
+| ----------------------------------- | ----------------------------------- | :----------------------------------------------------------- |
 | ![Editing a markdown file for a talk](/group/photo-WangSheng.png) | Sheng WANG <br>(2022.06)            | Dr. Sheng Wang is a post-doctoral fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. He received his Ph.D. degree from Zhejiang University in 2021, and worked as a research fellow at State Grid (Suzhou) City & Energy Research Institute for one year. His research interests include the operation and evaluation of integrated energy systems and low-carbon strategies for urban development. |
 | ![Editing a markdown file for a talk](/group/photo-QiYuting.png) | Yuting QI <br>(2023.05)             | Dr. Yuting Qi is a post-doctoral fellow with the Zhuhai UM Research & Technology Research Institute, University of Macau. She received her Ph.D. degree from Delft University of Technology in 2021, and received her Master degree and Bachelor degree in Management Science and Engineering at Chongqing Jiaotong University. Her research interest is the low-carbon buildings considering Internet of Things. |
 | **PhD students**                                             | **Name**                            | **Brief introduction**                                  |
