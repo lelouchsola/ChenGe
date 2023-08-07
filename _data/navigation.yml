@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching & Talks"
+  - title: "Teaching"
     url: /teaching/    
 
   # - title: "Teaching" #此处两行改了，同时_config.yml文件的216行改了
@@ -12,10 +12,10 @@ main:
   # - title: "Portfolio"
   #  url: /portfolio/   #无
         
-  - title: "Professional Services"
+  - title: “Research”
     url: /professional/
     
-  - title: "Group & Research"  #有
+  - title: "Group"  #有
     url: /research/
     
   - title: "Education" #有
