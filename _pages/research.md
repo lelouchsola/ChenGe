@@ -10,8 +10,8 @@ author_profile: true
 **Smart Energy Group in SKL-IoTSC is consist of Prof. Yonghua Song, Man Chung Wong, Ningyi Dai, Hongcai Zhang, Keng Weng Lao, Minghao Wang, and Hongxun Hui. The following table shows my supervised/co-supervised Postdoctoral Fellows, PhDs, Masters and Research Assistants.**
 
 
-| **Postdoctoral Fellow**                                     | **Name**                            | **Brief introduction**                                       |
-| :-----------------------------------: | :----------------------------------- | :----------------------------------------------------------- |
+| <font color="#4169E1">**Postdoctoral Fellow**                                     | **Name**                            | **Brief introduction**                                       |
+| :-----------------------------------: | :-----------------------------------: | :-----------------------------------------------------------: |
 | ![Editing](/group/photo-WangSheng.png){:height="150px" width="150px"} | Sheng WANG <br>(2022.06)            | Dr. Sheng Wang is a post-doctoral fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. He received his Ph.D. degree and Bachelor degree from Zhejiang University in 2021 and 2016, respectively. He worked as a research fellow at State Grid (Suzhou) City & Energy Research Institute from 2021 to 2022. His research interests include the operation and evaluation of integrated energy systems and low-carbon strategies for urban development. |
 | ![Editing](/group/photo-QiYuting.png){:height="150px" width="150px"} | Yuting QI <br>(2023.05)             | Dr. Yuting Qi is a post-doctoral fellow with the Zhuhai UM Research & Technology Research Institute, University of Macau. She received her Ph.D. degree from Delft University of Technology in 2021, and received her Master degree and Bachelor degree in Management Science and Engineering at Chongqing Jiaotong University. Her research interest is the low-carbon buildings considering Internet of Things. |
 | **PhD students**                                             | **Name**                            | **Brief introduction**                                  |
@@ -36,7 +36,7 @@ author_profile: true
 
 ------
 
-## Research Projects
+# Research Projects
 
 - Regulation Technologies of Flexible Resources in Power-Communication Deep Coupling Network (2023-2026), *Supported by Science and Technology Development Fund, Macao, China*, Project No. 0117/2022/A3, Budget 1,294,500.00, Principal Investigator.
 - Key technologies and applications of network-load-storage interaction of virtual power station in smart city (2022-2024), *Supported by Science and Technology Development Fund, Macao, China*, Co-Principal Investigator.
