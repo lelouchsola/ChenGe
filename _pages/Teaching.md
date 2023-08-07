@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching & Talks"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
@@ -8,8 +8,6 @@ author_profile: true
 
 
 
-
-## Teaching
 
 - *Introduction to Internet of Things*, Department of Electrical and Computer Engineering, University of Macau, 2022.
 - *Power System Operation and Control* (Teaching Assistant of Prof. Yi Ding and Prof. Pierluigi Siano), College of Electrical Engineering, Zhejiang University, 2016.
@@ -20,7 +18,7 @@ author_profile: true
 
 ------
 
-## Presentations and Talks
+# Presentations and Talks
 
 - Distributed Control of Large-scale Thermostatically Controlled Loads for Improving Flexibility in Urban Power Systems, *Southeast University*, Nanjing, China, Aug. 15, 2022.
 - Regulation Capacity Evaluation of Large-scale Heterogeneous Residential Air Conditioning Loads, *IEEE Sustainable Power and Energy Conference (iSPEC)*, Nanjing, China, Dec. 23, 2021.
