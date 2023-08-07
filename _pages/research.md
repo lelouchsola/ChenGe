@@ -9,6 +9,11 @@ author_profile: true
 
 **Smart Energy Group in SKL-IoTSC is consist of Prof. Yonghua Song, Man Chung Wong, Ningyi Dai, Hongcai Zhang, Keng Weng Lao, Minghao Wang, and Hongxun Hui. The following table shows my supervised/co-supervised Postdoctoral Fellows, PhDs, Masters and Research Assistants.**
 
+<table>
+  <tr>
+<td rowspan=“2” bgcolor="#cc9999" align=“center” > <font face=“宋体” color="##FF0000"> 王</td>  </tr>
+</table>
+
 | <td bgcolor="#8FBC8F">**Postdoctoral Fellow**</td>                                      | **Name**                            | **Brief introduction**                                       |
 | ------------------------------------------------------------ | ----------------------------------- | :----------------------------------------------------------- |
 | ![Editing a markdown file for a talk](/group/photo-WangSheng.png) | Sheng WANG <br>(2022.06)            | Dr. Sheng Wang is a post-doctoral fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau. He received his Ph.D. degree from Zhejiang University in 2021, and worked as a research fellow at State Grid (Suzhou) City & Energy Research Institute for one year. His research interests include the operation and evaluation of integrated energy systems and low-carbon strategies for urban development. |
