@@ -17,7 +17,7 @@ author_profile: true
 
 <p align="right"><font size="5">Early Access</font></p>
 - 
-  Tianyun Xu, Tao Chen, Ciwei Gao and Hongxun Hui, "Intelligent Home Energy Management Strategy with Internal Pricing Mechanism Based on Multi-Agent Artificial Intelligence-of-Things," *IEEE Systems Journal*, Early Access, 2023.
+  Tianyun Xu, Tao Chen, Ciwei Gao and **Hongxun Hui**, "Intelligent Home Energy Management Strategy with Internal Pricing Mechanism Based on Multi-Agent Artificial Intelligence-of-Things," *IEEE Systems Journal*, Early Access, 2023.
 - Yule Sun, Taoyi Qi, Yuming Zhao, Chengjin Ye and **Hongxun Hui**, "Research on Location and Capacity Determination of Charging Stations under the Coupling of Road and Electrical Networks Considering V2G Potential of Electric Vehicles," *Integrated Intelligent Energy*, Early Access, 2023. [**<font color='Red'>2023综合智慧能源大会优秀论文一等奖</font>**]
 - Shaohua Yang, Keng-Weng Lao, Yulin Chen and **Hongxun Hui**, “[Resilient Distributed Control against False Data Injection Attacks for Demand Response](https://ieeexplore.ieee.org/abstract/document/10155170),” *IEEE Transactions on Power Systems*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_Resilient_Distributed_Control_Against_False_Data_Injection_Attacks_for_Demand_Response.pdf)]
 - Sheng Wang, Junyi Zhai, **Hongxun Hui**\*, Yi Ding and Yonghua Song, "[Operational Reliability of Integrated Energy Systems Considering Gas Flow Dynamics and Demand-Side Flexibilities](https://ieeexplore.ieee.org/document/10123959)," *IEEE Transactions on Industrial Informatics*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_Operational_Reliability_of_Integrated_Energy_Systems_Considering_Gas_Flow_Dynamics_and_Demand-Side_Flexibilities.pdf)]
