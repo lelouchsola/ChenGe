@@ -12,7 +12,7 @@ Dr. Hongxun Hui is a Research Assistant Professor with the State Key Laboratory 
 
 Dr. Hui is Young Editorial Board Member and Guest Editor of high level journals, including *Applied Energy*, *Engineering Reports*, *Integrated Intelligent Energy*, etc. He also serves as reviewer for many international journals, including *IEEE Transactions on Power Systems*, *IEEE Transactions on Smart Grid*, *IEEE Transactions on Sustainable Energy*, *IEEE Transactions on Industrial Informatics*, *Applied Energy*, etc. He was the recipient of the Outstanding Reviewer Award from the *Journal of Modern Power Systems and Clean Energy*. Besides, he got the *Best Paper Award* of IEEE iSPEC 2021, the *First Prize* and the *Best Innovation Award* of the 2021 National AI Application Competition in Power Dispatching, and *Excellent Paper Award* of the Integrated Smart Energy Conference 2022.
 
-Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20230613.pdf).
+Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20231018.pdf).
 
 
 
