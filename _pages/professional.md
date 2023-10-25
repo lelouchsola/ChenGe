@@ -24,7 +24,8 @@ author_profile: true
 
 - Young Editorial Board Member, Oct. 1, 2022 - Oct. 1, 2024, *[Applied Energy](https://www.journals.elsevier.com/applied-energy)*.
 - Young Editorial Board Member, Jul. 1, 2022 - Jun. 30, 2024, *[Engineering Reports](https://onlinelibrary.wiley.com/journal/25778196)*. [News](https://mp.weixin.qq.com/s/_w874Yys0uEbGtTd5kBrjg)
-- Guest Editor, *Integrated Intelligent Energy*, [Optimization, Control and Cyber-Security of Integrated Energy System](http://www.hdpower.net/CN/news/news89.shtml).
+- Guest Editor, *Engineering Reports*, [Optimal operation and control of smart energy systems](https://onlinelibrary.wiley.com/toc/25778196/2023/5/10).
+- Guest Editor, *Integrated Intelligent Energy*, [Optimal operation and control of smart energy systems](http://www.hdpower.net/CN/news/news89.shtml).
 - Guest Editor, *Integrated Intelligent Energy*, [Power System Demand-Side Load Regulation Technologies based on IoTs](https://huihongxun.github.io/files/Professional_Activities/综合智慧能源_2022年2期_电子版.pdf).
 - Special Session Chair, *[2022 4th International Conference on Smart Power & Internet Energy Systems](http://www.icspies.org/index.html)*. [News](https://mp.weixin.qq.com/s/i4-b8Mj30ufvDKmqNfPyiQ)
 - International Technical Committee, [*2022 7th Asia Conference on Power and Electrical Engineering*](https://www.acpee.net/index.html).
