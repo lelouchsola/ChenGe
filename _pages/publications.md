@@ -16,6 +16,7 @@ author_profile: true
 ## Papers
 
 <p align="right"><font size="5">Early Access</font></p>
+- Sheng Wang, **Hongxun Hui**\*, Yi Ding and Yonghua Song, "Long-Term Reliability Evaluation of Integrated Electricity and Gas Systems Considering Distributed Hydrogen Injections," *Applied Energy*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_Long-term reliability evaluation of IEGS.pdf)]
 - Sheng Wang, **Hongxun Hui**\*, Yi Ding and Junyi Zhai, "[Decentralized Demand Response for Energy Hubs in Integrated Electricity and Gas Systems Considering Linepack Flexibility](https://ieeexplore.ieee.org/document/10312799)," *IEEE Internet of Things Journal*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_Decentralized_DR_for_EHs_in_IEGS_Considering_Linepack_Flexibility.pdf)]
 - Tianyun Xu, Tao Chen, Ciwei Gao and **Hongxun Hui**, "[Intelligent Home Energy Management Strategy with Internal Pricing Mechanism Based on Multi-Agent Artificial Intelligence-of-Things](https://ieeexplore.ieee.org/document/10299585)," *IEEE Systems Journal*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_Intelligent_Home_Energy_Management_Strategy_With_Internal_Pricing_Mechanism.pdf)]
 - Yule Sun, Taoyi Qi, Yuming Zhao, Chengjin Ye and **Hongxun Hui**, "Research on Location and Capacity Determination of Charging Stations under the Coupling of Road and Electrical Networks Considering V2G Potential of Electric Vehicles," *Integrated Intelligent Energy*, Early Access, 2023. [**<font color='Red'>2023综合智慧能源大会优秀论文一等奖</font>**]
