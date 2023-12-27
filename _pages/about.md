@@ -7,15 +7,7 @@ author_profile: true
 ---
 
 
-
-Dr. Hongxun Hui is an Assistant Professor with the State Key Laboratory of Internet of Things for Smart City, University of Macau. Previously, he received a B. Eng. degree in 2015 and Ph.D. degree in 2020 both from the College of Electrical Engineering in Zhejiang University. From 2018 to 2019, he was a visiting scholar at the Advanced Research Institute in Virginia Tech and CURENT Center in University of Tennessee. From 2020 to 2023, he was a Post-doctoral Fellow and Research Assistant Professor with the State Key Laboratory of Internet of Things for Smart City, University of Macau. His research interests are in the Internet of Things technologies for smart energy, optimization of integrated energy systems, control of flexible resources, and energy economics. He has authored/co-authored 1 international book, more than 80 papers (including more than 40 SCI journal papers), and 16 issued patents. One of the papers was selected as the ESI Highly Cited Papers (Top 1%).
-
-Dr. Hongxun Hui is Young Editorial Board Member and Guest Editor of high level journals, including *Applied Energy*, *Engineering Reports*, *Integrated Intelligent Energy*, etc. He also serves as reviewer for many international journals, including *IEEE Transactions on Power Systems*, *IEEE Transactions on Smart Grid*, *IEEE Transactions on Sustainable Energy*, *IEEE Transactions on Industrial Informatics*, *Applied Energy*, etc. He was the recipient of the Outstanding Reviewer Award from the *Journal of Modern Power Systems and Clean Energy*. Besides, he was elected in the 1st batch of the *Academic Rising Star Program* for Ph.D. at Zhejiang University in 2018. he got the *Best Paper Award* of IEEE iSPEC 2021, the *First Prize* and the *Best Innovation Award* of the 2021 National AI Application Competition in Power Dispatching, and *Excellent Paper Award* of the Integrated Smart Energy Conference 2023.
-
-Here is Dr. Hongxun Hui's [CV](https://huihongxun.github.io/files/CV/HongxunHui_CV20231018.pdf).
-
-
-
+Dr. Ge Chen is a Postdoctoral Research Associate at Purdue ECE, working with Prof. Junjie Qin. Before joining Purdue, he completed his Ph.D. in Electric and Computer Engineering in 2023 from the State Key Laboratory of Internet of Things for Smart City, University of Macau, under the supervision of Prof. Yonghua Song and Prof. Hongcai Zhang. His research interests include power system optimizations and deep learning applications. He has (co)authored more than 20 papers.
 
 
 ------
