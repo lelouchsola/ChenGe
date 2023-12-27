@@ -14,7 +14,6 @@ author_profile: true
 
 - M.S., School of Energy and Power Engineering [[link](https://epe.xjtu.edu.cn/)]
 - Academic Advisor: Prof. Zhiguo Qu
-- Outstanding Graduates, Overall GPA: 3.88/4.0 (top 3%)
 
 **Huazhong University of Science and Technology (09/2011-06/2015)**
 
