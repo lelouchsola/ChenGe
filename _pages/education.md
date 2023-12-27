@@ -5,15 +5,21 @@ permalink: /education/index.html
 author_profile: true
 ---
 
-**Zhejiang University (09/2015-06/2020)** 
+**University of Macau (09/2019-06/2023)** 
 
-- Ph.D., College of Electrical Engineering [[link](http://ee.zju.edu.cn/)]
-- Academic Advisor: Prof. Yonghua Song and Prof. Yi Ding
+- Ph.D.,  [[link](https://skliotsc.um.edu.mo/)]
+- Academic Advisor: Prof. Yonghua Song and Prof. Hongcai Zhang
 
-**Zhejiang University (09/2011-06/2015)**
+**Xi'an Jiaotong University (09/2015-06/2018)**
 
-- B.Eng., College of Electrical Engineering [[link](http://ee.zju.edu.cn/)]
+- M.S., School of Energy and Power Engineering [[link](https://epe.xjtu.edu.cn/)]
+- Academic Advisor: Prof. Zhiguo Qu
 - Outstanding Graduates, Overall GPA: 3.88/4.0 (top 3%)
+
+**Xi'an Jiaotong University (09/2011-06/2015)**
+
+- B.Eng., School of Energy and Power Engineering [[link](https://epe.xjtu.edu.cn/)]
+- Outstanding Graduates, Overall GPA: 86./100 (top 10%)
 
 
 
