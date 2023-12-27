@@ -9,7 +9,7 @@ author_profile: true
 
 <p align="right"><font size="5">Early Access</font></p>
 
-- Yonghua Song, **Ge Chen***, and Hongcai Zhang, "Constraint learning-based optimal power dispatch for active distribution networks with extremely imbalanced data", to appear in *CSEE Journal of Power and Energy Systems*, 2023. 
+- Yonghua Song, **Ge Chen**\*, and Hongcai Zhang, "Constraint learning-based optimal power dispatch for active distribution networks with extremely imbalanced data", to appear in *CSEE Journal of Power and Energy Systems*, 2023. 
 - **Ge Chen**, Hongcai Zhang, and Yonghua Song, "[Efficient constraint learning for data-driven active distribution network operation](https://ieeexplore.ieee.org/abstract/document/10058008)" *IEEE Transactions on Power Systems*, Early Access, 2023. 
 - Peipei Yu, Hongcai Zhang, Yonghua Song, Hongxun Hui and **Ge Chen**, "[District Cooling System Control for Providing Operating Reserve Based on Safe Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10019581)," *IEEE Transactions on Power Systems*, Early Access, 2023. 
 - **Ge Chen**, Hongcai Zhang, Hongxun Hui, and Yonghua Song, "[Scheduling HVAC loads to promote renewable generation integration with a learning-based joint chance-constrained approach](https://ieeexplore.ieee.org/abstract/document/10058886)," *CSEE Journal of Power and Energy Systems*, Early Access, 2022.
@@ -24,7 +24,7 @@ author_profile: true
 
 - **Ge Chen**, Hongcai Zhang, Hongxun Hui and Yonghua Song, “ [Chance-constrained regulation capacity offering for HVAC systems under non-Gaussian uncertainties with mixture-model-based convexification](https://ieeexplore.ieee.org/document/9794334),” *IEEE Transactions on Smart Grid*, vol. 13, no. 6, pp. 4379-4391, Nov. 2022.
 
-- 宋永华， 张洪财， **陈戈***, "[智慧城市能源系统迈向碳中和的典型路径研究——以澳门特别行政区为例](http://old2022.bulletin.cas.cn/publish_article/2022/11/20221117.htm)," *中国科学院院刊*, vol. 37(11), 1650-1663, Nov. 2022.
+- 宋永华， 张洪财， **陈戈**\*, "[智慧城市能源系统迈向碳中和的典型路径研究——以澳门特别行政区为例](http://old2022.bulletin.cas.cn/publish_article/2022/11/20221117.htm)," *中国科学院院刊*, vol. 37(11), 1650-1663, Nov. 2022.
 
 - **Ge Chen**, Hongcai Zhang, and Yonghua Song, "[Chance-constrained DC optimal power flow with non-gaussian distributed uncertainties](https://ieeexplore.ieee.org/abstract/document/9916658)," *2022 IEEE Power & Energy Society General Meeting (PESGM)*, 2022, pp. 1-5. 
 

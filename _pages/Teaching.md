@@ -9,14 +9,8 @@ author_profile: true
 
 
 
-- *Introduction to Internet of Things*, Department of Electrical and Computer Engineering, University of Macau, 2022.
-- *Power System Operation and Control* (Teaching Assistant of Prof. Yi Ding and Prof. Pierluigi Siano), College of Electrical Engineering, Zhejiang University, 2016.
 
 
-
-
-
-------
 
 # Presentations and Talks
 
