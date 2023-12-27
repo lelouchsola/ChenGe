@@ -28,7 +28,7 @@ author_profile: true
 
 # Working Experiences
 
-**Purdue University (10/2022-Present)**
+**Purdue University (10/2023-Present)**
 
 - Postoctoral Research Associate, Elmore Family School of Electrical and Computer Engineering [[link](https://engineering.purdue.edu/ECE)]
 
