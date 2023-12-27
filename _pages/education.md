@@ -7,7 +7,7 @@ author_profile: true
 
 **University of Macau (09/2019-06/2023)** 
 
-- Ph.D.,  [[link](https://skliotsc.um.edu.mo/)]
+- Ph.D., State Key Laboratory of Internet of Things for Smart City [[link](https://skliotsc.um.edu.mo/)]
 - Academic Advisor: Prof. Yonghua Song and Prof. Hongcai Zhang
 
 **Xi'an Jiaotong University (09/2015-06/2018)**
