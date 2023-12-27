@@ -5,8 +5,6 @@ permalink: /education/index.html
 author_profile: true
 ---
 
-# Eduation Background
-
 **University of Macau (09/2019-06/2023)** 
 
 - Ph.D., State Key Laboratory of Internet of Things for Smart City [[link](https://skliotsc.um.edu.mo/)]
