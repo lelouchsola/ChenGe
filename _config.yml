@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Hongxun Hui"
+title                    : "Ge Chen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -57,19 +57,19 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               :
-facebook:
-  username               : huihongxun
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+# twitter:
+#   username               :
+# facebook:
+#   username               : huihongxun
+#   app_id                 :
+#   publisher              :
+# og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : Organization # Person or Organization (defaults to Person)
-  name                   : SGOOL # If the user or organization name differs from the site's name
-  links: "http://sgool.cn/en/index.php" # An array of links to social media profiles
+# social:
+#   type                   : Organization # Person or Organization (defaults to Person)
+#   name                   : SGOOL # If the user or organization name differs from the site's name
+#   links: "http://sgool.cn/en/index.php" # An array of links to social media profiles
 
 
 # Analytics
@@ -83,13 +83,13 @@ analytics:
 author:
   name             : "Welcome to my personal website!"
   avatar           : "profile.png"
-  bio              : "Research Building N21-2014d, University of Macau, Avenida da Universidade, Taipa, Macau 999078, CHINA. 中國澳門特別行政區，氹仔，大學大馬路，澳門大學科研大樓北21座-2014d"
+  bio              : "Seng Liang Wang Hall 2085, Purdue University, West Lafayette, 47906, USA"
   location         : #"xx"
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=m2L0mD4AAAAJ&hl=en"
-  email            : "hongxunhui@um.edu.mo"
-  researchgate     : "https://www.researchgate.net/profile/Hongxun-Hui"
+  googlescholar    : "https://scholar.google.com/citations?user=lZ__f4kAAAAJ&hl=en"
+  email            : "chen4911@purdue.edu"
+  researchgate     : #"https://www.researchgate.net/profile/Hongxun-Hui"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,14 +97,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "huihongxun"
+  github           : "https://github.com/lelouchsola?tab=repositories"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-2299-7580"
+  orcid            : "https://orcid.org/0000-0003-3376-9839"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
