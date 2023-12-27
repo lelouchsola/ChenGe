@@ -5,18 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Books
-
-- Yi Ding, Yonghua Song, **Hongxun Hui** and Changzheng Shao. [Integration of Air Conditioning and Heating into Modern Power Systems—Enabling Demand Response and Energy Efficiency](https://link.springer.com/book/10.1007%2F978-981-13-6420-4). *Springer*; 2019. [[PDF](https://huihongxun.github.io/files/2019_Book_IntegrationOfAirConditioningAn.pdf)]
-
-
-
-------
-
 ## Papers
 
 <p align="right"><font size="5">Early Access</font></p>
-- Sheng Wang, **Hongxun Hui**\*, Yi Ding and Yonghua Song, "Long-Term Reliability Evaluation of Integrated Electricity and Gas Systems Considering Distributed Hydrogen Injections," *Applied Energy*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_Long-term reliability evaluation of IEGS.pdf)]
+- **Ge Chen*, Hongcai Zhang, and Yonghua Song, "[Efficient constraint learning for data-driven active distribution network operation]" *IEEE Transactions on Power Systems*, Early Access, 2023. [[Link](https://ieeexplore.ieee.org/abstract/document/10058008)]
 - Sheng Wang, **Hongxun Hui**\*, Yi Ding and Junyi Zhai, "[Decentralized Demand Response for Energy Hubs in Integrated Electricity and Gas Systems Considering Linepack Flexibility](https://ieeexplore.ieee.org/document/10312799)," *IEEE Internet of Things Journal*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_Decentralized_DR_for_EHs_in_IEGS_Considering_Linepack_Flexibility.pdf)]
 - Yule Sun, Taoyi Qi, Yuming Zhao, Chengjin Ye and **Hongxun Hui**, "Research on Location and Capacity Determination of Charging Stations under the Coupling of Road and Electrical Networks Considering V2G Potential of Electric Vehicles," *Integrated Intelligent Energy*, Early Access, 2023. [**<font color='Red'>2023综合智慧能源大会优秀论文一等奖</font>**]
 - Shaohua Yang, Keng-Weng Lao, Yulin Chen and **Hongxun Hui**, “[Resilient Distributed Control against False Data Injection Attacks for Demand Response](https://ieeexplore.ieee.org/abstract/document/10155170),” *IEEE Transactions on Power Systems*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_Resilient_Distributed_Control_Against_False_Data_Injection_Attacks_for_Demand_Response.pdf)]
@@ -27,7 +19,7 @@ author_profile: true
 - Peipei Yu, Hongcai Zhang, Yonghua Song, **Hongxun Hui** and Ge Chen, "[District Cooling System Control for Providing Operating Reserve Based on Safe Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10019581)," *IEEE Transactions on Power Systems*, Early Access, 2023. [[PDF](https://huihongxun.github.io/files/2023_District_Cooling_System_Control_for_Providing_Operating_Reserve_Based_on_Safe_Deep_Reinforcement_Learn.pdf)]
 
 <p align="right"><font size="5">2023</font></p> 
-- Tianyun Xu, Tao Chen, Ciwei Gao and **Hongxun Hui**, "[Intelligent Home Energy Management Strategy with Internal Pricing Mechanism Based on Multi-Agent Artificial Intelligence-of-Things](https://ieeexplore.ieee.org/document/10299585)," *IEEE Systems Journal*,  vol. 17, no. 4, pp. 6045-6056, Dec. 2023. [[PDF](https://huihongxun.github.io/files/2023_Intelligent_Home_Energy_Management_Strategy_With_Internal_Pricing_Mechanism.pdf)]
+- Tianyun Xu, Tao Chen, Ciwei Gao and **Hongxun Hui**, "[Efficient constraint learning for data-driven active distribution network operation](https://ieeexplore.ieee.org/document/10299585)," *IEEE Transactions on Power Systems*,  vol. 17, no. 4, pp. 6045-6056, Dec. 2023. [[PDF](https://huihongxun.github.io/files/2023_Intelligent_Home_Energy_Management_Strategy_With_Internal_Pricing_Mechanism.pdf)]
 - **Hongxun Hui**\*, Tao Chen, Han Wang and Sheng Wang, "[Optimal operation and control of smart energy systems](https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.12790)," *Engineering Reports*, vol. 5, no. 10, e12790, Oct. 2023. [[PDF](https://huihongxun.github.io/files/2023_Optimal operation and control of smart energy systems-Engineering Reports.pdf)]
 - Ji Zhang, Zhixiang Zhang, Shiqiao Zhou, **Hongxun Hui**, Ning Mei and Han Yuan, “[Performance enhancement of the combined power-refrigeration cycle using a liquid-gas-gas ejector for ocean thermal energy conversion](https://www.sciencedirect.com/science/article/pii/S0196890423010348),” *Energy Conversion and Management*, vol. 296, p. 117688, Nov. 2023. [[PDF](https://huihongxun.github.io/files/2023_Performance enhancement of the combined power-refrigeration cycle.pdf)]
 - Sheng Wang, **Hongxun Hui**\* and Junyi Zhai, “[Short-Term Reliability Assessment of Integrated Power-Gas Systems With Hydrogen Injections Using Universal Generating Function](https://ieeexplore.ieee.org/document/10154141),” *IEEE Transactions on Industry Applications*, vol. 59, no. 5, pp. 5760-5773, Sep. 2023. [[PDF](https://huihongxun.github.io/files/2023_Short-Term_Reliability_Assessment_of_Integrated_Power-Gas_Systems_With_Hydrogen_Injections_Using_Universal_Generating_Function.pdf)]
