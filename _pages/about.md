@@ -1,26 +1,13 @@
 ---
 layout: archive
 permalink: /
-title: "Home Page - Hongxun Hui 惠紅勛"
+title: "Home Page - Ge Chen"
 excerpt: "About me"
 author_profile: true
 ---
 
 
 Dr. Ge Chen is a Postdoctoral Research Associate at Purdue ECE, working with Prof. Junjie Qin. Before joining Purdue, he completed his Ph.D. in Electric and Computer Engineering in 2023 from the State Key Laboratory of Internet of Things for Smart City, University of Macau, under the supervision of Prof. Yonghua Song and Prof. Hongcai Zhang. His research interests include power system optimizations and deep learning applications. He has (co)authored more than 20 papers.
-
-
-------
-
-# Open for Applications 2024
-
-**<font color='DodgerBlue'>Notice 1: PhD</font>** for undergraduate or master students for 2024/2025 academic year (2024/2025學年招收博士研究生，包括直博、普博) is open for application (DDL of 1st batch: October 31, 2024; DDL of 2nd batch: February 28, 2025), check the notice [here](https://grs.um.edu.mo/index.php/prospective-students/doctoral-degrees-programmes/). All successful applicants will be funded by the UM Phd [Scholarship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/um-macao-phd-scholarship/) (20,000MOP/Month) or [Assistantship](https://grs.um.edu.mo/index.php/prospective-students/phd-funding/phd-assistantship/) (12,500MOP/Month). Some other links: [推薦免試](https://grs.um.edu.mo/index.php/prospective-student/recommended-direct-admission/?lang=zh-hant); [UM-UK 3+1 program](https://www.um.edu.mo/news-centre/news-and-events/news-and-press-releases/detail/48008/)” (Imperial College London + University of Macau).
-
-**<font color='DodgerBlue'>Notice 2: Postdoc</font>** for Ph. D graduates from well-known universities who have obtained a Ph. D degree (no more than 3 years or expected to obtain Ph. D degree within 3 months). Universities recognized as the top 300 in the world or 985/211/double top universities are preferred. Please illustrate the excellent research experience, including awards, articles, patents, etc. The postdoc position keeps long-term recruitment (**長期招聘**). (25,000~40,000MOP/month)
-
-**<font color='DodgerBlue'>Notice 3: ZUMRI</font>** We are recruiting full-time Research Scientist, Postdoctoral Scholar and Engineers to join our R&D group at [Zhuhai UM Science & Technology Research Institute](http://www.zumri.cn/). 我們在[珠海澳大科技研究院](http://www.zumri.cn/)智慧城市研發中心設立產學研團隊，正招收全職研究員、博士後、工程師等，提供极具竞争力的薪酬和良好的科研与工作条件，歡迎發送簡歷咨詢或直接網上[申請](http://www.zumri.cn/recruitData/12_13_32.html)！
-
-
 
 ------
 
