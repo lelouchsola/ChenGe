@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-Dr. Ge Chen is a Postdoctoral Research Associate at Purdue ECE, working with Prof. Junjie Qin. Before joining Purdue, he completed his Ph.D. in Electric and Computer Engineering in 2023 from the State Key Laboratory of Internet of Things for Smart City, University of Macau, under the supervision of Prof. Yonghua Song and Prof. Hongcai Zhang. His research interests include power system optimizations and deep learning applications. He has (co)authored more than 20 papers.
+Dr. Ge Chen is a Postdoctoral Research Associate at Purdue ECE, working with [Prof. Junjie Qin](https://engineering.purdue.edu/people/junjie.qin.1). Before joining Purdue, he completed his Ph.D. in Electric and Computer Engineering in 2023 from the State Key Laboratory of Internet of Things for Smart City, University of Macau, under the supervision of Prof. Yonghua Song and Prof. Hongcai Zhang. His research interests include power system optimizations, transportation electrification, and deep learning applications in network systems. He has (co)authored more than 20 papers. He is awarded the “Scientific and Technological R&D Award for Postgraduates” by FDCT, Macao, China.
 
 ------
 
