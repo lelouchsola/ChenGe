@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Hongxun Hui"
+title                    : "Ge Chen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://lelouchsola.github.io/ChenGe/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lelouchsola.github.io/ChenGe # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lelouchsola/ChenGe"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -88,8 +88,8 @@ author:
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=m2L0mD4AAAAJ&hl=en"
-  email            : "hongxunhui@um.edu.mo"
-  researchgate     : "https://www.researchgate.net/profile/Hongxun-Hui"
+  email            : "chen4911@purdue.edu"
+  # researchgate     : "https://www.researchgate.net/profile/Hongxun-Hui"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "huihongxun"
+  github           : "lelouchsola"
   google_plus      :
   keybase          :
   instagram        :
