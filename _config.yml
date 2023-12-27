@@ -10,8 +10,8 @@
 locale                   : "China"
 title                    : "Ge Chen"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Ge Chen"
+description              : &description "Postoctoral Research Associate at Purdue ECE"
 url                      : https://lelouchsola.github.io/ChenGe # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lelouchsola/ChenGe"
@@ -74,7 +74,7 @@ yandex_site_verification :
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-142759536-1" #获取方式：https://support.google.com/analytics/answer/1008080?hl=zh-Hans
 
