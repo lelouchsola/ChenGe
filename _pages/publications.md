@@ -26,17 +26,17 @@ author_profile: true
 
 - 宋永华， 张洪财， **陈戈**\*, "[智慧城市能源系统迈向碳中和的典型路径研究——以澳门特别行政区为例](http://old2022.bulletin.cas.cn/publish_article/2022/11/20221117.htm)," *中国科学院院刊*, vol. 37(11), 1650-1663, Nov. 2022.
 
+- **Ge Chen**, Biao Yan, Hongcai Zhang, Dongdong Zhang, and Yonghua Song "[Time-efficient strategic power dispatch for district cooling systems considering evolution of cooling load uncertainties](https://ieeexplore.ieee.org/abstract/document/9535415/)," *CSEE Journal of Power and Energy Systems*, vol. 8, no. 5, pp. 1457-1467, Sep 2022
+
 - **Ge Chen**, Hongcai Zhang, and Yonghua Song, "[Chance-constrained DC optimal power flow with non-gaussian distributed uncertainties](https://ieeexplore.ieee.org/abstract/document/9916658)," *2022 IEEE Power & Energy Society General Meeting (PESGM)*, 2022, pp. 1-5. 
 
   <p align="right"><font size="5">2021</font></p>
 
-- Biao Yan, **Ge Chen**, Hongcai Zhang, and Man Chung Wong, “[Strategical district cooling system operation with accurate spatiotemporal consumption modeling](https://www.sciencedirect.com/science/article/abs/pii/S0378778821004497),” *Energy and Buildings*, 247(11), 111165, Sep 2021. 
-
-- **Ge Chen**, Biao Yan, Hongcai Zhang, Dongdong Zhang, and Yonghua Song "[Time-efficient strategic power dispatch for district cooling systems considering evolution of cooling load uncertainties](https://ieeexplore.ieee.org/abstract/document/9535415/)," *CSEE Journal of Power and Energy Systems*, vol. 8, no. 5, pp. 1457-1467, Sep 2022
-
 - **Ge Chen**, Hongcai Zhang, Hongxun Hui, Ningyi Dai, Yonghua Song, "[Scheduling thermostatically controlled loads to provide regulation capacity based on a learning-based optimal power flow model](https://ieeexplore.ieee.org/abstract/document/9502573)," *IEEE Transactions on Sustainable Energy*, vol. 12, no. 4, pp. 2459-2470, Oct. 2021.
 
-- **Ge Chen**, Hongcai Zhang, Hongxun Hui, Ningyi Dai, Yonghua Song, "[Topology-free optimal power dispatch for distribution network considering security constraints and flexible building thermal inertia](https://ieeexplore.ieee.org/abstract/document/9638204)," *2022 IEEE Power & Energy Society General Meeting (PESGM)*, 2022, pp. 1-5.
+- Biao Yan, **Ge Chen**, Hongcai Zhang, and Man Chung Wong, “[Strategical district cooling system operation with accurate spatiotemporal consumption modeling](https://www.sciencedirect.com/science/article/abs/pii/S0378778821004497),” *Energy and Buildings*, 247(11), 111165, Sep 2021. 
+
+- **Ge Chen**, Hongcai Zhang, Hongxun Hui, Ningyi Dai, Yonghua Song, "[Topology-free optimal power dispatch for distribution network considering security constraints and flexible building thermal inertia](https://ieeexplore.ieee.org/abstract/document/9638204)," *2021 IEEE Power & Energy Society General Meeting (PESGM)*, 2021, pp. 1-5.
 
 - **Ge Chen**, Hongcai Zhang, Hongxun Hui, and Yonghua Song, “[Fast Wasserstein-distance-based Distributionally Robust Chance-constrained Power Dispatch for Multi-zone HVAC Systems](https://ieeexplore.ieee.org/document/9417102),” *IEEE Transactions on Smart Grid*,  vol. 12, no. 5, pp. 4016-4028, Sep. 2021. 
 
