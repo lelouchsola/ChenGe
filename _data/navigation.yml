@@ -9,7 +9,7 @@ main:
   # - title: "Portfolio"
   #  url: /portfolio/   #无
         
-  - title: "Research"
+  - title: "Services"
     url: /professional/
     
   # - title: "Group"  #有

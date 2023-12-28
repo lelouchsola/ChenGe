@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Projects"
+title: "Academic Services"
 permalink: /professional/
 author_profile: true
 ---
