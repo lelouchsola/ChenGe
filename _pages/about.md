@@ -11,6 +11,8 @@ Dr. Ge Chen is a Postdoctoral Research Associate at Purdue ECE, working with [Pr
 
 Dr. Ge Chen serves as reviewer for many international journals, including *IEEE Transactions on Power Systems*, *IEEE Transactions on Smart Grid*, *IEEE Transactions on Sustainable Energy*, etc. 
 
+Contact: chen4911@purdue.edu
+
 ------
 
 News
