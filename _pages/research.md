@@ -12,7 +12,7 @@ author_profile: true
 - Equivalently reformulate the trained NN into mixed-integer linear constraints to replicate original hard constraints (e.g., power flow constraints)
 - Can be interpreted as a piecewise linearization method
 - [[Link](https://ieeexplore.ieee.org/abstract/document/9502573)] for replicating deterministic constraints, [[Link](https://ieeexplore.ieee.org/abstract/document/9956906)] for replicating probabilistic constraints, and [[Link](https://ieeexplore.ieee.org/abstract/document/10058008)] for its piecewise linearization-based intepretation  
-![Editing](constraint_learning.png){:height="400px" width="800px"} 
+![Editing](https://github.com/lelouchsola/ChenGe/blob/master/pages/constraint_learning.png?raw=true){:height="400px" width="800px"} 
 
 ## 2. Self-supervised learning proxy for ecomonic dispatch
 - Train a predictive model to predict optimal dispatch decisions
