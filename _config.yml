@@ -81,9 +81,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Welcome to my personal website!"
+  name             : "Welcome to Ge Chen personal website!"
   avatar           : "profile.png"
-  bio              : "Seng Liang Wang Hall 2085, Purdue University, West Lafayette, 47906, USA"
+  bio              : "chen4911@purdue.edu, Seng Liang Wang Hall 2085, Purdue University, West Lafayette, 47906, USA"
   location         : #"xx"
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

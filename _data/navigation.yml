@@ -12,8 +12,8 @@ main:
   - title: "Services"
     url: /professional/
     
-  # - title: "Group"  #有
-  #   url: /research/
+  - title: "Research"  #有
+    url: /research/
     
   - title: "Education" #有
     url: /education/
