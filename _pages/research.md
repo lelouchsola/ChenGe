@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-## 1. Neural piecewise linearization for hard constraints (Constraint learning)
+## 1. Learn to linearize hard constraints (Constraint learning)
 - Train a neural network (NN) that maps decisions to constraint violations (e.g., bus voltage or branch flow violation)
 - Equivalently reformulate the trained NN into mixed-integer linear constraints to replicate original hard constraints (e.g., power flow constraints)
 - Can be interpreted as a piecewise linearization method
