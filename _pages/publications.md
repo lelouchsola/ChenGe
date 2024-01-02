@@ -9,7 +9,7 @@ author_profile: true
 
 <p align="right"><font size="5">Early Access</font></p>
 
-- Yonghua Song, **Ge Chen**\*, and Hongcai Zhang, "Constraint learning-based optimal power dispatch for active distribution networks with extremely imbalanced data", to appear in *CSEE Journal of Power and Energy Systems*, 2023. 
+- Yonghua Song, **Ge Chen**\*, and Hongcai Zhang, "[Constraint learning-based optimal power dispatch for active distribution networks with extremely imbalanced data](https://ieeexplore.ieee.org/abstract/document/10375977)", *CSEE Journal of Power and Energy Systems*, Early Access, 2023. 
 - **Ge Chen**, Hongcai Zhang, Hongxun Hui, and Yonghua Song, "[Scheduling HVAC loads to promote renewable generation integration with a learning-based joint chance-constrained approach](https://ieeexplore.ieee.org/abstract/document/10058886)," *CSEE Journal of Power and Energy Systems*, Early Access, 2022.
 - Qilin Hou, **Ge Chen**, Ningyi Dai, and Hongcai Zhang, "[Distributionally Robust Chance-Constrained Optimization for Soft Open Points Operation in Active Distribution Networks](https://ieeexplore.ieee.org/document/9862539)," *CSEE Journal of Power and Energy Systems*, Early Access, 2022.
 
