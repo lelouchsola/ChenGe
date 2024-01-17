@@ -29,7 +29,7 @@ author_profile: true
 
 **Purdue University (10/2023-Present)**
 
-- Postoctoral Research Associate, Elmore Family School of Electrical and Computer Engineering [[link](https://engineering.purdue.edu/ECE)]
+- Postdoctoral Research Associate, Elmore Family School of Electrical and Computer Engineering [[link](https://engineering.purdue.edu/ECE)]
 
 
 
