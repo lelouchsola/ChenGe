@@ -10,6 +10,7 @@ author_profile: true
 - *IEEE Transactions on Power Systems*
 - *IEEE Transactions on Smart Grid*
 - *IEEE Transactions on Sustainable Energy*
+- *IEEE Transactions on Transportation Electrification*
 - *iEnergy*
 
 
