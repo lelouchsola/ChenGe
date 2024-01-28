@@ -11,6 +11,7 @@ author_profile: true
 - *IEEE Transactions on Smart Grid*
 - *IEEE Transactions on Sustainable Energy*
 - *IEEE Transactions on Transportation Electrification*
+- *International Journal of Electrical Power and Energy Systems*
 - *iEnergy*
 
 

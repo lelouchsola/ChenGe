@@ -17,6 +17,7 @@ Contact: chen4911@purdue.edu
 
 News
 ======
+- **[2024-01-25]**  Our paper titled "On the Choice of Loss Function in Learning-based Optimal Power Flow" has been accepted by the 2024 IEEE PES General Meeting. Cheers! 
 
 - **[2024-01-09]**  New publication: Bin Zou, **Ge Chen**, Hongcai Zhang, and Yonghua Song, "Improved Divergence-based Distributionally Robust Chance-Constrained Scheduling for Geo-distributed Internet Data Centers", to appear in *CSEE Journal of Power and Energy Systems*, 2023. 
 - **[2023-11-30]**  New publication: Yonghua Song, Ge Chen\*, and Hongcai Zhang, "[Constraint learning-based optimal power dispatch for active distribution networks with extremely imbalanced data](https://ieeexplore.ieee.org/abstract/document/10375977)," to appear in *CSEE Journal of Power and Energy Systems*, 2023.
