@@ -12,7 +12,7 @@ author_profile: true
 - **Ge Chen** and Junjie Qin, "[Neural Risk Limiting Dispatch in Power Networks: Formulation and Generalization Guarantees](https://arxiv.org/abs/2402.00772)"
 
 
-- **Ge Chen** and Junjie Qin, "[On the Choice of Loss Function in Learning-based Optimal Power Flow](https://arxiv.org/abs/2402.00773)", Accepted by *2022 IEEE Power & Energy Society General Meeting (PESGM)* 
+- **Ge Chen** and Junjie Qin, "[On the Choice of Loss Function in Learning-based Optimal Power Flow](https://arxiv.org/abs/2402.00773)", Accepted by *2024 IEEE Power & Energy Society General Meeting (PESGM)* 
 
 
 
