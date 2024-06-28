@@ -17,10 +17,17 @@ Contact: chen4911@purdue.edu
 
 News
 ======
+
+- **[2024-06-28]**  New publication: **Ge Chen**, Hongcai Zhang, Junjie Qin, and Yonghua Song, "Replicating Power Flow Constraints Using Only Smart Meter Data for Coordinating Flexible Sources in Distribution Network," to appear in *IEEE Transactions on Sustainable Energy*. Cheers!  
+
+- **[2024-06-27]**  I'm selected for the Purdue Travel Grant. Thanks!
+
+- **[2024-06-22]**  New publication: Guangxu Fei, Keng-Weng Lao, and **Ge Chen**, "Out-of-Distribution Detection of Unknown False Data Injection Attack With Logit-Normalized Bayesian ResNet," to appear in *IEEE Transactions on Smart Grid*. Cheers!
+
 - **[2024-01-25]**  Our paper titled "On the Choice of Loss Function in Learning-based Optimal Power Flow" has been accepted by the 2024 IEEE PES General Meeting. Cheers! 
 
 - **[2024-01-09]**  New publication: Bin Zou, **Ge Chen**, Hongcai Zhang, and Yonghua Song, "Improved Divergence-based Distributionally Robust Chance-Constrained Scheduling for Geo-distributed Internet Data Centers", to appear in *CSEE Journal of Power and Energy Systems*, 2023. 
-- **[2023-11-30]**  New publication: Yonghua Song, Ge Chen\*, and Hongcai Zhang, "[Constraint learning-based optimal power dispatch for active distribution networks with extremely imbalanced data](https://ieeexplore.ieee.org/abstract/document/10375977)," to appear in *CSEE Journal of Power and Energy Systems*, 2023.
+- **[2023-11-30]**  New publication: Yonghua Song, **Ge Chen**\*, and Hongcai Zhang, "[Constraint learning-based optimal power dispatch for active distribution networks with extremely imbalanced data](https://ieeexplore.ieee.org/abstract/document/10375977)," to appear in *CSEE Journal of Power and Energy Systems*, 2023.
 - **[2023-10-26]**  I joined Prof. Junjie Qin's group at Purdue ECE. Cheers! 
 - **[2023-06-15]**  I successfully defended my PhD dissertation. Thanks so much for everyone's help!
 

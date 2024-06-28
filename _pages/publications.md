@@ -18,6 +18,11 @@ author_profile: true
 
 <p align="right"><font size="5">Early Access</font></p>
 
+- **Ge Chen**, Hongcai Zhang, Junjie Qin, and Yonghua Song, "Replicating Power Flow Constraints Using Only Smart Meter Data for Coordinating Flexible Sources in Distribution Network," *IEEE Transactions on Sustainable Energy*, Early Access, 2024.
+
+
+- Guangxu Fei, Keng-Weng Lao, and **Ge Chen**, "[Out-of-Distribution Detection of Unknown False Data Injection Attack With Logit-Normalized Bayesian ResNet](https://ieeexplore.ieee.org/document/9956906)," *IEEE Transactions on Smart Grid*, Early Access, 2024. 
+
 - Bin Zou, **Ge Chen**, Hongcai Zhang, and Yonghua Song, "Improved Divergence-based Distributionally Robust Chance-Constrained Scheduling for Geo-distributed Internet Data Centers", to appear in  *CSEE Journal of Power and Energy Systems*, 2023. 
 
 - Yonghua Song, **Ge Chen**\*, and Hongcai Zhang, "[Constraint learning-based optimal power dispatch for active distribution networks with extremely imbalanced data](https://ieeexplore.ieee.org/abstract/document/10375977)", *CSEE Journal of Power and Energy Systems*, Early Access, 2023. 
@@ -30,7 +35,7 @@ author_profile: true
 - Peipei Yu, Hongcai Zhang, Yonghua Song, Hongxun Hui and **Ge Chen**, "[District Cooling System Control for Providing Operating Reserve Based on Safe Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10019581)," *IEEE Transactions on Power Systems*, vol. 39, no. 1, pp. 40-52, Jan. 2024. 
 
 
-<p align="right"><font size="5">2023</font></p> 
+<p align="right"><font size="5">2023</font></p>
 
 - **Ge Chen**, Hongcai Zhang, Hongxun Hui, and Yonghua Song, "[Deep-quantile-regression-based surrogate model for joint chance-constrained optimal power flow with renewable generation](https://ieeexplore.ieee.org/document/9956906)," *IEEE Transactions on Sustainable Energy*, vol. 14, no. 1, pp. 657-672, 2023. 
 - Zhihao Zhang, Ji Zhang, Han Yuan, **Ge Chen**, and Ning Mei, "[Performance improvement of the electric water heater by a waste heat recovery method with the thermoelectric effect](https://www.sciencedirect.com/science/article/abs/pii/S1359431122018440)," *Applied Thermal Engineering*, 222, 119914 2023. 
