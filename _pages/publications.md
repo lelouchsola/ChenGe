@@ -18,8 +18,7 @@ author_profile: true
 
 <p align="right"><font size="5">Early Access</font></p>
 
-- **Ge Chen**, Hongcai Zhang, Junjie Qin, and Yonghua Song, "Replicating Power Flow Constraints Using Only Smart Meter Data for Coordinating Flexible Sources in Distribution Network," *IEEE Transactions on Sustainable Energy*, Early Access, 2024.
-
+- **Ge Chen**, Junjie Qin, and Hongcai Zhang, "[Model-Free Self-Supervised Learning for Dispatching Distributed Energy Resources](https://ieeexplore.ieee.org/document/10700765)," *IEEE Transactions on IEEE Transactions on Smart Grid*, Early Access, 2024.
 
 - Guangxu Fei, Keng-Weng Lao, and **Ge Chen**, "[Out-of-Distribution Detection of Unknown False Data Injection Attack With Logit-Normalized Bayesian ResNet](https://ieeexplore.ieee.org/document/9956906)," *IEEE Transactions on Smart Grid*, Early Access, 2024. 
 
@@ -30,6 +29,8 @@ author_profile: true
 - Qilin Hou, **Ge Chen**, Ningyi Dai, and Hongcai Zhang, "[Distributionally Robust Chance-Constrained Optimization for Soft Open Points Operation in Active Distribution Networks](https://ieeexplore.ieee.org/document/9862539)," *CSEE Journal of Power and Energy Systems*, Early Access, 2022.
 
 <p align="right"><font size="5">2024</font></p> 
+
+- **Ge Chen**, Hongcai Zhang, Junjie Qin, and Yonghua Song, "[Replicating Power Flow Constraints Using Only Smart Meter Data for Coordinating Flexible Sources in Distribution Network](https://ieeexplore.ieee.org/document/10584114)," *IEEE Transactions on Sustainable Energy*, vol. 15, no. 4, pp. 2428-2443, Oct. 2024.
 
 - **Ge Chen**, Hongcai Zhang, and Yonghua Song, "[Efficient constraint learning for data-driven active distribution network operation](https://ieeexplore.ieee.org/abstract/document/10058008)" *IEEE Transactions on Power Systems*, vol. 39, no. 1, pp. 1472-1484, Jan. 2024. 
 - Peipei Yu, Hongcai Zhang, Yonghua Song, Hongxun Hui and **Ge Chen**, "[District Cooling System Control for Providing Operating Reserve Based on Safe Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10019581)," *IEEE Transactions on Power Systems*, vol. 39, no. 1, pp. 40-52, Jan. 2024. 
