@@ -18,7 +18,7 @@ Contact: chen4911@purdue.edu
 News
 ======
 
-- **[2024-09-30]**  New publication: **Ge Chen**, Junjie Qin, and Hongcai Zhang, "[Model-Free Self-Supervised Learning for Dispatching Distributed Energy Resources](https://ieeexplore.ieee.org/document/10700765)," to appear in *IEEE Transactions on Smart Grid*. Cheers!  
+- **[2024-09-30]**  New publication: **Ge Chen**, Junjie Qin, and Hongcai Zhang, "[Model-Free Self-Supervised Learning for Dispatching Distributed Energy Resources](https://ieeexplore.ieee.org/document/10700765)," to appear in *IEEE Transactions on Smart Grid*. Cheers!   
 
 - **[2024-06-28]**  New publication: **Ge Chen**, Hongcai Zhang, Junjie Qin, and Yonghua Song, "Replicating Power Flow Constraints Using Only Smart Meter Data for Coordinating Flexible Sources in Distribution Network," to appear in *IEEE Transactions on Sustainable Energy*. Cheers!  
 
