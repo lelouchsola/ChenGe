@@ -18,7 +18,7 @@ author_profile: true
 
 <p align="right"><font size="5">Early Access</font></p>
 
-- **Ge Chen**, Junjie Qin, and Hongcai Zhang, "[Model-Free Self-Supervised Learning for Dispatching Distributed Energy Resources](https://ieeexplore.ieee.org/document/10700765)," *IEEE Transactions on IEEE Transactions on Smart Grid*, Early Access, 2024.
+- **Ge Chen**, Junjie Qin, and Hongcai Zhang, "[Model-Free Self-Supervised Learning for Dispatching Distributed Energy Resources](https://ieeexplore.ieee.org/document/10700765)," *IEEE Transactions on Smart Grid*, Early Access, 2024.
 
 - Guangxu Fei, Keng-Weng Lao, and **Ge Chen**, "[Out-of-Distribution Detection of Unknown False Data Injection Attack With Logit-Normalized Bayesian ResNet](https://ieeexplore.ieee.org/document/9956906)," *IEEE Transactions on Smart Grid*, Early Access, 2024. 
 
