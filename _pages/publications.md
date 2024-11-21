@@ -18,6 +18,8 @@ author_profile: true
 
 <p align="right"><font size="5">Early Access</font></p>
 
+- **Ge Chen**, Hongcai Zhang, and Junjie Qin, "Adversarial Constraint Learning for Robust Dispatch of Distributed Energy Resources in Distribution Systems," to appear in *IEEE Transactions on Sustainable Energy*, Early Access, 2024.
+
 - **Ge Chen**, Junjie Qin, and Hongcai Zhang, "[Model-Free Self-Supervised Learning for Dispatching Distributed Energy Resources](https://ieeexplore.ieee.org/document/10700765)," *IEEE Transactions on Smart Grid*, Early Access, 2024.
 
 - Guangxu Fei, Keng-Weng Lao, and **Ge Chen**, "[Out-of-Distribution Detection of Unknown False Data Injection Attack With Logit-Normalized Bayesian ResNet](https://ieeexplore.ieee.org/document/9956906)," *IEEE Transactions on Smart Grid*, Early Access, 2024. 
@@ -64,9 +66,6 @@ author_profile: true
 <p align="right"><font size="5">2020</font></p>
 
 - **Ge Chen**, Biao Yan, Hongcai Zhang, and Yonghua Song, “[Optimal power dispatch for district cooling system considering cooling water transport delay](https://ieeexplore.ieee.org/document/8743401),” *2020 12th IEEE PES Asia-Pacific Power and Energy Engineering Conference*, pp. 1-5 Sep. 2020. 
-
-
-
 
 
 
