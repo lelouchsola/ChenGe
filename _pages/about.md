@@ -18,6 +18,9 @@ Contact: chen4911@purdue.edu
 News
 ======
 
+- **[2025-02-22]**  New publication:Bin Zhou, **Ge Chen**, Hongcai Zhang, and Yonghua Song, "Coordinating Geo-distributed Data Centers for Enhanced Participation in Frequency Regulation Services under Uncertainty," to appear in *Journal of Modern Power Systems and Clean Energy*. Cheers!   
+
+
 - **[2024-11-21]**  New publication:**Ge Chen**, Hongcai Zhang, and Yonghua Song, "[Adversarial Constraint Learning for Robust Dispatch of Distributed Energy Resources in Distribution Systems](https://ieeexplore.ieee.org/document/10766908)," to appear in *IEEE Transactions on Sustainable Energy*. Cheers!   
 
 - **[2024-09-30]**  New publication: **Ge Chen**, Junjie Qin, and Hongcai Zhang, "[Model-Free Self-Supervised Learning for Dispatching Distributed Energy Resources](https://ieeexplore.ieee.org/document/10700765)," to appear in *IEEE Transactions on Smart Grid*. Cheers!   
