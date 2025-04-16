@@ -18,6 +18,9 @@ Contact: chen4911@purdue.edu
 News
 ======
 
+- **[2025-04-15]**  New publication: **Ge Chen** and Junjie Qin, "Neural Risk Limiting Dispatch in Power Networks: Formulation and Generalization Guarantees," to appear in *IEEE Transactions on Power Systems*. Cheers!  
+
+
 - **[2025-02-22]**  New publication:Bin Zhou, **Ge Chen**, Hongcai Zhang, and Yonghua Song, "Coordinating Geo-distributed Data Centers for Enhanced Participation in Frequency Regulation Services under Uncertainty," to appear in *Journal of Modern Power Systems and Clean Energy*. Cheers!   
 
 
